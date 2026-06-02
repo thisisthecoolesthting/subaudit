@@ -56,15 +56,16 @@ const {
   sectionAdsCompact = false,
 } = Astro.props;
 
-const siteUrl = (import.meta.env.SITE as string | undefined)?.replace(/\/$/, '') || '';
+const PRODUCTION_ORIGIN = 'https://subaudit.org';
+const siteUrl = (import.meta.env.SITE as string | undefined)?.replace(/\/$/, '') || PRODUCTION_ORIGIN;
 const hero = home.homepage.heroImageUrl;
 const defaultOg = (image && image.length) ? image : (hero && hero.length ? hero : '/og-default.png');
 const og = defaultOg;
 const isAbs = (u: string) => /^https?:\/\//i.test(u);
 const fullTitle = title.includes(b.fullName) ? title : `${title} | ${b.fullName}`;
 const shareTitle = ogTitle?.trim() || fullTitle;
-const canonicalUrl = canonical ?? (siteUrl ? new URL(Astro.url.pathname, siteUrl + '/').toString() : Astro.url.href);
-const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toString() : og;
+const canonicalUrl = canonical ?? new URL(Astro.url.pathname, siteUrl + '/').toString();
+const ogImageUrl = isAbs(og) ? og : new URL(og, siteUrl + '/').toString();
 ---
 
 <!doctype html>
