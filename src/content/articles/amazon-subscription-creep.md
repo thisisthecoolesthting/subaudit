@@ -35,3 +35,11 @@ author: morgan-hale-subaudit
 If you have not used the benefit in **45 days** and cancellation is self-serve, cancel before the next billing window closes (often 24–48h before ship for S&S).
 
 Physical Subscribe & Save orders can still earn **product commission** via Associates when readers shop through our links; digital memberships use **bounty** links where applicable.
+
+## Related reading
+
+- [Spotify vs Amazon Music Unlimited when you already have Prime](/articles/6-spotify-vs-amazon-music-unlimited-when-you-already-have-prime/)
+- [How to audit every subscription on your credit card in one afternoon](/articles/1-how-to-audit-every-subscription-on-your-credit-card-in-one-afternoon/)
+- [Is Audible Worth It in 2026? Annualized Math](/articles/audible-worth-it-2026/)
+- [Prime Video channel add-ons: which stacks overlap with Netflix and Max](/articles/4-prime-video-channel-add-ons-which-stacks-overlap-with-netflix-and-max/)
+- [Amazon Subscribe and Save vs buying bulk: real annual math](/articles/2-amazon-subscribe-and-save-vs-buying-bulk-real-annual-math/)

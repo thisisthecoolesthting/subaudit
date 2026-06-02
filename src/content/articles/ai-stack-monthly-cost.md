@@ -40,3 +40,11 @@ We still publish TCO tables because readers search for them; we monetize **adjac
 We link **ConvertKit, Notion, Semrush, VPNs, and hosting** where commission terms are public. Every page lists the network and cookie window in the methodology footer.
 
 *Run the full audit:* [Subscription checklist](/pillars/subscription-audit).
+
+## Related reading
+
+- [Is Kindle Unlimited worth it if you use Libby](/articles/3-is-kindle-unlimited-worth-it-if-you-use-libby/)
+- [Amazon Subscribe and Save vs buying bulk: real annual math](/articles/2-amazon-subscribe-and-save-vs-buying-bulk-real-annual-math/)
+- [Is Audible Worth It in 2026? Annualized Math](/articles/audible-worth-it-2026/)
+- [How to audit every subscription on your credit card in one afternoon](/articles/1-how-to-audit-every-subscription-on-your-credit-card-in-one-afternoon/)
+- [Amazon Subscription Creep — Find and Kill Hidden Recurring Charges](/articles/amazon-subscription-creep/)

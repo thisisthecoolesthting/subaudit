@@ -22,7 +22,7 @@ const { Content } = await product.render();
 const b = home.brand;
 const siteYmyl = (home as { persona?: { ymyl?: boolean } }).persona?.ymyl === true;
 const o = siteOrigin();
-const defSlug = (home as { defaultAuthorSlug?: string }).defaultAuthorSlug || 'default-author';
+const defSlug = (home as { defaultAuthorSlug?: string }).defaultAuthorSlug || 'morgan-hale-subaudit';
 const authorSlug = (data as { author?: string }).author ?? defSlug;
 const author = await getEntry('authors', authorSlug);
 

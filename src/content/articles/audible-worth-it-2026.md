@@ -35,3 +35,11 @@ Divide **annual membership cost** by **hours you actually finish**. If that exce
 Before any trial: note **renewal date**, **plan tier**, and whether **credits roll**. Set a calendar reminder **two days before** renewal.
 
 Affiliate disclosure: SubAudit may earn **Amazon Associates bounty** income on qualifying Audible signups. We do not accept sponsorship from Audible.
+
+## Related reading
+
+- [Audible credits vs Audible Plus catalog: stop paying for the wrong tier](/articles/5-audible-credits-vs-audible-plus-catalog-stop-paying-for-the-wrong-tier/)
+- [Amazon Subscription Creep — Find and Kill Hidden Recurring Charges](/articles/amazon-subscription-creep/)
+- [AI Stack Monthly Cost — ChatGPT, Claude, Cursor, and Copilot TCO](/articles/ai-stack-monthly-cost/)
+- [Is Kindle Unlimited worth it if you use Libby](/articles/3-is-kindle-unlimited-worth-it-if-you-use-libby/)
+- [Amazon Subscribe and Save vs buying bulk: real annual math](/articles/2-amazon-subscribe-and-save-vs-buying-bulk-real-annual-math/)

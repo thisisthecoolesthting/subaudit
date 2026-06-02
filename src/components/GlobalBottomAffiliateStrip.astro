@@ -13,8 +13,8 @@ import {
 import { amazonAsinImageUrl } from '@/utils/product-image';
 import home from '@/data/spawn-home.json';
 
-const siteBrand = home.brand?.fullName || 'SubAudit';
-const associateTag = import.meta.env.PUBLIC_ASSOCIATE_TAG ?? 'subaudit-20';
+const siteBrand = home.brand?.fullName || 'RefillWatch';
+const associateTag = import.meta.env.PUBLIC_ASSOCIATE_TAG ?? 'refillwatch-20';
 
 const catalog = await getCollection('products', ({ data }) => data.status === 'published');
 

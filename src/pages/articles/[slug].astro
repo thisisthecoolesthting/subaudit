@@ -26,7 +26,7 @@ const siteYmyl =
 const o = siteOrigin();
 const editorialAuthor = (home as { editorial?: { author_slug?: string } }).editorial?.author_slug;
 const defSlug =
-  editorialAuthor || (home as { defaultAuthorSlug?: string }).defaultAuthorSlug || '_default';
+  editorialAuthor || (home as { defaultAuthorSlug?: string }).defaultAuthorSlug || 'morgan-hale-subaudit';
 const authorSlug = entry.data.author ?? defSlug;
 const author = await getEntry('authors', authorSlug);
 const relatedProducts = await getRelatedProductsFromBody(entry.body);

@@ -13,7 +13,7 @@ const { entry } = Astro.props;
 const { Content } = await entry.render();
 const b = home.brand;
 const o = siteOrigin();
-const defSlug = (home as { defaultAuthorSlug?: string }).defaultAuthorSlug || 'default-author';
+const defSlug = (home as { defaultAuthorSlug?: string }).defaultAuthorSlug || 'morgan-hale-subaudit';
 const allArticles = await getCollection('articles', ({ data }) => data.status === 'published');
 const allPillars = await getCollection('pillars', ({ data }) => data.status === 'published');
 const byThem = {
