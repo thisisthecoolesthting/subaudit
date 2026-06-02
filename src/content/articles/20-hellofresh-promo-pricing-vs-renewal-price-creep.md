@@ -124,6 +124,14 @@ If you’re in for the long haul, factor in renewal pricing into your budget upf
 
 ---
 
+## Related reading
+
+- [Annual vs monthly billing discount: true savings calculator mindset](/articles/37-annual-vs-monthly-billing-discount-true-savings-calculator-mindset/)
+- [VPN subscriptions you forgot: NordVPN vs Surfshark annual cost](/articles/10-vpn-subscriptions-you-forgot-nordvpn-vs-surfshark-annual-cost/)
+- [Amazon Prime annual vs monthly: when the trial trap hits](/articles/31-amazon-prime-annual-vs-monthly-when-the-trial-trap-hits/)
+- [Chewy Autoship vs warehouse club pet food unit price](/articles/16-chewy-autoship-vs-warehouse-club-pet-food-unit-price/)
+- [ChatGPT Plus vs Claude Pro: monthly TCO for a solo creator](/articles/7-chatgpt-plus-vs-claude-pro-monthly-tco-for-a-solo-creator/)
+
 ## FAQ
 
 ### How long do HelloFresh promos usually last?

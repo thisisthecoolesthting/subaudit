@@ -130,6 +130,14 @@ If your means allow, there’s value in a hybrid approach. Using the app for on-
 | Cost Predictability         | High                          | Lower if frozen, but often unpredictable |
 | Travel/Commutes             | None                          | Requires time/cost investment   |
 
+## Related reading
+
+- [Amazon Prime annual vs monthly: when the trial trap hits](/articles/31-amazon-prime-annual-vs-monthly-when-the-trial-trap-hits/)
+- [Spotify vs Amazon Music Unlimited when you already have Prime](/articles/6-spotify-vs-amazon-music-unlimited-when-you-already-have-prime/)
+- [Is Audible Worth It in 2026? Annualized Math](/articles/audible-worth-it-2026/)
+- [Audible credits vs Audible Plus catalog: stop paying for the wrong tier](/articles/5-audible-credits-vs-audible-plus-catalog-stop-paying-for-the-wrong-tier/)
+- [Prime Video channel add-ons: which stacks overlap with Netflix and Max](/articles/4-prime-video-channel-add-ons-which-stacks-overlap-with-netflix-and-max/)
+
 ## FAQ
 
 ### Is the Peloton app worth it without the Peloton bike?

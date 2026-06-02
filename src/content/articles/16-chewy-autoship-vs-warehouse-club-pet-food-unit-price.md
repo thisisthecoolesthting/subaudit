@@ -137,6 +137,14 @@ Between balancing dollars, delivery, and your pet’s needs, my experience shows
 
 ---
 
+## Related reading
+
+- [Amazon Subscribe and Save vs buying bulk: real annual math](/articles/2-amazon-subscribe-and-save-vs-buying-bulk-real-annual-math/)
+- [Amazon Prime annual vs monthly: when the trial trap hits](/articles/31-amazon-prime-annual-vs-monthly-when-the-trial-trap-hits/)
+- [HelloFresh promo pricing vs renewal price creep](/articles/20-hellofresh-promo-pricing-vs-renewal-price-creep/)
+- [Annual vs monthly billing discount: true savings calculator mindset](/articles/37-annual-vs-monthly-billing-discount-true-savings-calculator-mindset/)
+- [Meal kit subscriptions vs grocery delivery fees](/articles/15-meal-kit-subscriptions-vs-grocery-delivery-fees/)
+
 ## FAQ
 
 ### Is Chewy Autoship cheaper than buying at a warehouse club?

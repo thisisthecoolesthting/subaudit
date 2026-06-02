@@ -126,6 +126,14 @@ Below is a streaming decision checklist I developed based on my FP&A background 
 | Prefer simple consolidated billing?             | Yes                     | No                    |
 | Tracking and auditing spends regularly?         | Yes                     | Yes (more frequent)    |
 
+## Related reading
+
+- [Amazon Prime annual vs monthly: when the trial trap hits](/articles/31-amazon-prime-annual-vs-monthly-when-the-trial-trap-hits/)
+- [Streaming sports passes: season-length vs monthly add-on](/articles/38-streaming-sports-passes-season-length-vs-monthly-add-on/)
+- [YouTube Premium family plan vs ad-supported tier](/articles/33-youtube-premium-family-plan-vs-ad-supported-tier/)
+- [Prime Video channel add-ons: which stacks overlap with Netflix and Max](/articles/4-prime-video-channel-add-ons-which-stacks-overlap-with-netflix-and-max/)
+- [Cancel Hulu without losing watchlist access: steps and timing](/articles/11-cancel-hulu-without-losing-watchlist-access-steps-and-timing/)
+
 ## FAQ
 
 ### Is the Disney bundle cheaper than buying Disney+, Hulu, and ESPN+ separately?

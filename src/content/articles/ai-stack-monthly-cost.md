@@ -48,3 +48,10 @@ We link **ConvertKit, Notion, Semrush, VPNs, and hosting** where commission term
 - [Is Audible Worth It in 2026? Annualized Math](/articles/audible-worth-it-2026/)
 - [How to audit every subscription on your credit card in one afternoon](/articles/1-how-to-audit-every-subscription-on-your-credit-card-in-one-afternoon/)
 - [Amazon Subscription Creep — Find and Kill Hidden Recurring Charges](/articles/amazon-subscription-creep/)
+
+## Products in this guide
+
+- [The Creeps](/products/161928121x-the-creeps/)
+- [Roku Express 4K+ | Roku Streaming Device 4K/HDR with Voice Remote, Free & Live TV](/products/b0916tkff2-roku-express-4k-roku-streaming-device-4k-hdr-with-voice-remo/)
+- [Chromecast with Google TV (4K)- Streaming Stick Entertainment on Your TV with Voice Search - Watch Movies, Shows, and Live TV in 4K HDR - Sky Blue with Accessories](/products/b0cmzrrbjt-chromecast-with-google-tv-4k-streaming-stick-entertainment-o/)
+- [The Creeps](/products/b0dd7zxmm9-the-creeps/)

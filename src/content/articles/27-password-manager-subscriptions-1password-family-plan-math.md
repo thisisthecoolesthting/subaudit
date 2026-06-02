@@ -137,6 +137,14 @@ To help you audit your password manager subscription spending, here’s a simple
 
 Taking these steps helped me reduce my household’s subscription costs by over 20%, while maintaining strong password safety and usability for every member.
 
+## Related reading
+
+- [Annual vs monthly billing discount: true savings calculator mindset](/articles/37-annual-vs-monthly-billing-discount-true-savings-calculator-mindset/)
+- [YouTube Premium family plan vs ad-supported tier](/articles/33-youtube-premium-family-plan-vs-ad-supported-tier/)
+- [Amazon Subscription Creep — Find and Kill Hidden Recurring Charges](/articles/amazon-subscription-creep/)
+- [How to find hidden subscriptions in Apple and Google play stores](/articles/35-how-to-find-hidden-subscriptions-in-apple-and-google-play-stores/)
+- [VPN subscriptions you forgot: NordVPN vs Surfshark annual cost](/articles/10-vpn-subscriptions-you-forgot-nordvpn-vs-surfshark-annual-cost/)
+
 ## FAQ
 
 ### How many users are included in the 1Password Family Plan?

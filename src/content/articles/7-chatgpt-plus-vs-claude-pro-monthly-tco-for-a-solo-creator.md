@@ -97,6 +97,14 @@ If you’re auditing your AI subscriptions, start by comparing what your typical
 
 Document non-monetary factors like how each AI’s style and capabilities align with your workflow. Since rising AI tool costs are becoming a household budgeting topic (think Amazon Subscribe & Save stacking fees), adopting a conservative, hands-on billing review habit helps every creator keep expenses optimized.
 
+## Related reading
+
+- [AI Stack Monthly Cost — ChatGPT, Claude, Cursor, and Copilot TCO](/articles/ai-stack-monthly-cost/)
+- [Is Audible Worth It in 2026? Annualized Math](/articles/audible-worth-it-2026/)
+- [Microsoft 365 vs Google One storage: subscription stack audit](/articles/13-microsoft-365-vs-google-one-storage-subscription-stack-audit/)
+- [Peloton app vs gym membership: honest annual comparison](/articles/19-peloton-app-vs-gym-membership-honest-annual-comparison/)
+- [Xbox Game Pass vs buying games: break-even hours](/articles/18-xbox-game-pass-vs-buying-games-break-even-hours/)
+
 ## FAQ
 
 ### What exactly does ChatGPT Plus cost per month?

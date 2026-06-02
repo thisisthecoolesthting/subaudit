@@ -118,6 +118,14 @@ Fire TV delivers a smoother, more integrated Amazon experience, ideal if you’r
 
 If you’re a dedicated minimalist or prefer to avoid platform bias, Roku delivers. If you want Amazon ecosystem convenience and voice assistant smarts, Fire TV fits best, but keep an eye on add-ons and recurring costs.
 
+## Related reading
+
+- [Spotify vs Amazon Music Unlimited when you already have Prime](/articles/6-spotify-vs-amazon-music-unlimited-when-you-already-have-prime/)
+- [HelloFresh promo pricing vs renewal price creep](/articles/20-hellofresh-promo-pricing-vs-renewal-price-creep/)
+- [Dropbox vs OneDrive for backup redundancy tax](/articles/23-dropbox-vs-onedrive-for-backup-redundancy-tax/)
+- [Amazon Kids+ vs YouTube Kids premium: family stack audit](/articles/21-amazon-kids-vs-youtube-kids-premium-family-stack-audit/)
+- [Microsoft 365 vs Google One storage: subscription stack audit](/articles/13-microsoft-365-vs-google-one-storage-subscription-stack-audit/)
+
 ## FAQ
 
 ### Can I use Netflix or Disney+ equally well on Roku and Fire TV?

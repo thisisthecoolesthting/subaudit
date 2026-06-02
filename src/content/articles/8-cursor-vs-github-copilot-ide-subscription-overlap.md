@@ -144,6 +144,14 @@ This methodical audit reduces subscription creep and clarifies when you benefit 
 
 ---
 
+## Related reading
+
+- [AI Stack Monthly Cost — ChatGPT, Claude, Cursor, and Copilot TCO](/articles/ai-stack-monthly-cost/)
+- [Cloud backup stack audit: Backblaze plus iCloud double pay](/articles/28-cloud-backup-stack-audit-backblaze-plus-icloud-double-pay/)
+- [Is Audible Worth It in 2026? Annualized Math](/articles/audible-worth-it-2026/)
+- [News paywalls stack: how many $10/mo sources is too many](/articles/30-news-paywalls-stack-how-many-10-mo-sources-is-too-many/)
+- [Microsoft 365 vs Google One storage: subscription stack audit](/articles/13-microsoft-365-vs-google-one-storage-subscription-stack-audit/)
+
 ## FAQ
 
 ### What are the main differences between Cursor and GitHub Copilot?

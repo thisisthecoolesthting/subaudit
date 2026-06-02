@@ -144,6 +144,14 @@ From my FP&A background reviewing recurring costs, I always advise tracking your
 
 ---
 
+## Related reading
+
+- [Amazon Subscribe and Save vs buying bulk: real annual math](/articles/2-amazon-subscribe-and-save-vs-buying-bulk-real-annual-math/)
+- [HelloFresh promo pricing vs renewal price creep](/articles/20-hellofresh-promo-pricing-vs-renewal-price-creep/)
+- [How to audit every subscription on your credit card in one afternoon](/articles/1-how-to-audit-every-subscription-on-your-credit-card-in-one-afternoon/)
+- [Tax software subscriptions: TurboTax vs H&R Block online](/articles/26-tax-software-subscriptions-turbotax-vs-h-r-block-online/)
+- [How to find hidden subscriptions in Apple and Google play stores](/articles/35-how-to-find-hidden-subscriptions-in-apple-and-google-play-stores/)
+
 ## FAQ
 
 ### Are meal kits cheaper than grocery delivery with fees?

@@ -141,6 +141,14 @@ Turning subscription management into this cyclical habit reduces financial surpr
 
 ---
 
+## Related reading
+
+- [SaaS free trials that auto-convert: calendar reminder template](/articles/36-saas-free-trials-that-auto-convert-calendar-reminder-template/)
+- [How to audit every subscription on your credit card in one afternoon](/articles/1-how-to-audit-every-subscription-on-your-credit-card-in-one-afternoon/)
+- [Tax software subscriptions: TurboTax vs H&R Block online](/articles/26-tax-software-subscriptions-turbotax-vs-h-r-block-online/)
+- [VPN subscriptions you forgot: NordVPN vs Surfshark annual cost](/articles/10-vpn-subscriptions-you-forgot-nordvpn-vs-surfshark-annual-cost/)
+- [Microsoft 365 vs Google One storage: subscription stack audit](/articles/13-microsoft-365-vs-google-one-storage-subscription-stack-audit/)
+
 ## FAQ
 
 ### What is the best way to organize a subscription audit spreadsheet?

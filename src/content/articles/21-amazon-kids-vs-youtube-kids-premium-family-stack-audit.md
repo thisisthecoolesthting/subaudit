@@ -106,6 +106,14 @@ If you lean toward a diverse media diet — books, games, and videos — and hav
 
 Both services deserve a spot in a thoughtfully curated family stack, but understanding these nuances helps ensure you’re not overpaying for unused features or missing content formats your kids love.
 
+## Related reading
+
+- [YouTube Premium family plan vs ad-supported tier](/articles/33-youtube-premium-family-plan-vs-ad-supported-tier/)
+- [Amazon Subscription Creep — Find and Kill Hidden Recurring Charges](/articles/amazon-subscription-creep/)
+- [Prime Video channel add-ons: which stacks overlap with Netflix and Max](/articles/4-prime-video-channel-add-ons-which-stacks-overlap-with-netflix-and-max/)
+- [Microsoft 365 vs Google One storage: subscription stack audit](/articles/13-microsoft-365-vs-google-one-storage-subscription-stack-audit/)
+- [News paywalls stack: how many $10/mo sources is too many](/articles/30-news-paywalls-stack-how-many-10-mo-sources-is-too-many/)
+
 ## FAQ
 
 ### Is Amazon Kids+ available on non-Amazon devices?
@@ -131,3 +139,10 @@ YouTube Kids Premium offers robust parental controls allowing you to disable sea
 ---
 
 By regularly auditing your family’s subscriptions with an eye toward device compatibility, content value, and cost, you can keep your stack lean and truly tailored. Both Amazon Kids+ and YouTube Kids Premium offer unique strengths that can enrich your family’s digital experience when selected thoughtfully.
+
+## Products in this guide
+
+- [Roku Ultra streaming device](/products/b0846gkfncq-roku-ultra/)
+- [Amazon Fire TV Stick 4K streaming device](/products/b09dv14zzl-fire-tv-stick-4k/)
+- [How To Cancel Britbox Subscription for Prime Members Guide](/products/b0dnqvt4qx-how-to-cancel-britbox-subscription-for-prime-members-guide/)
+- [Roku Streaming Stick Plus - 4K & HDR Roku Streaming Device for TV with Voice Remote - Free & Live TV](/products/b0dxy833hv-roku-streaming-stick-plus-4k-hdr-roku-streaming-device-for-t/)

@@ -118,6 +118,14 @@ Here’s a quick checklist you can use before deciding or renewing:
 | Audit representation desired?     | Pay extra for full defense              | Can add in-person audit support        |
 | Preference for mobile filing?     | Excellent app                          | Good app, slightly less refined        |
 
+## Related reading
+
+- [Subscription audit spreadsheet template (categories and renewal dates)](/articles/40-subscription-audit-spreadsheet-template-categories-and-renewal-dates/)
+- [SaaS free trials that auto-convert: calendar reminder template](/articles/36-saas-free-trials-that-auto-convert-calendar-reminder-template/)
+- [Microsoft 365 vs Google One storage: subscription stack audit](/articles/13-microsoft-365-vs-google-one-storage-subscription-stack-audit/)
+- [iCloud storage tiers: who needs 2TB vs 200GB](/articles/17-icloud-storage-tiers-who-needs-2tb-vs-200gb/)
+- [How to audit every subscription on your credit card in one afternoon](/articles/1-how-to-audit-every-subscription-on-your-credit-card-in-one-afternoon/)
+
 ## FAQ
 
 ### Is TurboTax or H&R Block online better for simple tax returns?

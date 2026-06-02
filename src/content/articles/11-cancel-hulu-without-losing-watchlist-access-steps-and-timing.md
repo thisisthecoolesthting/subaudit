@@ -140,6 +140,14 @@ That said, some features can vary:
 
 ---
 
+## Related reading
+
+- [Disney bundle vs à la carte streaming in 2026](/articles/12-disney-bundle-vs-la-carte-streaming-in-2026/)
+- [Adobe Creative Cloud: cheapest path if you only use Photoshop monthly](/articles/14-adobe-creative-cloud-cheapest-path-if-you-only-use-photoshop-monthly/)
+- [YouTube Premium family plan vs ad-supported tier](/articles/33-youtube-premium-family-plan-vs-ad-supported-tier/)
+- [SaaS free trials that auto-convert: calendar reminder template](/articles/36-saas-free-trials-that-auto-convert-calendar-reminder-template/)
+- [How to audit every subscription on your credit card in one afternoon](/articles/1-how-to-audit-every-subscription-on-your-credit-card-in-one-afternoon/)
+
 ## FAQ
 
 ### Can I access my Hulu watchlist after canceling the subscription?

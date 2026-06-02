@@ -131,7 +131,15 @@ From my cord-cutter’s investigations, I recommend:
 - **Avoid auto-renew by setting reminders a few days before charges occur.**  
 - **Evaluate if bundled sports passes (e.g., multi-sport passes) could serve you better than multiple individual add-ons.**  
 - **Consider shared accounts cautiously — user agreements sometimes forbid multiple simultaneous streams.**  
-- **Keep an eye on promotions — streaming platforms often offer trial months or discounts on season passes you can time strategically.**  
+- **Keep an eye on promotions — streaming platforms often offer trial months or discounts on season passes you can time strategically.**
+
+## Related reading
+
+- [Disney bundle vs à la carte streaming in 2026](/articles/12-disney-bundle-vs-la-carte-streaming-in-2026/)
+- [YouTube Premium family plan vs ad-supported tier](/articles/33-youtube-premium-family-plan-vs-ad-supported-tier/)
+- [Amazon Prime annual vs monthly: when the trial trap hits](/articles/31-amazon-prime-annual-vs-monthly-when-the-trial-trap-hits/)
+- [How to audit every subscription on your credit card in one afternoon](/articles/1-how-to-audit-every-subscription-on-your-credit-card-in-one-afternoon/)
+- [Subscription audit spreadsheet template (categories and renewal dates)](/articles/40-subscription-audit-spreadsheet-template-categories-and-renewal-dates/)
 
 ## FAQ
 

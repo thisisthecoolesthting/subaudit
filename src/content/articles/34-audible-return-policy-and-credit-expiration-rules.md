@@ -127,6 +127,14 @@ If you run into difficulties with a return or see no credit refund, contact Audi
 
 ---
 
+## Related reading
+
+- [Amazon Subscription Creep — Find and Kill Hidden Recurring Charges](/articles/amazon-subscription-creep/)
+- [Audible credits vs Audible Plus catalog: stop paying for the wrong tier](/articles/5-audible-credits-vs-audible-plus-catalog-stop-paying-for-the-wrong-tier/)
+- [Roku vs Fire TV hardware: subscription ecosystem lock-in](/articles/32-roku-vs-fire-tv-hardware-subscription-ecosystem-lock-in/)
+- [How to audit every subscription on your credit card in one afternoon](/articles/1-how-to-audit-every-subscription-on-your-credit-card-in-one-afternoon/)
+- [Microsoft 365 vs Google One storage: subscription stack audit](/articles/13-microsoft-365-vs-google-one-storage-subscription-stack-audit/)
+
 ## FAQ
 
 ### How long do I have to return an Audible book to get my credit back?

@@ -164,3 +164,10 @@ No, participation is limited to specific eligible products and vendors. Some bul
 ---
 
 Having spent years analyzing budgets in corporate finance and witnessing the small details that add up to meaningful savings, I encourage readers to audit their recurring spending closely. Whether you choose Subscribe and Save, bulk, or a mix, understanding the true annual cost empowers you to make smarter household purchasing decisions that protect both your wallet and your time.
+
+## Products in this guide
+
+- [Amazon Fire TV Soundbar with built-in streaming](/products/b0cvdhn9yj-fire-tv-soundbar/)
+- [Subscription Business Model A Complete Guide - 2020 Edition](/products/0655913424-subscription-business-model-a-complete-guide-2020-edition/)
+- [The Creeps](/products/161928121x-the-creeps/)
+- [Checklist: G, H, I](/products/1941641644-checklist-g-h-i/)

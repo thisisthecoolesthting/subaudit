@@ -144,6 +144,14 @@ Mixing and matching services can save money, but be mindful of syncing complexit
 
 ---
 
+## Related reading
+
+- [Microsoft 365 vs Google One storage: subscription stack audit](/articles/13-microsoft-365-vs-google-one-storage-subscription-stack-audit/)
+- [Cloud backup stack audit: Backblaze plus iCloud double pay](/articles/28-cloud-backup-stack-audit-backblaze-plus-icloud-double-pay/)
+- [Dropbox vs OneDrive for backup redundancy tax](/articles/23-dropbox-vs-onedrive-for-backup-redundancy-tax/)
+- [Amazon Subscribe and Save vs buying bulk: real annual math](/articles/2-amazon-subscribe-and-save-vs-buying-bulk-real-annual-math/)
+- [Tax software subscriptions: TurboTax vs H&R Block online](/articles/26-tax-software-subscriptions-turbotax-vs-h-r-block-online/)
+
 ## FAQ
 
 ### Who benefits most from the 200GB iCloud plan?

@@ -138,6 +138,14 @@ A “Yes” in most boxes suggests you should consider LinkedIn Premium. Multipl
 
 ---
 
+## Related reading
+
+- [Adobe Creative Cloud: cheapest path if you only use Photoshop monthly](/articles/14-adobe-creative-cloud-cheapest-path-if-you-only-use-photoshop-monthly/)
+- [Fitness app subscriptions: Strava vs free alternatives](/articles/29-fitness-app-subscriptions-strava-vs-free-alternatives/)
+- [YouTube Premium family plan vs ad-supported tier](/articles/33-youtube-premium-family-plan-vs-ad-supported-tier/)
+- [Canva Pro vs free tier for small business social posts](/articles/24-canva-pro-vs-free-tier-for-small-business-social-posts/)
+- [Dropbox vs OneDrive for backup redundancy tax](/articles/23-dropbox-vs-onedrive-for-backup-redundancy-tax/)
+
 ## FAQ  
 
 ### Is LinkedIn Premium necessary to get a job?  

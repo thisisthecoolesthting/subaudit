@@ -148,6 +148,14 @@ For smaller newsletters testing waters or those with irregular newsletter income
 
 ---
 
+## Related reading
+
+- [ChatGPT Plus vs Claude Pro: monthly TCO for a solo creator](/articles/7-chatgpt-plus-vs-claude-pro-monthly-tco-for-a-solo-creator/)
+- [Notion vs free notes: when the paid tier pays for itself](/articles/9-notion-vs-free-notes-when-the-paid-tier-pays-for-itself/)
+- [AI Stack Monthly Cost — ChatGPT, Claude, Cursor, and Copilot TCO](/articles/ai-stack-monthly-cost/)
+- [YouTube Premium family plan vs ad-supported tier](/articles/33-youtube-premium-family-plan-vs-ad-supported-tier/)
+- [Amazon Prime annual vs monthly: when the trial trap hits](/articles/31-amazon-prime-annual-vs-monthly-when-the-trial-trap-hits/)
+
 ## FAQ
 
 ### What is the most cost-effective platform for new newsletter creators monetizing under 1,000 subscribers?

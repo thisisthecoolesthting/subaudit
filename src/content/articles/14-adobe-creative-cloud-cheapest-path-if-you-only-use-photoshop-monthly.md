@@ -151,6 +151,14 @@ With my experience auditing household and freelancer finances, it’s easy for A
 
 ---
 
+## Related reading
+
+- [Annual vs monthly billing discount: true savings calculator mindset](/articles/37-annual-vs-monthly-billing-discount-true-savings-calculator-mindset/)
+- [Microsoft 365 vs Google One storage: subscription stack audit](/articles/13-microsoft-365-vs-google-one-storage-subscription-stack-audit/)
+- [Streaming sports passes: season-length vs monthly add-on](/articles/38-streaming-sports-passes-season-length-vs-monthly-add-on/)
+- [iCloud storage tiers: who needs 2TB vs 200GB](/articles/17-icloud-storage-tiers-who-needs-2tb-vs-200gb/)
+- [Subscription audit spreadsheet template (categories and renewal dates)](/articles/40-subscription-audit-spreadsheet-template-categories-and-renewal-dates/)
+
 ## FAQ
 
 ### Is the Photoshop monthly subscription expensive compared to other Adobe apps?
@@ -176,3 +184,10 @@ Adobe frequently offers limited-time discounts, especially for first-time subscr
 ---
 
 In short, if you only use Photoshop monthly, the cheapest legal path depends on your willingness to commit and your need for additional photo editing tools like Lightroom. From my time working in FP&A and auditing subscriptions, committing to an annual Photography Plan is usually the best overall value if you don’t mind a contract. But for total flexibility, the Photoshop single-app month-to-month subscription has its place — just be prepared for a higher price. Auditing your Adobe spend regularly ensures you’re not paying for features or apps you don’t use.
+
+## Products in this guide
+
+- [Subscription Business Model A Complete Guide - 2020 Edition](/products/0655913424-subscription-business-model-a-complete-guide-2020-edition/)
+- [The Cord Curator's Guide to the Galaxy: A Modern Fable About Cable, Streaming, and How to Curate Entertainment Without Breaking the Bank. Be a Cord-Curator, not a Cord-Cutter.](/products/0990641422-the-cord-curator-s-guide-to-the-galaxy-a-modern-fable-about-/)
+- [The Creeps](/products/161928121x-the-creeps/)
+- [Checklist: G, H, I](/products/1941641644-checklist-g-h-i/)

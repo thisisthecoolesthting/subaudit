@@ -134,6 +134,14 @@ This approach balances reliability, usability, and budget without falling prey t
 
 ---
 
+## Related reading
+
+- [Microsoft 365 vs Google One storage: subscription stack audit](/articles/13-microsoft-365-vs-google-one-storage-subscription-stack-audit/)
+- [Cloud backup stack audit: Backblaze plus iCloud double pay](/articles/28-cloud-backup-stack-audit-backblaze-plus-icloud-double-pay/)
+- [iCloud storage tiers: who needs 2TB vs 200GB](/articles/17-icloud-storage-tiers-who-needs-2tb-vs-200gb/)
+- [VPN subscriptions you forgot: NordVPN vs Surfshark annual cost](/articles/10-vpn-subscriptions-you-forgot-nordvpn-vs-surfshark-annual-cost/)
+- [Password manager subscriptions: 1Password family plan math](/articles/27-password-manager-subscriptions-1password-family-plan-math/)
+
 ## FAQ  
 
 ### What is backup redundancy tax in cloud storage?  

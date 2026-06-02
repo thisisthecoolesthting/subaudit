@@ -131,6 +131,14 @@ For example:
 
 ---
 
+## Related reading
+
+- [How to find hidden subscriptions in Apple and Google play stores](/articles/35-how-to-find-hidden-subscriptions-in-apple-and-google-play-stores/)
+- [Amazon Prime annual vs monthly: when the trial trap hits](/articles/31-amazon-prime-annual-vs-monthly-when-the-trial-trap-hits/)
+- [How to audit every subscription on your credit card in one afternoon](/articles/1-how-to-audit-every-subscription-on-your-credit-card-in-one-afternoon/)
+- [Subscription audit spreadsheet template (categories and renewal dates)](/articles/40-subscription-audit-spreadsheet-template-categories-and-renewal-dates/)
+- [VPN subscriptions you forgot: NordVPN vs Surfshark annual cost](/articles/10-vpn-subscriptions-you-forgot-nordvpn-vs-surfshark-annual-cost/)
+
 ## FAQ
 
 ### How do I find the exact end date of my SaaS free trial?

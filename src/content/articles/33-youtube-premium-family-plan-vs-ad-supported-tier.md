@@ -144,6 +144,14 @@ As an FP&A analyst turned consumer watchdog, I favor regularly reviewing usage a
 
 ---
 
+## Related reading
+
+- [Amazon Kids+ vs YouTube Kids premium: family stack audit](/articles/21-amazon-kids-vs-youtube-kids-premium-family-stack-audit/)
+- [Password manager subscriptions: 1Password family plan math](/articles/27-password-manager-subscriptions-1password-family-plan-math/)
+- [Disney bundle vs à la carte streaming in 2026](/articles/12-disney-bundle-vs-la-carte-streaming-in-2026/)
+- [Canva Pro vs free tier for small business social posts](/articles/24-canva-pro-vs-free-tier-for-small-business-social-posts/)
+- [Chewy Autoship vs warehouse club pet food unit price](/articles/16-chewy-autoship-vs-warehouse-club-pet-food-unit-price/)
+
 ## FAQ
 
 ### Is YouTube Premium family plan worth it compared to the free ad-supported tier?

@@ -103,6 +103,14 @@ Being aware of how quickly $10 add-ons multiply and actively managing these subs
 
 ---
 
+## Related reading
+
+- [Amazon Kids+ vs YouTube Kids premium: family stack audit](/articles/21-amazon-kids-vs-youtube-kids-premium-family-stack-audit/)
+- [SaaS free trials that auto-convert: calendar reminder template](/articles/36-saas-free-trials-that-auto-convert-calendar-reminder-template/)
+- [Cloud backup stack audit: Backblaze plus iCloud double pay](/articles/28-cloud-backup-stack-audit-backblaze-plus-icloud-double-pay/)
+- [Prime Video channel add-ons: which stacks overlap with Netflix and Max](/articles/4-prime-video-channel-add-ons-which-stacks-overlap-with-netflix-and-max/)
+- [Amazon Subscribe and Save vs buying bulk: real annual math](/articles/2-amazon-subscribe-and-save-vs-buying-bulk-real-annual-math/)
+
 ## FAQ
 
 ### How many $10 news subscriptions do most people realistically maintain?

@@ -134,6 +134,14 @@ I encourage you to audit your note-taking habits and workloads to decide if upgr
 
 ---
 
+## Related reading
+
+- [Canva Pro vs free tier for small business social posts](/articles/24-canva-pro-vs-free-tier-for-small-business-social-posts/)
+- [ConvertKit vs Beehiiv for newsletter monetization cost](/articles/25-convertkit-vs-beehiiv-for-newsletter-monetization-cost/)
+- [Fitness app subscriptions: Strava vs free alternatives](/articles/29-fitness-app-subscriptions-strava-vs-free-alternatives/)
+- [YouTube Premium family plan vs ad-supported tier](/articles/33-youtube-premium-family-plan-vs-ad-supported-tier/)
+- [SaaS free trials that auto-convert: calendar reminder template](/articles/36-saas-free-trials-that-auto-convert-calendar-reminder-template/)
+
 ## FAQ
 
 ### Is Notion’s free tier really enough for personal use?

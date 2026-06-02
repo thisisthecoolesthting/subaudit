@@ -143,6 +143,14 @@ Here, monthly billing is cheaper if you only need the service 8 months instead o
 
 ---
 
+## Related reading
+
+- [Amazon Subscribe and Save vs buying bulk: real annual math](/articles/2-amazon-subscribe-and-save-vs-buying-bulk-real-annual-math/)
+- [Amazon Prime annual vs monthly: when the trial trap hits](/articles/31-amazon-prime-annual-vs-monthly-when-the-trial-trap-hits/)
+- [Adobe Creative Cloud: cheapest path if you only use Photoshop monthly](/articles/14-adobe-creative-cloud-cheapest-path-if-you-only-use-photoshop-monthly/)
+- [HelloFresh promo pricing vs renewal price creep](/articles/20-hellofresh-promo-pricing-vs-renewal-price-creep/)
+- [Amazon Subscription Creep — Find and Kill Hidden Recurring Charges](/articles/amazon-subscription-creep/)
+
 ## FAQ
 
 ### Is paying annually always cheaper than monthly billing?
@@ -172,3 +180,10 @@ Adopting this true savings mindset helps me—and I hope you too—stop chasing 
 By calculating the effective monthly cost based on your real usage, factoring in opportunity costs, and anticipating price changes, you can decide when locking in annual discounts really pays off—or when monthly billing offers peace of mind and flexibility worth the slightly higher cost.
 
 Remember: the best savings are the ones you can confidently hold onto.
+
+## Products in this guide
+
+- [HP QuickCalc Calculator (Color Will Vary)](/products/b001bum0ro-hp-quickcalc-calculator-color-will-vary/)
+- [Sharp Calculators EL-243SB 8-Digit Pocket Calculator](/products/b00ilgr08a-sharp-calculators-el-243sb-8-digit-pocket-calculator/)
+- [Bill Payment Tracker Monthly Organizer: Your Colorful 70+ month Financial Checklist to Never Miss a Due Date \u2013 Stress-Free Money Management Made Simple](/products/b0fwjm1dsk-bill-payment-tracker-monthly-organizer-your-colorful-70-mont/)
+- [Subscription Business Model A Complete Guide - 2020 Edition](/products/0655913424-subscription-business-model-a-complete-guide-2020-edition/)
