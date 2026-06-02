@@ -67,7 +67,28 @@
     "ctaSecondaryLabel": "Amazon digital guide",
     "ctaSecondaryHref": "/pillars/amazon-digital-stack",
     "trustLine": "No pay-to-play from services we review. We disclose Amazon Associates and SaaS affiliate relationships up front.",
-    "heroImageUrl": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600&q=85"
+    "heroImageUrl": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600&q=85",
+    "compareRowEnabled": true,
+    "comparePicks": [
+      {
+        "title": "Streaming stack without overlap",
+        "slug": "streaming-stack",
+        "priceLabel": "One video + one audio",
+        "href": "/pillars/streaming-stack/"
+      },
+      {
+        "title": "Amazon digital memberships",
+        "slug": "amazon-digital-stack",
+        "priceLabel": "Trials & bounty math",
+        "href": "/pillars/amazon-digital-stack/"
+      },
+      {
+        "title": "AI tools monthly TCO",
+        "slug": "ai-stack-monthly-cost",
+        "priceLabel": "Plan comparison",
+        "href": "/articles/ai-stack-monthly-cost/"
+      }
+    ]
   },
   "about": {
     "headline": "Why SubAudit exists",
