@@ -1,0 +1,127 @@
+{
+  "brand": {
+    "shortName": "SubAudit",
+    "fullName": "SubAudit",
+    "taglineShort": "Add up every subscription \u2014 then cut what fails the math.",
+    "identity": {
+      "palette": {
+        "primary": "#1E1B4B",
+        "accent": "#22C55E",
+        "cream": "#0F0F23",
+        "ink": "#F8FAFC",
+        "secondary": "#4338CA",
+        "surface": "#0F0F23"
+      },
+      "fonts": {
+        "display": "Amatic SC",
+        "body": "Cabin",
+        "mono": "IBM Plex Mono"
+      },
+      "mark": {
+        "svgPath": "brand/subaudit-mark.svg",
+        "svgPublicPath": "/brand/subaudit-mark.svg",
+        "sizeRem": 1.75,
+        "position": "left-of-wordmark"
+      },
+      "wordmark": {
+        "weight": 600,
+        "tracking": "tight",
+        "case": "normal"
+      },
+      "headerVariant": "minimal",
+      "eyebrowText": "SUBSCRIPTION AUDIT",
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;600;700&family=Cabin:wght@400;600;700&family=IBM+Plex+Mono:wght@400;600;700&display=swap"
+    }
+  },
+  "persona": {
+    "ymyl": false,
+    "tone": "practical"
+  },
+  "editorial": {
+    "authorSlug": "morgan-hale-subaudit",
+    "author_slug": "morgan-hale-subaudit",
+    "methodology": [
+      "We annualize every price as monthly \u00d7 12 unless a documented annual plan is cheaper.",
+      "Trial offers include renewal date, cancel URL, and whether a card is required at signup.",
+      "Amazon bounty claims link only to official Associates bounty landing pages.",
+      "SaaS affiliate picks require a published commission rate and cookie window before we recommend.",
+      "We re-check list prices quarterly on featured stacks.",
+      "Reader corrections are answered within 72 hours with dated amendment notes."
+    ],
+    "ymyl": false
+  },
+  "newsletter": {
+    "title": "The SubAudit weekly",
+    "subtitle": "Practical picks and straight answers from SubAudit, once a week. No spam.",
+    "kicker": "Stay in the loop"
+  },
+  "supportEmail": "hello@subaudit.org",
+  "defaultAuthorSlug": "morgan-hale-subaudit",
+  "defaultMetaDescription": "Annualized totals for streaming, AI tools, Amazon trials, and auto-ship \u2014 with cancel paths, bounty math, and swaps that actually lower your monthly burn.",
+  "homepage": {
+    "eyebrow": "Subscription audit",
+    "h1": "Your card has a subscription stack. We read the receipt line by line.",
+    "subhead": "Annualized totals for streaming, AI tools, Amazon trials, and auto-ship \u2014 with cancel paths, bounty math, and swaps that actually lower your monthly burn.",
+    "ctaPrimaryLabel": "Run the audit checklist",
+    "ctaPrimaryHref": "/pillars/subscription-audit",
+    "ctaSecondaryLabel": "Amazon digital guide",
+    "ctaSecondaryHref": "/pillars/amazon-digital-stack",
+    "trustLine": "No pay-to-play from services we review. We disclose Amazon Associates and SaaS affiliate relationships up front.",
+    "heroImageUrl": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600&q=85"
+  },
+  "about": {
+    "headline": "Why SubAudit exists",
+    "body": "We built SubAudit after a single credit-card export showed twelve overlapping subscriptions \u2014 three streaming add-ons, two AI tools, and four Amazon auto-ships we forgot existed. We publish annualized math, trial fine print, and cancellation steps so you cut spend without guessing which login page to find."
+  },
+  "navigation": [
+    {
+      "href": "/",
+      "label": "Home"
+    },
+    {
+      "href": "/pillars",
+      "label": "Guides"
+    },
+    {
+      "href": "/articles",
+      "label": "Articles"
+    },
+    {
+      "href": "/products",
+      "label": "Reviews"
+    },
+    {
+      "href": "/about",
+      "label": "About"
+    }
+  ],
+  "distribution": {
+    "ads": {
+      "provider": "none",
+      "site_id": "",
+      "slot_ids": {
+        "hero": "",
+        "content_mid": "",
+        "footer": ""
+      }
+    },
+    "email_capture": {
+      "provider": "none",
+      "form_action": "",
+      "list_id": ""
+    },
+    "phone_case_promo": {
+      "enabled": true,
+      "store_url": "https://phonecasesforall.com",
+      "headline": "Custom phone cases, free shipping",
+      "subhead": "Thousands of designs for iPhone & Samsung \u2014 from our own shop.",
+      "cta": "Browse cases \u2192",
+      "utm_campaign": "subaudit.org"
+    }
+  },
+  "analytics": {
+    "ga_measurement_id": "pending",
+    "ga_property_id": "pending",
+    "search_console_property": "https://subaudit.org/"
+  }
+}
