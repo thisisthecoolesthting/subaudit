@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T10:31:14Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/22-dog-ramps-vs-pet-stairs-vs-step-sets-by-body-type.webp
+heroImage: /images/hero/home.jpg
 subtopic: comfort
 ---
 

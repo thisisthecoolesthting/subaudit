@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T10:55:16Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/end-of-life-care-considerations-for-silvertail-cats-over-ten-years.webp
+heroImage: /images/hero/home.jpg
 subtopic: grooming
 ---
 

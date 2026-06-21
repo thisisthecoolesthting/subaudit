@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:30:46Z'
 relatedProducts: []
 status: published
-heroImage: /images/hero/monitor-arm-cable-management-solutions-for-a-tidy-workspace.jpg
+heroImage: /images/hero/home.jpg
 subtopic: monitors
 ---
 

@@ -12,7 +12,7 @@ subtopic: household-staples
 publishedAt: '2026-06-06T03:05:47.158Z'
 metaDescription: "breadboard-power-supplies-worth-it"
 excerpt: "breadboard-power-supplies-worth-it"
-heroImage: /images/heroes/breadboard-power-supplies-worth-it.webp
+heroImage: /images/hero/home.jpg
 tags:
   - tinkerbench
   - home gym

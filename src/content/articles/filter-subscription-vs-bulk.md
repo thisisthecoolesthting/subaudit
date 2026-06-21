@@ -9,7 +9,7 @@ excerpt: >-
   the spreadsheet for a typical pet household.
 pillarSlug: replacement-calendar
 targetKeyword: furnace filter subscription vs bulk
-heroImage: /images/hero/filter-subscription-vs-bulk.jpg
+heroImage: /images/hero/home.jpg
 status: published
 tags:
   - subscriptions

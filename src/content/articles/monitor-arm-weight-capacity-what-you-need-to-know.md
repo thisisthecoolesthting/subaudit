@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:32:19Z'
 relatedProducts: []
 status: published
-heroImage: /images/hero/monitor-arm-weight-capacity-what-you-need-to-know.jpg
+heroImage: /images/hero/home.jpg
 subtopic: monitors
 ---
 

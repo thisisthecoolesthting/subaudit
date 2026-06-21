@@ -29,7 +29,7 @@ hero_image_keywords:
 - personal massager quiet
 - personal apartment
 - household products retail shelf
-heroImage: https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=1200&q=85
+heroImage: /images/hero/home.jpg
 cardTitle: "best personal massager quiet apartment"
 cardPick: "Independent retail testing — PleasureWatch"
 ---

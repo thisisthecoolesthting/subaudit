@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:52:48Z'
 relatedProducts: []
 status: published
-heroImage: /images/hero/29-logitech-mx-master-vs-mx-vertical-productivity-vs-pain.jpg
+heroImage: /images/hero/home.jpg
 subtopic: setup
 ---
 

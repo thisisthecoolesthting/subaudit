@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:53:39Z'
 relatedProducts: []
 status: published
-heroImage: /images/hero/31-keyboard-latency-and-typing-ergonomics-yes-it-matters.jpg
+heroImage: /images/hero/home.jpg
 subtopic: chairs
 ---
 

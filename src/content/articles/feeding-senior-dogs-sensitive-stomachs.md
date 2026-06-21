@@ -23,7 +23,7 @@ tags:
 - senior pet care
 - dog food comparison
 - cost analysis
-heroImage: /images/hero/feeding-senior-dogs-sensitive-stomachs.jpg
+heroImage: /images/hero/home.jpg
 subtopic: nutrition
 updatedAt: 2026-05-12
 ---

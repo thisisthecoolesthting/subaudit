@@ -12,7 +12,7 @@ subtopic: printer-ink
 publishedAt: '2026-06-06T03:05:48.075Z'
 metaDescription: "best-all-in-one-printers-under-100"
 excerpt: "best-all-in-one-printers-under-100"
-heroImage: /images/heroes/best-all-in-one-printers-under-100.webp
+heroImage: /images/hero/home.jpg
 tags:
   - inkledger
   - home gym

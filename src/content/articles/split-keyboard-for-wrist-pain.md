@@ -8,7 +8,7 @@ publishedAt: '2026-04-28T00:00:00.000Z'
 excerpt: 'After 180+ hours of testing five split keyboards with pressure sensors and   real-world use, two models genuinely reduced wrist strain during 8+ hour workdays.   Three others created new problems or showed negligible benefit over basic ergonomic   setup.'
 pillarSlug: 'ergonomic-accessories-guides'
 status: 'published'
-heroImage: '/images/hero/split-keyboard-for-wrist-pain.jpg'
+heroImage: /images/hero/home.jpg
 cardTitle: 'Best Ergonomic Chair for All-Day Remote Work Pain Relief'
 cardPick: 'Herman Miller Aeron reduces wrist and back strain through scientifically-designed   lumbar support and adjustable armrests for proper alignment.'
 subtopic: keyboards

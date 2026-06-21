@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:29:01Z'
 relatedProducts: []
 status: published
-heroImage: /images/hero/ergonomic-keyboard-layouts-that-minimize-repetitive-strain-injuries.jpg
+heroImage: /images/hero/home.jpg
 subtopic: chairs
 ---
 

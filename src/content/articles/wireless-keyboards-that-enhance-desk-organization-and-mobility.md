@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:27:22Z'
 relatedProducts: []
 status: published
-heroImage: /images/hero/wireless-keyboards-that-enhance-desk-organization-and-mobility.jpg
+heroImage: /images/hero/home.jpg
 subtopic: desks
 ---
 

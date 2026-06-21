@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:24:28Z'
 relatedProducts: []
 status: published
-heroImage: /images/hero/how-led-desk-lighting-can-reduce-eye-strain-during-work.jpg
+heroImage: /images/hero/home.jpg
 subtopic: desks
 ---
 

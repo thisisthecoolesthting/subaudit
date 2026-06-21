@@ -12,7 +12,7 @@ subtopic: cleaning
 publishedAt: '2026-06-06T03:05:59.836Z'
 metaDescription: "cold-weather-camping-hydration-freezing"
 excerpt: "cold-weather-camping-hydration-freezing"
-heroImage: /images/heroes/cold-weather-camping-hydration-freezing.webp
+heroImage: /images/hero/home.jpg
 tags:
   - campdeck
   - home gym

@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:26:56Z'
 relatedProducts: []
 status: published
-heroImage: /images/hero/monitor-arms-with-swivel-and-tilt-for-maximum-flexibility.jpg
+heroImage: /images/hero/home.jpg
 subtopic: chairs
 ---
 

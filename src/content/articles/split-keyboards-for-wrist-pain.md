@@ -8,7 +8,7 @@ publishedAt: '2026-04-28T00:00:00Z'
 excerpt: 'After testing 12 split keyboards for 60+ days with 8 body types, we found   the best ergonomic options to relieve wrist pain. Learn which models actually work   and which gimmicks to avoid.'
 pillarSlug: 'workspace-accessories'
 status: 'published'
-heroImage: '/images/hero/split-keyboards-for-wrist-pain.jpg'
+heroImage: /images/hero/home.jpg
 cardTitle: 'Split Keyboards Stop Wrist Pain for Desk Workers'
 cardPick: 'Adjustable lumbar support prevents lower-back strain during eight-hour workdays,   eliminating costly physical therapy visits.'
 subtopic: chairs

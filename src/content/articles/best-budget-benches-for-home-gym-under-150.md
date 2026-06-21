@@ -12,7 +12,7 @@ subtopic: home-gym
 publishedAt: '2026-06-06T02:39:56.153Z'
 metaDescription: "best-budget-benches-for-home-gym-under-150"
 excerpt: "best-budget-benches-for-home-gym-under-150"
-heroImage: /images/heroes/best-budget-benches-for-home-gym-under-150.webp
+heroImage: /images/hero/home.jpg
 tags:
   - gymledger
   - home gym

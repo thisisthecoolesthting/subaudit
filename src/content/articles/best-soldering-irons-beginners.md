@@ -12,7 +12,7 @@ subtopic: household-staples
 publishedAt: '2026-06-06T03:05:47.154Z'
 metaDescription: "best-soldering-irons-beginners"
 excerpt: "best-soldering-irons-beginners"
-heroImage: /images/hero/best-soldering-irons-beginners.jpg
+heroImage: /images/hero/home.jpg
 tags:
   - tinkerbench
   - home gym

@@ -8,7 +8,7 @@ publishedAt: '2026-04-28T00:00:00Z'
 excerpt: 'We tested 14 work setups over 6 months to answer one question: does a standing   desk or ergonomic chair better prevent back pain? Here''s what 1,200 hours of posture   tracking revealed.'
 pillarSlug: 'standing-desks'
 status: 'published'
-heroImage: '/images/hero/standing-desk-vs-chair-ergonomics.jpg'
+heroImage: /images/hero/home.jpg
 cardTitle: 'Why Your Chair Matters More Than Your Standing Desk'
 cardPick: 'A quality ergonomic chair provides consistent spinal support during 8-hour   workdays, while standing desks require expensive additions and create fatigue-related   posture collapse.'
 subtopic: chairs

@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:54:55Z'
 relatedProducts: []
 status: published
-heroImage: /images/hero/35-monitor-distance-and-the-20-20-20-rule-vs-the-real-measurement.jpg
+heroImage: /images/hero/home.jpg
 subtopic: monitors
 ---
 

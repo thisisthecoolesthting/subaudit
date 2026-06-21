@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T10:36:19Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/35-quality-of-life-scoring-for-senior-dogs-using-the-hhhhhmm-scale.webp
+heroImage: /images/hero/home.jpg
 subtopic: end-of-life
 ---
 

@@ -30,7 +30,7 @@ hero_image_keywords:
 - body safe silicone
 - silicone read labels
 - body labels
-heroImage: https://images.unsplash.com/photo-1527613426441-4da17471b13d?auto=format&fit=crop&w=1200&q=85
+heroImage: /images/hero/home.jpg
 cardTitle: "body safe silicone how to read labels"
 cardPick: "Independent retail testing — PleasureWatch"
 ---

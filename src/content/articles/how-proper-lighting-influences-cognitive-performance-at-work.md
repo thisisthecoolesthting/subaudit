@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:25:43Z'
 relatedProducts: []
 status: published
-heroImage: /images/hero/how-proper-lighting-influences-cognitive-performance-at-work.jpg
+heroImage: /images/hero/home.jpg
 subtopic: lighting
 ---
 

@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:15:43Z'
 relatedProducts: []
 status: published
-heroImage: /images/hero/creating-a-balanced-lighting-scheme-for-video-calls.jpg
+heroImage: /images/hero/home.jpg
 subtopic: lighting
 ---
 

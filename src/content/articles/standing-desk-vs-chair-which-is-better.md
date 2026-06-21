@@ -8,7 +8,7 @@ publishedAt: '2026-04-29T10:00:00Z'
 excerpt: 'After 180 hours testing 7 standing desks and 7 ergonomic chairs with pressure   sensors and EMG muscle monitors, we reveal which solution actually reduces back   pain and fatigue for 8-hour workdays.'
 pillarSlug: 'standing-desk-solutions'
 status: 'published'
-heroImage: '/images/hero/standing-desk-vs-chair-which-is-better.jpg'
+heroImage: /images/hero/home.jpg
 subtopic: chairs
 updatedAt: 2026-05-12
 ---

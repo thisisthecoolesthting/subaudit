@@ -32,7 +32,7 @@ hero_image_keywords:
 - personal massager motor
 - motor types rumble
 - personal buzz
-heroImage: https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=1200&q=85
+heroImage: /images/hero/home.jpg
 cardTitle: "personal massager motor types rumble vs buzz"
 cardPick: "Independent retail testing — PleasureWatch"
 ---

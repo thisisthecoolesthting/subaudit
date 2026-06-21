@@ -12,7 +12,7 @@ subtopic: home-gym
 publishedAt: '2026-06-06T02:39:56.129Z'
 metaDescription: "a-practical-weightlifting-belt-gift-guide"
 excerpt: "a-practical-weightlifting-belt-gift-guide"
-heroImage: /images/heroes/a-practical-weightlifting-belt-gift-guide.webp
+heroImage: /images/hero/home.jpg
 tags:
   - gymledger
   - home gym

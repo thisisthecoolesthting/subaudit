@@ -24,7 +24,7 @@ tags:
 - pet mobility
 - dog health
 - pet care
-heroImage: /images/hero/orthopedic-beds-arthritis-dogs.jpg
+heroImage: /images/hero/home.jpg
 cardTitle: Best Orthopedic Dog Beds for Senior Pets with Arthritis
 cardPick: ChomChom Pet Hair Remover tackles shedding without bending, perfect for
   arthritic seniors who struggle with grooming.

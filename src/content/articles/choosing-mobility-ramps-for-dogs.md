@@ -26,7 +26,7 @@ tags:
 - large dog support
 - indoor pet ramps
 - non-slip ramps
-heroImage: /images/hero/choosing-mobility-ramps-for-dogs.jpg
+heroImage: /images/hero/home.jpg
 subtopic: comfort
 updatedAt: 2026-05-12
 ---

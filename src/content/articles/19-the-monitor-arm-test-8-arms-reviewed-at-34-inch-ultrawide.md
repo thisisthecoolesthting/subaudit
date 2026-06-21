@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:48:25Z'
 relatedProducts: []
 status: published
-heroImage: /images/hero/19-the-monitor-arm-test-8-arms-reviewed-at-34-inch-ultrawide.jpg
+heroImage: /images/hero/home.jpg
 subtopic: monitors
 ---
 

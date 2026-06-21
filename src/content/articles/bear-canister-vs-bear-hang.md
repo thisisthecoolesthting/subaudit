@@ -12,7 +12,7 @@ subtopic: cleaning
 publishedAt: '2026-06-06T03:05:59.790Z'
 metaDescription: "bear-canister-vs-bear-hang"
 excerpt: "bear-canister-vs-bear-hang"
-heroImage: /images/heroes/bear-canister-vs-bear-hang.webp
+heroImage: /images/hero/home.jpg
 tags:
   - campdeck
   - home gym

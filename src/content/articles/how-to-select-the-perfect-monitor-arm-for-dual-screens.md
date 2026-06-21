@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:20:13Z'
 relatedProducts: []
 status: published
-heroImage: /images/hero/how-to-select-the-perfect-monitor-arm-for-dual-screens.jpg
+heroImage: /images/hero/home.jpg
 subtopic: monitors
 ---
 

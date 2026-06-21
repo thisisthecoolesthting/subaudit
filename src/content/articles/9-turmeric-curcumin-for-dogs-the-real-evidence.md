@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T10:26:50Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/9-turmeric-curcumin-for-dogs-the-real-evidence.webp
+heroImage: /images/hero/home.jpg
 subtopic: nutrition
 ---
 

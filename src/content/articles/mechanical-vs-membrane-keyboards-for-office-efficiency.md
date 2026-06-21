@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:20:37Z'
 relatedProducts: []
 status: published
-heroImage: /images/hero/mechanical-vs-membrane-keyboards-for-office-efficiency.jpg
+heroImage: /images/hero/home.jpg
 subtopic: keyboards
 ---
 

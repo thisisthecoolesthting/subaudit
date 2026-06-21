@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:28:32Z'
 relatedProducts: []
 status: published
-heroImage: /images/hero/monitor-arm-compatibility-with-ultra-wide-and-curved-displays.jpg
+heroImage: /images/hero/home.jpg
 subtopic: monitors
 ---
 

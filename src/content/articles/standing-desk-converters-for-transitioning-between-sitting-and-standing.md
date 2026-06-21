@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:30:25Z'
 relatedProducts: []
 status: published
-heroImage: /images/hero/standing-desk-converters-for-transitioning-between-sitting-and-standing.jpg
+heroImage: /images/hero/home.jpg
 subtopic: desks
 ---
 

@@ -12,7 +12,7 @@ subtopic: home-gym
 publishedAt: '2026-06-06T02:39:56.125Z'
 metaDescription: "a-practical-weight-plates-gift-guide"
 excerpt: "a-practical-weight-plates-gift-guide"
-heroImage: /images/heroes/a-practical-weight-plates-gift-guide.webp
+heroImage: /images/hero/home.jpg
 tags:
   - gymledger
   - home gym

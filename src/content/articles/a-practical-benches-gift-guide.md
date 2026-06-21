@@ -12,7 +12,7 @@ subtopic: home-gym
 publishedAt: '2026-06-06T02:39:56.100Z'
 metaDescription: "a-practical-benches-gift-guide"
 excerpt: "a-practical-benches-gift-guide"
-heroImage: /images/heroes/a-practical-benches-gift-guide.webp
+heroImage: /images/hero/home.jpg
 tags:
   - gymledger
   - home gym

@@ -34,7 +34,7 @@ hero_image_keywords:
 - leather care products
 - products custom motorcycle
 - leather bags
-heroImage: https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=1200&q=85
+heroImage: /images/hero/home.jpg
 ---
 
 Keeping your custom motorcycle seats and bags in prime condition means investing in the best leather care products for custom motorcycle seats and bags. From low-and-slow baggers to cholo-style rigs, the right leather treatments not only preserve the supple feel but also protect against sun, sweat, and road grime — all crucial for that polished, ride-ready look.

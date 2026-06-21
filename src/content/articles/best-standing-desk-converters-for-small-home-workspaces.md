@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:16:29Z'
 relatedProducts: []
 status: published
-heroImage: /images/hero/best-standing-desk-converters-for-small-home-workspaces.jpg
+heroImage: /images/hero/home.jpg
 subtopic: desks
 ---
 

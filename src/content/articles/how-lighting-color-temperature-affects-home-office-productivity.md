@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:13:08Z'
 relatedProducts: []
 status: published
-heroImage: /images/hero/how-lighting-color-temperature-affects-home-office-productivity.jpg
+heroImage: /images/hero/home.jpg
 subtopic: lighting
 ---
 

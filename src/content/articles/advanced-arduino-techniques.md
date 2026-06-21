@@ -12,7 +12,7 @@ subtopic: household-staples
 publishedAt: '2026-06-06T03:05:47.115Z'
 metaDescription: "advanced-arduino-techniques"
 excerpt: "advanced-arduino-techniques"
-heroImage: /images/heroes/advanced-arduino-techniques.webp
+heroImage: /images/hero/home.jpg
 tags:
   - tinkerbench
   - home gym

@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T10:57:45Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/veterinary-approaches-to-managing-arthritis-in-elderly-silvertail-cats.webp
+heroImage: /images/hero/home.jpg
 subtopic: health
 ---
 

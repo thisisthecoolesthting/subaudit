@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T10:29:54Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/19-feeding-an-arthritic-dog-who-gained-weight-from-inactivity.webp
+heroImage: /images/hero/home.jpg
 subtopic: enrichment
 ---
 
