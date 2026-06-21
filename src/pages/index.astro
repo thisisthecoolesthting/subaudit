@@ -8,7 +8,6 @@
 // (about / categories / defaultAuthorSlug / persona).
 
 import CompliantLayout from '@/layouts/CompliantLayout.astro';
-import SiteSectionAds from '@/components/SiteSectionAds.astro';
 import { getCollection } from 'astro:content';
 import CuratedAmazonCard from '@/components/CuratedAmazonCard.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
@@ -118,7 +117,7 @@ const trustItems = [
 ];
 ---
 
-<CompliantLayout title={b.fullName} description={dmeta} sectionAds="home" sectionAdsCompact sectionAdsFooter={false}>
+<CompliantLayout title={b.fullName} description={dmeta} sectionAds={false}>
   {/* ── home-top WIDE banner — filled by inject.js at runtime ── */}
   <div data-ad-slot="home-top" class="w-full max-w-5xl mx-auto px-4 my-3 not-prose"></div>
 
