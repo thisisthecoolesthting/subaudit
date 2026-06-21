@@ -1,4 +1,5 @@
 ---
+title: "Jordan Phone How-To"
 name: "Jordan Reyes"
 role: "Editor, PhoneHowTo"
 credentials: "Former carrier store lead, eight years of walk-in phone support"
