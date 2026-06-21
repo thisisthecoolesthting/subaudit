@@ -119,6 +119,8 @@ const trustItems = [
 ---
 
 <CompliantLayout title={b.fullName} description={dmeta} sectionAds="home" sectionAdsCompact sectionAdsFooter={false}>
+  {/* ── home-top WIDE banner — filled by inject.js at runtime ── */}
+  <div data-ad-slot="home-top" class="w-full max-w-5xl mx-auto px-4 my-3 not-prose"></div>
 
   {/* ============ 1. HERO — compact watchdog band ============ */}
   <HeroCompact
