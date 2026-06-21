@@ -37,6 +37,8 @@ export interface Props {
   sectionAds?: SectionPage | false;
   /** Tighter header ad on list/index pages (no ornament) */
   sectionAdsCompact?: boolean;
+  /** When false, only render header band (home keeps footer ad before newsletter) */
+  sectionAdsFooter?: boolean;
 }
 
 const {
@@ -54,18 +56,18 @@ const {
   ogTitle,
   sectionAds = false,
   sectionAdsCompact = false,
+  sectionAdsFooter = true,
 } = Astro.props;
 
-const PRODUCTION_ORIGIN = 'https://subaudit.org';
-const siteUrl = (import.meta.env.SITE as string | undefined)?.replace(/\/$/, '') || PRODUCTION_ORIGIN;
+const siteUrl = (import.meta.env.SITE as string | undefined)?.replace(/\/$/, '') || '';
 const hero = home.homepage.heroImageUrl;
 const defaultOg = (image && image.length) ? image : (hero && hero.length ? hero : '/og-default.png');
 const og = defaultOg;
 const isAbs = (u: string) => /^https?:\/\//i.test(u);
 const fullTitle = title.includes(b.fullName) ? title : `${title} | ${b.fullName}`;
 const shareTitle = ogTitle?.trim() || fullTitle;
-const canonicalUrl = canonical ?? new URL(Astro.url.pathname, siteUrl + '/').toString();
-const ogImageUrl = isAbs(og) ? og : new URL(og, siteUrl + '/').toString();
+const canonicalUrl = canonical ?? (siteUrl ? new URL(Astro.url.pathname, siteUrl + '/').toString() : Astro.url.href);
+const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toString() : og;
 ---
 
 <!doctype html>
@@ -126,13 +128,13 @@ const ogImageUrl = isAbs(og) ? og : new URL(og, siteUrl + '/').toString();
     <SkipLink />
     <Header />
     {sectionAds && (
-      <div class="site-top-ad-band border-b border-cream-200/70 bg-cream-50/95">
+      <div class="site-top-ad-band border-b border-cream-200/70 bg-cream-50/95 py-0">
         <SiteSectionAds page={sectionAds} variant="header" compact={sectionAdsCompact} />
       </div>
     )}
     <main id="main-content" class="flex-1" tabindex="-1">
       <slot />
-      {sectionAds && <SiteSectionAds page={sectionAds} variant="footer" />}
+      {sectionAds && sectionAdsFooter && <SiteSectionAds page={sectionAds} variant="footer" />}
     </main>
     <GlobalBottomAffiliateStrip />
     <CaseAdRotateInit />

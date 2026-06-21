@@ -2,24 +2,22 @@
   "brand": {
     "shortName": "SubAudit",
     "fullName": "SubAudit",
-    "taglineShort": "Add up every subscription \u2014 then cut what fails the math.",
+    "taglineShort": "Find the subscriptions quietly draining your budget.",
     "identity": {
       "palette": {
-        "primary": "#1E3A5F",
+        "primary": "#4F46E5",
         "accent": "#F59E0B",
-        "cream": "#FAF5EF",
-        "ink": "#0F172A",
-        "secondary": "#3B82F6",
-        "surface": "#F8FAFC"
+        "cream": "#F5F3FF",
+        "ink": "#1E1B4B"
       },
       "fonts": {
-        "display": "Fraunces",
-        "body": "Source Sans 3",
-        "mono": "IBM Plex Mono"
+        "display": "DM Sans",
+        "body": "DM Sans",
+        "mono": "JetBrains Mono"
       },
       "mark": {
         "svgPath": "brand/subaudit-mark.svg",
-        "svgPublicPath": "/brand/subaudit-mark.svg",
+        "svgPublicPath": "/brand/subaudit-mark.png",
         "sizeRem": 1.75,
         "position": "left-of-wordmark"
       },
@@ -29,99 +27,37 @@
         "case": "normal"
       },
       "headerVariant": "minimal",
-      "eyebrowText": "SUBSCRIPTION AUDIT",
-      "fontCssHref": "https://fonts.googleapis.com/css2?family=Fraunces:wght@400;600;700&family=Source+Sans+3:wght@400;600;700&family=IBM+Plex+Mono:wght@400;600;700&display=swap"
+      "eyebrowText": "SUBSCRIPTION CREEP AUDIT",
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap"
     }
   },
-  "persona": {
-    "ymyl": false,
-    "tone": "practical"
-  },
-  "editorial": {
-    "authorSlug": "morgan-hale-subaudit",
-    "author_slug": "morgan-hale-subaudit",
-    "methodology": [
-      "We annualize every price as monthly \u00d7 12 unless a documented annual plan is cheaper.",
-      "Trial offers include renewal date, cancel URL, and whether a card is required at signup.",
-      "Amazon bounty claims link only to official Associates bounty landing pages.",
-      "SaaS affiliate picks require a published commission rate and cookie window before we recommend.",
-      "We re-check list prices quarterly on featured stacks.",
-      "Reader corrections are answered within 72 hours with dated amendment notes."
-    ],
-    "ymyl": false
-  },
-  "newsletter": {
-    "title": "The SubAudit weekly",
-    "subtitle": "Practical picks and straight answers from SubAudit, once a week. No spam.",
-    "kicker": "Stay in the loop"
-  },
-  "supportEmail": "hello@subaudit.org",
-  "defaultAuthorSlug": "morgan-hale-subaudit",
-  "defaultMetaDescription": "Annualized totals for streaming, AI tools, Amazon trials, and auto-ship \u2014 with cancel paths, bounty math, and swaps that actually lower your monthly burn.",
   "homepage": {
     "eyebrow": "Subscription audit",
-    "h1": "Your card has a subscription stack. We read the receipt line by line.",
-    "subhead": "Annualized totals for streaming, AI tools, Amazon trials, and auto-ship \u2014 with cancel paths, bounty math, and swaps that actually lower your monthly burn.",
-    "ctaPrimaryLabel": "Run the audit checklist",
-    "ctaPrimaryHref": "/pillars/subscription-audit",
-    "ctaSecondaryLabel": "Amazon digital guide",
-    "ctaSecondaryHref": "/pillars/amazon-digital-stack",
-    "trustLine": "No pay-to-play from services we review. We disclose Amazon Associates and SaaS affiliate relationships up front.",
-    "heroImageUrl": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600&q=85"
+    "h1": "Catch subscription creep before it becomes permanent",
+    "subhead": "We track streaming, software, meal kits, and delivery memberships — then flag price hikes, shrinkflation, and cheaper annual swaps.",
+    "ctaPrimaryLabel": "Audit your subs",
+    "ctaPrimaryHref": "/articles",
+    "ctaSecondaryLabel": "Our audit method",
+    "ctaSecondaryHref": "/methodology",
+    "trustLine": "Independent watchdog · No retailer sponsorships · We name the hike, we name the cancel path",
+    "heroImageUrl": "/hero/subaudit-hero.jpg",
+    "heroVideoUrl": "/hero/subaudit-hero.mp4"
   },
-  "about": {
-    "headline": "Why SubAudit exists",
-    "body": "We built SubAudit after a single credit-card export showed twelve overlapping subscriptions \u2014 three streaming add-ons, two AI tools, and four Amazon auto-ships we forgot existed. We publish annualized math, trial fine print, and cancellation steps so you cut spend without guessing which login page to find."
-  },
-  "navigation": [
-    {
-      "href": "/",
-      "label": "Home"
-    },
-    {
-      "href": "/pillars",
-      "label": "Guides"
-    },
-    {
-      "href": "/articles",
-      "label": "Articles"
-    },
-    {
-      "href": "/products",
-      "label": "Reviews"
-    },
-    {
-      "href": "/about",
-      "label": "About"
-    }
-  ],
-  "distribution": {
-    "ads": {
-      "provider": "none",
-      "site_id": "",
-      "slot_ids": {
-        "hero": "",
-        "content_mid": "",
-        "footer": ""
-      }
-    },
-    "email_capture": {
-      "provider": "none",
-      "form_action": "",
-      "list_id": ""
-    },
-    "phone_case_promo": {
-      "enabled": true,
-      "store_url": "https://phonecasesforall.com",
-      "headline": "Custom phone cases, free shipping",
-      "subhead": "Thousands of designs for iPhone & Samsung \u2014 from our own shop.",
-      "cta": "Browse cases \u2192",
-      "utm_campaign": "subaudit.org"
-    }
+  "palette": {
+    "primary": "#4F46E5",
+    "secondary": "#A5B4FC",
+    "accent": "#F59E0B",
+    "surface": "#F5F3FF",
+    "ink": "#1E1B4B"
   },
   "analytics": {
-    "ga_measurement_id": "G-BZNG3S5NF9",
-    "ga_property_id": "540073244",
-    "search_console_property": "https://subaudit.org/"
-  }
+    "ga_measurement_id": "G-W2WHE10F4S"
+  },
+  "defaultAuthorSlug": "dana-wolff",
+  "persona": {
+    "name": "Dana Wolff",
+    "pseudonymHint": "Dana Wolff"
+  },
+  "disablePhonePromos": true,
+  "supportEmail": "hello@subaudit.org"
 }

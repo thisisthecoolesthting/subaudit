@@ -1,69 +1,63 @@
 ---
 import CompliantLayout from '@/layouts/CompliantLayout.astro';
 import PageIntro from '@/components/PageIntro.astro';
-import home from '@/data/spawn-home.json';
-
-const b = home.brand;
-const support = (home as { supportEmail?: string }).supportEmail || 'hello@subaudit.org';
-const associateTag = import.meta.env.PUBLIC_ASSOCIATE_TAG ?? 'subaudit-20';
-const defaultAuthorSlug = (home as { defaultAuthorSlug?: string }).defaultAuthorSlug || 'morgan-hale-subaudit';
 ---
 
 <CompliantLayout
-  title={`How ${b.fullName} researches and reports`}
-  description={`${b.fullName}'s methodology for annualizing subscription stacks, surfacing trial fine print, and finding swaps that lower monthly burn.`}
+  title="How SubAudit researches and reports"
+  description="SubAudit's methodology for tracking price hikes, naming brands, and finding smarter alternatives."
   sectionAds="legal"
 >
   <PageIntro
     eyebrow="Methodology"
-    title="How we audit stacks, annualize costs, and find the swap"
-    description={`${b.fullName} exists because most subscription advice hides the annual total and the cancel path. Here is exactly how we work.`}
+    title="How we track hikes, name brands, and find the alternative"
+    description="SubAudit exists because most consumer reporting on retail pricing is too polite, too abstract, or too late. Here is exactly how we work."
   />
 
   <section class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 pb-14 md:pb-20">
     <article class="content-panel max-w-prose mx-auto prose prose-lg prose-ink">
       <h2>Our mission</h2>
       <p>
-        Add up every recurring charge on a card statement, annualize the real cost, and show
-        readers where to cancel, downgrade, or swap before another year of quiet spend. The goal
-        is specificity &mdash; generic &ldquo;cut your subscriptions&rdquo; lists are a dime a dozen.
+        Catch subscription price hikes and zombie renewals — name the service, the dollar amount, and the cheaper alternative.
       </p>
 
       <h2>What we track</h2>
       <ul>
-        <li>Streaming and channel add-ons (Prime Video, Max, Disney+, niche sports bundles).</li>
-        <li>AI and productivity SaaS with monthly vs annual plan math.</li>
-        <li>Amazon Subscribe &amp; Save, Audible, Kindle Unlimited, and digital bounty trials.</li>
-        <li>Free-trial renewal dates, card-on-file requirements, and published cancel URLs.</li>
-        <li>Household auto-ship and delivery subscriptions with per-unit annualized totals.</li>
+        <li>SKU-level price changes at major national retailers (Amazon, Walmart, Target, Kroger, Costco, Trader Joe&rsquo;s).</li>
+        <li>Per-ounce and per-unit pricing to catch shrinkflation (same box, less product).</li>
+        <li>Subscription-service price creep (streaming, delivery, household staples auto-ship).</li>
+        <li>Private-label pricing relative to the national brand equivalent.</li>
+        <li>Ink, bottled water, pet food, detergent, paper goods, coffee, and a rotating roster of routine categories.</li>
       </ul>
 
-      <h2>How we verify a stack</h2>
+      <h2>How we verify a hike</h2>
       <p>
-        We don&rsquo;t publish a savings claim from a single screenshot. Every audit requires at
-        least two of the following agreeing on the price, renewal terms, and cancel path:
+        We don&rsquo;t publish a price-hike alert based on a single data point. Every alert
+        requires at least two of the following sources agreeing on the hike, the dollar
+        amount, and the approximate date:
       </p>
       <ul>
-        <li>Live checkout or account-billing pages captured on separate dates.</li>
-        <li>Official plan pages and published commission or bounty documentation.</li>
-        <li>Reader exports (redacted statements or app billing screens).</li>
-        <li>Our own test sign-ups where terms allow cancellation without penalty.</li>
+        <li>Direct retailer page screenshots across at least two separate dates.</li>
+        <li>Price-history databases (Keepa, CamelCamelCamel, Honey) where available.</li>
+        <li>Reader submissions with receipts or app screenshots.</li>
+        <li>Manufacturer or retailer earnings-call commentary acknowledging the category move.</li>
       </ul>
       <p>
-        When evidence is thin or a vendor changes pricing mid-review, we say so.
-        &ldquo;Possibly rising&rdquo; is a different headline than &ldquo;$14.99/mo &times; 12 = $179.88/yr.&rdquo;
+        When evidence is thin or conflicting, we say so. &ldquo;Possibly rising&rdquo; is a
+        different headline than &ldquo;up 9.7% in the last 90 days.&rdquo;
       </p>
 
       <h2>How we pick the alternative</h2>
       <p>
-        Every audit ends with a specific swap &mdash; a cheaper annual plan, a bundled tier that
-        replaces two services, a free tier that covers 80% of the use case, or a one-time purchase
-        instead of another rental. The alternative must clear four bars:
+        Every price-hike story ends with a specific alternative &mdash; a refillable version,
+        a bulk-refill supplier, a private-label equivalent, or a different category
+        altogether (a SodaStream instead of another case of La Croix). The alternative must
+        clear four bars:
       </p>
       <ol>
-        <li><strong>Lower annualized cost</strong> after factoring in any up-front hardware or migration time.</li>
-        <li><strong>Actually available</strong> in the regions our readers use &mdash; not a geo-locked promo.</li>
-        <li><strong>Honest cancel path</strong> with a documented URL or in-app steps we tested or verified.</li>
+        <li><strong>Cheaper per unit</strong> after factoring in any up-front equipment cost, amortized over 12 months.</li>
+        <li><strong>Actually available</strong> at the retailers our readers use &mdash; not a drop-ship-only obscure DTC brand.</li>
+        <li><strong>Not the same parent company</strong> that owns the brand doing the hike (catching the private-label trick).</li>
         <li><strong>We&rsquo;d switch to it ourselves</strong>, and most of the time we already have.</li>
       </ol>
 
@@ -71,47 +65,52 @@ const defaultAuthorSlug = (home as { defaultAuthorSlug?: string }).defaultAuthor
       <ul>
         <li>
           <strong>No sponsored placements.</strong> We do not accept paid promotion from any
-          service {b.fullName} covers. If that ever changes, the page carrying the promotion will say so plainly.
+          retailer, brand, or manufacturer SubAudit covers. If that ever changes, the
+          page carrying the promotion will say so plainly.
         </li>
         <li>
-          <strong>Partner links are disclosed.</strong> Amazon links use our Associates tag
-          (<strong>{associateTag}</strong>). SaaS picks require a published commission rate and cookie window before we recommend.
+          <strong>Partner links go to neutral third parties.</strong> When we link to a
+          bulk supplier or refill brand, that partner relationship is disclosed. We do
+          not run Amazon partner links to the brands we are criticizing for price hikes
+          &mdash; that would be a direct conflict.
         </li>
         <li>
-          <strong>Named, dated, numbered.</strong> Every guide states the plan name, monthly and
-          annual price, trial end date when relevant, and the specific cancel or downgrade steps.
-          Soft claims don&rsquo;t ship.
+          <strong>Named, dated, numbered.</strong> Every hike story states the specific
+          product or SKU, the specific retailer, the specific old price, the specific new
+          price, and the specific date (or date range) of the hike. Soft claims don&rsquo;t
+          ship.
         </li>
       </ul>
 
       <h2>Disclosure</h2>
       <p>
-        {b.fullName} is funded by affiliate revenue from Amazon Associates and select SaaS
-        programs. When you click through partner links and sign up or buy, we earn a commission at
-        no extra cost to you. See the full <a href="/disclosure/">partner disclosure</a>.
+        SubAudit is funded by partner revenue from bulk-refill suppliers and a few
+        category-specific retailers who are not themselves the targets of our price-hike
+        coverage. When you click through an partner links and buy, we earn a small
+        commission at no extra cost to you. See the full <a href="/disclosure/">partner
+        disclosure</a>.
       </p>
       <p>
-        {b.fullName} uses AI tools for research drafting and initial article structure.
-        Every piece is reviewed and edited by{' '}
-        <a href={`/authors/${defaultAuthorSlug}/`}>Morgan Hale</a>
-        before publish. Dollar amounts, renewal dates, and cancel URLs are verified
+        SubAudit uses AI tools for research drafting and initial article structure.
+        Every piece is reviewed and edited by <a href="/authors/dana-wolff/">Dana Wolff</a>
+        before publish. Factual claims, dollar amounts, and brand names are verified
         by a human before they appear on the site.
       </p>
 
       <h2>Corrections</h2>
       <p>
-        Wrong price? Wrong renewal date? Link to the billing page or statement export and email
-        <a href={`mailto:${support}`}>{support}</a>. We correct fast
+        Wrong price? Wrong date? Link to the receipt or the archived page and email
+        <a href="mailto:hello@https://subaudit.org">hello@https://subaudit.org</a>. We correct fast
         and leave a visible &ldquo;corrected on&rdquo; stamp on the page so readers know
         what changed and when.
       </p>
 
-      <h2>What {b.fullName} is not</h2>
+      <h2>What SubAudit is not</h2>
       <p>
-        {b.fullName} is consumer subscription journalism &mdash; not financial advice, not
-        tax guidance, not a substitute for reading your own card agreement. If recurring charges
-        are putting real stress on your monthly budget, we&rsquo;ll point you to the swap, but we
-        can&rsquo;t tell you how much to allocate to discretionary spend.
+        SubAudit is consumer-pricing journalism &mdash; not financial advice, not
+        investment guidance, not a substitute for a household budget conversation. If a
+        hike is putting real stress on your monthly spending, we&rsquo;ll point you to
+        the alternative, but we can&rsquo;t tell you how much to allocate to groceries.
       </p>
     </article>
   </section>

@@ -6,7 +6,7 @@ import home from '@/data/spawn-home.json';
 import { isHeroImageAvailable } from '@/lib/hero-image';
 
 const allArticles = await getCollection('articles', ({ data }) => data.status === 'published');
-const defaultAuthorSlug = (home as { defaultAuthorSlug?: string }).defaultAuthorSlug || 'morgan-hale-subaudit';
+const defaultAuthorSlug = (home as { defaultAuthorSlug?: string }).defaultAuthorSlug || 'dana-wolff';
 
 const articleData = allArticles.map((a) => ({
   slug: a.slug,
@@ -26,15 +26,15 @@ const subtopicLabels: Record<string, string> = {
   "packaging": "Packaging",
   "personal-care": "Personal Care",
 };
-const description = "Annualized subscription math, trial fine print, and swaps that lower your monthly burn.";
+const description = "Tracking shrinkflation and pricing tricks so you don't have to.";
 ---
 
 <BaseLayout title="Articles" description={description} sectionAds="articles" sectionAdsCompact>
   <PageIntro eyebrow="Latest from the desk" title="Articles" description={description} />
 
-  <section class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 pb-10 md:pb-14">
+  <section class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 pb-8 md:pb-10">
     {/* Filter + sort controls */}
-    <div class="flex flex-wrap gap-3 mb-5 items-center">
+    <div class="flex flex-wrap gap-3 mb-4 items-center">
       <div class="flex flex-wrap gap-2" id="filter-bar">
         <button
           data-filter="all"
@@ -96,7 +96,7 @@ const description = "Annualized subscription math, trial fine print, and swaps t
               alt={a.author}
               class="w-6 h-6 rounded-full object-cover bg-cream-200"
               loading="lazy"
-              onerror="this.onerror=null;this.src='/authors/morgan-hale-subaudit.svg'"
+              onerror="this.onerror=null;this.src='/authors/dana-wolff.svg'"
             />
             {(a.updatedAt || a.publishedAt) && (
               <span>{new Date(a.updatedAt || a.publishedAt).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}</span>
