@@ -136,3 +136,8 @@ End-of-life care for your Silvertail cat over ten years is about honoring their 
 
 **Q:** How can I make vet visits less stressful for my elderly cat?  
 **A:** Use familiar bedding in carriers, schedule quiet appointments, maintain calm environments, and consider pheromone sprays or mobile vets if available.
+
+## Our picks worth a closer look
+
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+

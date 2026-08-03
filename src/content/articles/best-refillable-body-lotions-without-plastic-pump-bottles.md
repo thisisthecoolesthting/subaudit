@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Best Refillable Body Lotions Without Plastic Pump Bottles
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 updatedAt: '2026-05-12T10:11:16Z'
-
 relatedProducts:
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B07D5DN269"
-- "B07RVMZNYR"
-- "B07VVK39F7"
-- "B083BFPGD8"
-- "B09W9MF63Y"
-- "B0CGW48C3G"
+- B00CAZAU62
+- B00NQ1CLTI
+- B07D5DN269
+- B07RVMZNYR
+- B07VVK39F7
+- B083BFPGD8
+- B09W9MF63Y
+- B0CGW48C3G
 status: published
 heroImage: /images/hero/best-refillable-body-lotions-without-plastic-pump-bottles.jpg
 subtopic: personal-care
@@ -183,3 +182,8 @@ If you buy “refillable” lotions but the refill is a tiny plastic bottle itse
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+

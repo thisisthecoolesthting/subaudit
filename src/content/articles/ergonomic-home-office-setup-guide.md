@@ -1,18 +1,18 @@
 ---
-title: "How to Set Up an Ergonomic Home Office for Under $500"
-metaDescription: "A practical guide to building an ergonomic home office on a $500 budget — chair, desk, monitor position, and lighting."
+title: How to Set Up an Ergonomic Home Office for Under $500
+metaDescription: A practical guide to building an ergonomic home office on a $500 budget — chair, desk, monitor position, and lighting.
 publishedAt: '2026-05-13'
 updatedAt: '2026-05-13'
-excerpt: "A practical guide to building an ergonomic home office on a $500 budget — chair, desk, monitor position, and lighting."
-targetKeyword: "ergonomic home office setup"
+excerpt: A practical guide to building an ergonomic home office on a $500 budget — chair, desk, monitor position, and lighting.
+targetKeyword: ergonomic home office setup
 relatedProducts: []
 status: published
 tags:
-  - ergonomic
-  - home-office
-  - standing-desk
-  - monitor-height
-author: "nate-chairwise"
+- ergonomic
+- home-office
+- standing-desk
+- monitor-height
+author: nate-chairwise
 ---
 
 This is the comprehensive guide to **ergonomic home office setup** — covering everything you need to make informed decisions.
@@ -82,3 +82,11 @@ at any level. Invest time in the basics before upgrading gear.
 
 Browse our [articles](/articles) for in-depth coverage of specific topics, techniques, and
 comparisons within ergonomic home office setup.
+
+## Our picks worth a closer look
+
+- **[Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/)** — see current price and specs.
+- **[Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set/)** — see current price and specs.
+- **[LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/)** — see current price and specs.
+- **[RCA Roku Smart Home Theater Projector - Stream Netflix, Prime Video, Hulu, Disne](/products/b083td3v4j-rca-roku-smart-home-theater-projector-stream-netflix-prime-v/)** — see current price and specs.
+

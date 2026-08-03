@@ -129,3 +129,10 @@ By pairing adjustable lighting with ergonomically measured seating features such
 - [Adjustable Lighting Solutions for a Comfortable Home Office](/articles/adjustable-lighting-solutions-for-a-comfortable-home-office/)
 - [How Proper Lighting Influences Cognitive Performance at Work](/articles/how-proper-lighting-influences-cognitive-performance-at-work/)
 - [How Proper Lighting Reduces Mistakes and Enhances Accuracy](/articles/how-proper-lighting-reduces-mistakes-and-enhances-accuracy/)
+
+## Our picks worth a closer look
+
+- **[LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/)** — see current price and specs.
+- **[Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yie](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/)** — see current price and specs.
+- **[RCA Roku Smart Home Theater Projector - Stream Netflix, Prime Video, Hulu, Disne](/products/b083td3v4j-rca-roku-smart-home-theater-projector-stream-netflix-prime-v/)** — see current price and specs.
+

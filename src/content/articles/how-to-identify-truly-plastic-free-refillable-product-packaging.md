@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: How to Identify Truly Plastic-Free Refillable Product Packaging
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 updatedAt: '2026-05-12T10:04:17Z'
-
 relatedProducts:
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B098JD8HD3"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B00WSAXBQ0
+- B07C11YW88
+- B082Y7X9H5
+- B083BFPGD8
+- B08GX3K9YS
+- B098JD8HD3
+- B0BVYBVHK5
+- B0CYJV9X52
 status: published
 heroImage: /images/hero/how-to-identify-truly-plastic-free-refillable-product-packaging.jpg
 subtopic: personal-care
@@ -185,3 +184,9 @@ To be "truly" plastic-free and refillable, both the **primary container** and th
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/)** — see current price and specs.
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+

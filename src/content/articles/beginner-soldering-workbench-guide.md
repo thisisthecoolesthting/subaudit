@@ -1,18 +1,18 @@
 ---
-title: "Getting Started with Soldering: Complete Beginner Workbench Setup"
-metaDescription: "Everything you need for a first soldering workbench: iron, tip, flux, solder type, and fume extraction — prioritized by what matters most."
+title: 'Getting Started with Soldering: Complete Beginner Workbench Setup'
+metaDescription: 'Everything you need for a first soldering workbench: iron, tip, flux, solder type, and fume extraction — prioritized by what matters most.'
 publishedAt: '2026-05-13'
 updatedAt: '2026-05-13'
-excerpt: "Everything you need for a first soldering workbench: iron, tip, flux, solder type, and fume extraction — prioritized by what matters most."
-targetKeyword: "beginner soldering setup guide"
+excerpt: 'Everything you need for a first soldering workbench: iron, tip, flux, solder type, and fume extraction — prioritized by what matters most.'
+targetKeyword: beginner soldering setup guide
 relatedProducts: []
 status: published
 tags:
-  - soldering
-  - beginner
-  - workbench
-  - electronics
-author: "eli-tinkerbench"
+- soldering
+- beginner
+- workbench
+- electronics
+author: eli-tinkerbench
 ---
 
 This is the comprehensive guide to **beginner soldering setup guide** — covering everything you need to make informed decisions.
@@ -82,3 +82,8 @@ at any level. Invest time in the basics before upgrading gear.
 
 Browse our [articles](/articles) for in-depth coverage of specific topics, techniques, and
 comparisons within beginner soldering setup guide.
+
+## Our picks worth a closer look
+
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+

@@ -9,12 +9,12 @@ rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B07Q5J5YXV?tag=subaudit-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B07Q5J5YXV?tag=subaudit-20
 isPrime: false
 status: published
-firstSeen: "2026-06-02"
-lastSeen: "2026-06-02"
+firstSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:31:44+00:00'
 slug: b07q5j5yxv-b07q5j5yxv
 cardTitle: B07Q5J5YXV
 cardPick: Solid pick for most readers

@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Best Refillable Cleaning Tools for Plastic Reduction at Home
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 updatedAt: '2026-05-12T10:14:07Z'
-
 relatedProducts:
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07D5DN269"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
-- "B0D92PVDQH"
+- B073Q8P6CQ
+- B07C11YW88
+- B07D5DN269
+- B082Y7X9H5
+- B08GX3K9YS
+- B0BVYBVHK5
+- B0CYJV9X52
+- B0D92PVDQH
 status: published
 heroImage: /images/hero/best-refillable-cleaning-tools-for-plastic-reduction-at-home.jpg
 subtopic: cleaning
@@ -236,3 +235,10 @@ Seek refillables with clear, full ingredient disclosures that specify active com
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/)** — see current price and specs.
+- **[RCA Roku Smart Home Theater Projector - Stream Netflix, Prime Video, Hulu, Disne](/products/b083td3v4j-rca-roku-smart-home-theater-projector-stream-netflix-prime-v/)** — see current price and specs.
+

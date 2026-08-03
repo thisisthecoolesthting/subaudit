@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Best Refillable Face Washes for Oily and Dry Skin Types
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 updatedAt: '2026-05-12T10:09:30Z'
-
 relatedProducts:
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B09W9MF63Y"
-- "B0B2RM68G2"
-- "B0BVYBVHK5"
+- B073Q8P6CQ
+- B074ND5RDT
+- B07C11YW88
+- B082Y7X9H5
+- B08GX3K9YS
+- B09W9MF63Y
+- B0B2RM68G2
+- B0BVYBVHK5
 status: published
 heroImage: /images/hero/best-refillable-face-washes-for-oily-and-dry-skin-types.jpg
 subtopic: personal-care
@@ -172,3 +171,9 @@ But “refillable” doesn’t always mean better. Some refills come in bulky pl
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+- **[Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/)** — see current price and specs.
+

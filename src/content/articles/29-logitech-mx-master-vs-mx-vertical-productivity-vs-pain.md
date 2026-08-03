@@ -123,3 +123,8 @@ Ultimately, both mice offer good ergonomic improvements over basic office mice, 
 - [Standing Desk Height Adjustment: Finding Your Ideal Position](/articles/standing-desk-height-adjustment-finding-your-ideal-position/)
 - [How to Prevent Neck Pain with Proper Monitor Placement](/articles/how-to-prevent-neck-pain-with-proper-monitor-placement/)
 - [How to Position Dual Monitors Ergonomically in Your Home Office](/articles/how-to-position-dual-monitors-ergonomically-in-your-home-office/)
+
+## Our picks worth a closer look
+
+- **[Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/)** — see current price and specs.
+

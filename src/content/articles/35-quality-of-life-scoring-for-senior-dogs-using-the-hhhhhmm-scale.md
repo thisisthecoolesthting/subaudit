@@ -136,3 +136,8 @@ Once you have a series of scores over several days or weeks:
 ---
 
 Using the HHHHHMM scale equips you with a clear, compassionate framework to honestly assess and improve your senior dog’s quality of life. It empowers thoughtful decisions, maximizes comfort, and honors the invaluable companionship of your aging friend.
+
+## Our picks worth a closer look
+
+- **[Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set/)** — see current price and specs.
+

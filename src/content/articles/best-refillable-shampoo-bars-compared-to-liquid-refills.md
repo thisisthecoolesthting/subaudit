@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Best Refillable Shampoo Bars Compared to Liquid Refills
 cardPick: Solid shampoo and conditioner bars that cut bottle waste without sacrificing results.
 updatedAt: '2026-05-12T10:15:46Z'
-
 relatedProducts:
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B074ND5RDT"
-- "B07RVMZNYR"
-- "B07VVK39F7"
-- "B083BFPGD8"
-- "B09W9MF63Y"
-- "B0CGW48C3G"
+- B00CAZAU62
+- B00NQ1CLTI
+- B074ND5RDT
+- B07RVMZNYR
+- B07VVK39F7
+- B083BFPGD8
+- B09W9MF63Y
+- B0CGW48C3G
 status: published
 heroImage: /images/hero/best-refillable-shampoo-bars-compared-to-liquid-refills.jpg
 subtopic: personal-care
@@ -194,3 +193,9 @@ Both options drastically reduce plastic bottle waste compared to single-use bott
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)** — see current price and specs.
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+

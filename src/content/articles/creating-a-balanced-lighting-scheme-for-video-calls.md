@@ -155,3 +155,8 @@ By investing effort into creating a balanced lighting scheme with ergonomic adju
 - [Lighting Design Ideas to Create an Inviting Home Office](/articles/lighting-design-ideas-to-create-an-inviting-home-office/)
 - [Tips for Maintaining Good Posture While Working from Home](/articles/tips-for-maintaining-good-posture-while-working-from-home/)
 - [Best Lighting Types to Reduce Eye Strain While Working](/articles/best-lighting-types-to-reduce-eye-strain-while-working/)
+
+## Our picks worth a closer look
+
+- **[RCA Roku Smart Home Theater Projector - Stream Netflix, Prime Video, Hulu, Disne](/products/b083td3v4j-rca-roku-smart-home-theater-projector-stream-netflix-prime-v/)** — see current price and specs.
+

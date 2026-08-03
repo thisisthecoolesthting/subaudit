@@ -7,14 +7,14 @@ pillarSlug: subscription-creep-busters
 cardTitle: Amazon Prime at $139/Year
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- "B001EQ4G0O"
-- "B001QY8QXM"
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B07F97MPYT"
-- "B07RVMZNYR"
-- "B083BFPGD8"
+- B001EQ4G0O
+- B001QY8QXM
+- B00CAZAU62
+- B00NQ1CLTI
+- B073Q8P6CQ
+- B07F97MPYT
+- B07RVMZNYR
+- B083BFPGD8
 status: published
 tags:
 - Amazon Prime
@@ -263,3 +263,12 @@ Pay for shipping only when you need it; skip memberships entirely.
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+- **[Amazon Basics Pre-Seasoned Cast Iron Skillet, Oven Safe, Even Heating, Heat Dist](/products/b073q8p6cq-b073q8p6cq/)** — see current price and specs.
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[RCA Roku Smart Home Theater Projector - Stream Netflix, Prime Video, Hulu, Disne](/products/b083td3v4j-rca-roku-smart-home-theater-projector-stream-netflix-prime-v/)** — see current price and specs.
+- **[Splin Table Stand Holder Compatible with Amazon Alexa Smart Speaker Echo Dot (4t](/products/b0ckgkbp93-splin-table-stand-holder-compatible-with-amazon-alexa-smart/)** — see current price and specs.
+

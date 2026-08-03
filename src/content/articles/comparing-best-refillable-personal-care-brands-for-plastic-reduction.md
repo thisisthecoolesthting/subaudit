@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Comparing Best Refillable Personal Care Brands for Plastic Reduction
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 updatedAt: '2026-05-12T05:53:37Z'
-
 relatedProducts:
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B07D5DN269"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B00WSAXBQ0
+- B07C11YW88
+- B07D5DN269
+- B07RVMZNYR
+- B082Y7X9H5
+- B08GX3K9YS
+- B0BVYBVHK5
+- B0CYJV9X52
 status: published
 heroImage: /images/hero/comparing-best-refillable-personal-care-brands-for-plastic-reduction.jpg
 subtopic: personal-care
@@ -194,3 +193,8 @@ Choosing the right refillable system means assessing your priorities around plas
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+

@@ -9,12 +9,12 @@ rating: 4.5
 bsr: 117
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/21TydpvXymL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0D2RYDMYW?tag=subaudit-20"
+imageUrl: https://m.media-amazon.com/images/I/21TydpvXymL.jpg
+affiliateUrl: https://www.amazon.com/dp/B0D2RYDMYW?tag=subaudit-20
 isPrime: false
 status: published
-firstSeen: "2026-06-02"
-lastSeen: "2026-06-02"
+firstSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:31:44+00:00'
 slug: b0d2rydmyw-splin-table-stand-holder-compatible-with-amazon-alexa-smart-
 cardTitle: Splin Table Stand Holder Compatible with Amazon Alexa Smart Speaker Echo Dot (4t
 cardPick: Solid pick for most readers

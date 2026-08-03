@@ -113,3 +113,8 @@ Turmeric (curcumin) offers promising natural support particularly for dogs with 
 
 **Q: Can turmeric replace my dog’s arthritis medication?**  
 **A:** No, turmeric should be considered a complementary supplement. Always follow your vet’s recommendations for managing arthritis.
+
+## Our picks worth a closer look
+
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+

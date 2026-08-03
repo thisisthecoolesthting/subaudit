@@ -4,16 +4,15 @@ site: refillwatch
 topic: Best Refillable Deodorant Brands for Sensitive Skin Reviewed
 tier: mvp
 updatedAt: '2026-05-12T10:26:00Z'
-
 relatedProducts:
-- "B001QY8QXM"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07F97MPYT"
-- "B07VVK39F7"
-- "B082Y7X9H5"
-- "B0B2RM68G2"
-- "B0BVYBVHK5"
+- B001QY8QXM
+- B073Q8P6CQ
+- B07C11YW88
+- B07F97MPYT
+- B07VVK39F7
+- B082Y7X9H5
+- B0B2RM68G2
+- B0BVYBVHK5
 status: published
 heroImage: /images/hero/best-refillable-deodorant-brands-for-sensitive-skin-reviewed.jpg
 subtopic: personal-care
@@ -176,3 +175,8 @@ Here’s a strategic approach:
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+

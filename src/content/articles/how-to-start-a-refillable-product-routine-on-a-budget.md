@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: How to Start a Refillable Product Routine on a Budget
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 updatedAt: '2026-05-12T10:23:05Z'
-
 relatedProducts:
-- "B001QY8QXM"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07VVK39F7"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B0BVYBVHK5"
+- B001QY8QXM
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B07C11YW88
+- B07VVK39F7
+- B082Y7X9H5
+- B083BFPGD8
+- B0BVYBVHK5
 status: published
 heroImage: /images/hero/how-to-start-a-refillable-product-routine-on-a-budget.jpg
 subtopic: personal-care
@@ -197,3 +196,8 @@ Starting a refillable product routine on a budget hinges on understanding both y
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+

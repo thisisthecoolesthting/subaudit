@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Best Refillable Fabric Softener Options Without Plastic Bottles
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 updatedAt: '2026-05-12T09:59:01Z'
-
 relatedProducts:
-- "B0014D3N0Q"
-- "B001QY8QXM"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B0014D3N0Q
+- B001QY8QXM
+- B07C11YW88
+- B082Y7X9H5
+- B083BFPGD8
+- B08GX3K9YS
+- B0BVYBVHK5
+- B0CYJV9X52
 status: published
 heroImage: /images/hero/best-refillable-fabric-softener-options-without-plastic-bottles.jpg
 subtopic: personal-care
@@ -205,3 +204,9 @@ Look for documented plastic weight savings or packaging audits from brands or th
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count](/products/b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count/)** — see current price and specs.
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+

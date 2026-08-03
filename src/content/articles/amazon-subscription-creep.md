@@ -1,18 +1,15 @@
 ---
 title: Amazon Subscription Creep — Find and Kill Hidden Recurring Charges
-metaDescription: >-
-  Prime add-ons, Subscribe & Save, and digital trials hiding in your Amazon account —
-  a 15-minute audit walkthrough.
+metaDescription: Prime add-ons, Subscribe & Save, and digital trials hiding in your Amazon account — a 15-minute audit walkthrough.
 publishedAt: '2026-06-01'
 updatedAt: '2026-06-01'
 reviewedAt: '2026-06-01'
-excerpt: >-
-  Where Amazon hides recurring charges and how to cancel without chat support.
+excerpt: Where Amazon hides recurring charges and how to cancel without chat support.
 targetKeyword: amazon subscription creep
 status: published
 tags:
-  - amazon
-  - subscribe and save
+- amazon
+- subscribe and save
 author: morgan-hale-subaudit
 ---
 
@@ -50,3 +47,8 @@ Physical Subscribe & Save orders can still earn **product commission** via Assoc
 - [Denon DJ X1850 PRIME – Professional 4 Channel Digital DJ Mixer With USB, Digital and Switchable Phono/Line Inputs Plus Built-In DJ FX](/products/b083pzhycl-denon-dj-x1850-prime-professional-4-channel-digital-dj-mixer/)
 - [How To Cancel Britbox Subscription for Prime Members Guide](/products/b0dnqvt4qx-how-to-cancel-britbox-subscription-for-prime-members-guide/)
 - [Subscription Business Model A Complete Guide - 2020 Edition](/products/0655913424-subscription-business-model-a-complete-guide-2020-edition/)
+
+## Our picks worth a closer look
+
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+

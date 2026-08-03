@@ -151,3 +151,8 @@ The 20-20-20 rule and the recommended monitor distance provide strong foundation
 - [25. External displays for laptop users: 24 vs 27 vs 32 inches](/articles/25-external-displays-for-laptop-users-24-vs-27-vs-32-inches/)
 - [Monitor Arm Positioning Tips to Avoid Neck and Eye Strain](/articles/monitor-arm-positioning-tips-to-avoid-neck-and-eye-strain/)
 - [Tips for Maintaining Good Posture While Working from Home](/articles/tips-for-maintaining-good-posture-while-working-from-home/)
+
+## Our picks worth a closer look
+
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+

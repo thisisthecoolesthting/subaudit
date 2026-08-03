@@ -119,3 +119,8 @@ With these criteria in mind, you’ll replace frustration and discomfort with a 
 - [Finding the Right Monitor Arm for Your Heavy Display: Stability and Ergonomics](/articles/monitor-arm-for-heavy-monitor/)
 - [Monitor Arm Compatibility with Ultra-Wide and Curved Displays](/articles/monitor-arm-compatibility-with-ultra-wide-and-curved-displays/)
 - [Monitor Arms with Swivel and Tilt for Maximum Flexibility](/articles/monitor-arms-with-swivel-and-tilt-for-maximum-flexibility/)
+
+## Our picks worth a closer look
+
+- **[Amazon Basics Pre-Seasoned Cast Iron Skillet, Oven Safe, Even Heating, Heat Dist](/products/b073q8p6cq-b073q8p6cq/)** — see current price and specs.
+

@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Best Refillable Toothpaste Tablets for Travel and Plastic Reduction
 cardPick: Low-waste oral care swaps—paste, brushes, and refills worth the shelf space.
 updatedAt: '2026-05-12T10:20:09Z'
-
 relatedProducts:
-- "B001QY8QXM"
-- "B07C11YW88"
-- "B07D5DN269"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B001QY8QXM
+- B07C11YW88
+- B07D5DN269
+- B082Y7X9H5
+- B083BFPGD8
+- B08GX3K9YS
+- B0BVYBVHK5
+- B0CYJV9X52
 status: published
 heroImage: /images/hero/best-refillable-toothpaste-tablets-for-travel-and-plastic-reduction.jpg
 subtopic: personal-care
@@ -175,3 +174,8 @@ You’ll want a format that seals well and fits your packing habits. Some travel
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+

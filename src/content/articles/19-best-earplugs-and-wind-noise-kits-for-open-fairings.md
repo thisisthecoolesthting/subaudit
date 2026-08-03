@@ -1,7 +1,6 @@
 ---
 title: Best earplugs and wind-noise kits for open fairings
-metaDescription: Best earplugs and wind-noise kits for open fairings. Practical guide
-  covering Best earplugs and wind-noise kits for open fairings.
+metaDescription: Best earplugs and wind-noise kits for open fairings. Practical guide covering Best earplugs and wind-noise kits for open fairings.
 publishedAt: '2026-06-02'
 updatedAt: '2026-06-02'
 excerpt: Best earplugs and wind-noise kits for open fairings
@@ -19,16 +18,11 @@ tier: full
 relatedProducts: []
 status: published
 keyTakeaways:
-- Custom-fit earplugs and high-fidelity reusable earplugs balance noise reduction
-  and situational awareness best for open fairings.
-- Wind-noise kits including deflectors and windscreen extensions significantly reduce
-  noise by managing airflow around the helmet.
-- The best earplugs for cruiser riders offer noise reduction ratings (NRR) around
-  25–30 dB without muffling engine or rider-to-rider communication.
-- Comfort and durability matter; look for moisture-resistant materials and easy-to-clean
-  designs for multi-day rides.
-- A modular approach combining good earplugs with wind-noise fairing mods provides
-  the widest comfort window and hearing protection.
+- Custom-fit earplugs and high-fidelity reusable earplugs balance noise reduction and situational awareness best for open fairings.
+- Wind-noise kits including deflectors and windscreen extensions significantly reduce noise by managing airflow around the helmet.
+- The best earplugs for cruiser riders offer noise reduction ratings (NRR) around 25–30 dB without muffling engine or rider-to-rider communication.
+- Comfort and durability matter; look for moisture-resistant materials and easy-to-clean designs for multi-day rides.
+- A modular approach combining good earplugs with wind-noise fairing mods provides the widest comfort window and hearing protection.
 hero_image_keywords:
 - earplugs wind-noise kits
 - kits open fairings
@@ -134,3 +128,8 @@ Yes, if you ride frequently or tour long distances. Custom molded earplugs give 
 ---
 
 Protecting your ears doesn’t have to mean sacrificing the open-air feel that makes cruiser riding special. From my years on the road and in the garage, combining the right earplugs and fairing mods offers a quiet, enjoyable riding experience even on the noisiest high-speed stretches. Don’t wait until your ears remind you—invest in your hearing protection and ride on comfortably.
+
+## Our picks worth a closer look
+
+- **[ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)** — see current price and specs.
+

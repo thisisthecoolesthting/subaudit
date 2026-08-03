@@ -7,17 +7,17 @@ pillarSlug: refill-reuse-save
 cardTitle: Best Reusable Water Bottles
 cardPick: Water and grocery price traps—pitcher, coffee, and bulk staples compared.
 relatedProducts:
-- "B00002N68B"
-- "B001QY8QXM"
-- "B00CBBJ5KY"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07G82D89G"
-- "B09DY7CCW5"
-- "B09W9MF63Y"
-- "B0C7ZTV376"
-- "B0CGW2TFSV"
+- B00002N68B
+- B001QY8QXM
+- B00CBBJ5KY
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B07C11YW88
+- B07G82D89G
+- B09DY7CCW5
+- B09W9MF63Y
+- B0C7ZTV376
+- B0CGW2TFSV
 status: published
 tags:
 - reusable water bottles
@@ -252,3 +252,8 @@ If you're already watching for shrinkflation in your grocery cart, this one is a
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)** — see current price and specs.
+

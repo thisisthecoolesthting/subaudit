@@ -106,3 +106,8 @@ Arthritis, hip dysplasia, or post-operative recovery may demand minimizing slope
 
 **Q:** Is it better to get a fixed ramp or a foldable portable one?  
 **A:** Fixed ramps offer stability and durability but need space. Foldable ramps provide portability but may be less sturdy, so assess your dog’s needs and environment.
+
+## Our picks worth a closer look
+
+- **[LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/)** — see current price and specs.
+

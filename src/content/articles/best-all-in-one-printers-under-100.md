@@ -1,21 +1,21 @@
 ---
-title: "best-all-in-one-printers-under-100"
+title: best-all-in-one-printers-under-100
 site: inkledger
-topic: "printer-ink"
+topic: printer-ink
 tier: mvp
-cardTitle: "best-all-in-one-printers-under-100"
-cardPick: "Editorial printer-ink pick from InkLedger."
+cardTitle: best-all-in-one-printers-under-100
+cardPick: Editorial printer-ink pick from InkLedger.
 updatedAt: '2026-06-06T03:05:48.075Z'
 relatedProducts: []
 status: published
 subtopic: printer-ink
 publishedAt: '2026-06-06T03:05:48.075Z'
-metaDescription: "best-all-in-one-printers-under-100"
-excerpt: "best-all-in-one-printers-under-100"
+metaDescription: best-all-in-one-printers-under-100
+excerpt: best-all-in-one-printers-under-100
 heroImage: /images/hero/home.jpg
 tags:
-  - inkledger
-  - home gym
+- inkledger
+- home gym
 author: marcus-webb
 ---
 
@@ -84,3 +84,12 @@ Before committing to an all-in-one printer, consider whether you truly need all 
 Choosing the best all-in-one printer under $100 requires careful consideration of your printing needs and budget. Don't be swayed solely by the low upfront price; factor in the long-term cost of ink, and prioritize features that are important to you. By doing your research and comparing different models, you can find a budget-friendly printer that meets your needs without breaking the bank. Remember that managing expectations is key. While you might not get the same level of performance as a more expensive model, a well-chosen budget printer can still provide reliable printing, scanning, and copying capabilities for everyday tasks.
 
 And always, *always* keep an eye on those ink prices. They're the silent killer of budget-friendly printing.
+
+## Our picks worth a closer look
+
+- **[Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/)** — see current price and specs.
+- **[ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)** — see current price and specs.
+- **[Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-b001qy8qxm/)** — see current price and specs.
+- **[LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/)** — see current price and specs.
+- **[Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yie](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/)** — see current price and specs.
+

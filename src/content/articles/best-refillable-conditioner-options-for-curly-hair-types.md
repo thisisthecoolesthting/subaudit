@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Best Refillable Conditioner Options for Curly Hair Types
 cardPick: Solid shampoo and conditioner bars that cut bottle waste without sacrificing results.
 updatedAt: '2026-05-12T10:18:53Z'
-
 relatedProducts:
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07Z6TV9Y7"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
-- "B0D92PVDQH"
+- B073Q8P6CQ
+- B07C11YW88
+- B07Z6TV9Y7
+- B082Y7X9H5
+- B08GX3K9YS
+- B0BVYBVHK5
+- B0CYJV9X52
+- B0D92PVDQH
 status: published
 heroImage: /images/hero/best-refillable-conditioner-options-for-curly-hair-types.jpg
 subtopic: personal-care
@@ -209,3 +208,9 @@ Refillable conditioners for curly hair are not only an eco-conscious choice but 
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/)** — see current price and specs.
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+

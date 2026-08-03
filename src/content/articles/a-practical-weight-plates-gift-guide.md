@@ -1,21 +1,21 @@
 ---
-title: "a-practical-weight-plates-gift-guide"
+title: a-practical-weight-plates-gift-guide
 site: gymledger
-topic: "home-gym"
+topic: home-gym
 tier: mvp
-cardTitle: "a-practical-weight-plates-gift-guide"
-cardPick: "Editorial home-gym pick from GymLedger."
+cardTitle: a-practical-weight-plates-gift-guide
+cardPick: Editorial home-gym pick from GymLedger.
 updatedAt: '2026-06-06T02:39:56.125Z'
 relatedProducts: []
 status: published
 subtopic: home-gym
 publishedAt: '2026-06-06T02:39:56.125Z'
-metaDescription: "a-practical-weight-plates-gift-guide"
-excerpt: "a-practical-weight-plates-gift-guide"
+metaDescription: a-practical-weight-plates-gift-guide
+excerpt: a-practical-weight-plates-gift-guide
 heroImage: /images/hero/home.jpg
 tags:
-  - gymledger
-  - home gym
+- gymledger
+- home gym
 author: marcus-webb
 ---
 
@@ -99,3 +99,9 @@ A well-organized gym is a safe gym. Proper weight plate storage not only keeps y
 For the handy lifter, consider a DIY weight plate storage solution. This can be a cost-effective way to customize storage to fit your specific needs and space. Plans for DIY plate racks are readily available online.
 
 By carefully considering these factors, you can select weight plates and storage solutions that will be a welcome addition to any home gym. And remember to check out our reviews of [Best gym-flooring upgrades for small spaces](/gym-flooring-upgrades-for-small-spaces) to complete the gift.
+
+## Our picks worth a closer look
+
+- **[LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/)** — see current price and specs.
+- **[RCA Roku Smart Home Theater Projector - Stream Netflix, Prime Video, Hulu, Disne](/products/b083td3v4j-rca-roku-smart-home-theater-projector-stream-netflix-prime-v/)** — see current price and specs.
+

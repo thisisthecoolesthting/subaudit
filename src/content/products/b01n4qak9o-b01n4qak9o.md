@@ -9,12 +9,12 @@ rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B01N4QAK9O?tag=subaudit-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B01N4QAK9O?tag=subaudit-20
 isPrime: false
 status: published
-firstSeen: "2026-06-02"
-lastSeen: "2026-06-02"
+firstSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:31:44+00:00'
 slug: b01n4qak9o-b01n4qak9o
 cardTitle: B01N4QAK9O
 cardPick: Solid pick for most readers

@@ -112,3 +112,8 @@ Optimizing your workspace lighting with attentiveness to intensity, color temper
 - [Optimal Lighting Solutions to Enhance Workspace Productivity](/articles/optimal-lighting-solutions-to-enhance-workspace-productivity/)
 - [How to Combine Natural and Artificial Lighting Ergonomically](/articles/how-to-combine-natural-and-artificial-lighting-ergonomically/)
 - [Best Lighting Types to Reduce Eye Strain While Working](/articles/best-lighting-types-to-reduce-eye-strain-while-working/)
+
+## Our picks worth a closer look
+
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+
