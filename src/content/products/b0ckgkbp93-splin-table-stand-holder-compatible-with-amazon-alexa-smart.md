@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B0CKGKBP93?tag=subaudit-20
 isPrime: false
 status: published
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:40:23+00:00'
+lastSeen: '2026-08-03T15:43:47+00:00'
 slug: b0ckgkbp93-splin-table-stand-holder-compatible-with-amazon-alexa-smart-
 cardTitle: Splin Table Stand Holder Compatible with Amazon Alexa Smart Speaker Echo Dot (4t
 cardPick: Solid pick for most readers
