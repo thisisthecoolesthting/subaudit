@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Refillable vs Disposable Sponges
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 updatedAt: '2026-05-12T09:56:25Z'
-
 relatedProducts:
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07F97MPYT"
-- "B09W9MF63Y"
-- "B0D92PVDQH"
+- B00CAZAU62
+- B00NQ1CLTI
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B07C11YW88
+- B07F97MPYT
+- B09W9MF63Y
+- B0D92PVDQH
 status: published
 heroImage: /images/hero/refillable-vs-disposable-sponges-which-is-more-sustainable.jpg
 subtopic: personal-care
@@ -218,3 +217,8 @@ Ultimately, the most sustainable choice aligns with reducing single-use plastic 
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+

@@ -7,22 +7,22 @@ pillarSlug: subscription-savings
 cardTitle: 'Beyond the Blade: Cheaper Alternatives to Razor Subscriptions'
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- "B000NH7BPW"
-- "B001QY8QXM"
-- "B00WSAXBQ0"
-- "B01N4QAK9O"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B08PZBPXLZ"
-- "B098JD8HD3"
-- "B09VXQ221K"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0DHV7ZWH2"
-- "B0DHV8SCLS"
-- "B0G63G9LRJ"
+- B000NH7BPW
+- B001QY8QXM
+- B00WSAXBQ0
+- B01N4QAK9O
+- B073Q8P6CQ
+- B07C11YW88
+- B07RVMZNYR
+- B082Y7X9H5
+- B08PZBPXLZ
+- B098JD8HD3
+- B09VXQ221K
+- B09W9MF63Y
+- B0BVYBVHK5
+- B0DHV7ZWH2
+- B0DHV8SCLS
+- B0G63G9LRJ
 status: published
 tags:
 - razor blade subscription
@@ -201,3 +201,10 @@ Regional price variations matter too. In Canada, subscription markups are 28% hi
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-b001qy8qxm/)** — see current price and specs.
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)** — see current price and specs.
+

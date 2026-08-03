@@ -18,7 +18,7 @@ affiliateUrl: https://www.amazon.com/dp/B00HHQX0BQ?tag=subaudit-20&linkCode=ll1&
 isPrime: true
 status: published
 firstSeen: '2026-04-24T00:00:00+00:00'
-lastSeen: '2026-08-03T15:31:44+00:00'
+lastSeen: '2026-08-03T15:33:15+00:00'
 tags:
 - coffee
 - grocery

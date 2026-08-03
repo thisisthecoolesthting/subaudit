@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Top Refillable Hand Sanitizers That Reduce Single-Use Plastic
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 updatedAt: '2026-05-12T10:12:19Z'
-
 relatedProducts:
-- "B001QY8QXM"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B001QY8QXM
+- B073Q8P6CQ
+- B07C11YW88
+- B082Y7X9H5
+- B08GX3K9YS
+- B09W9MF63Y
+- B0BVYBVHK5
+- B0CYJV9X52
 status: published
 heroImage: /images/hero/top-refillable-hand-sanitizers-that-reduce-single-use-plastic.jpg
 subtopic: personal-care
@@ -208,3 +207,8 @@ Even small reductions per use add up with regular sanitizer use, so refills can 
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+

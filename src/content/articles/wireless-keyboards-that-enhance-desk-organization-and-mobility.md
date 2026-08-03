@@ -129,3 +129,8 @@ Switching to a wireless keyboard can matter a lot if your desktop feels cluttere
 - [12. Standing desk converters that do not wobble, tested six units](/articles/12-standing-desk-converters-that-do-not-wobble-tested-six-units/)
 - [Keyboards with Split Design for Enhanced Typing Comfort](/articles/keyboards-with-split-design-for-enhanced-typing-comfort/)
 - [Benefits of Adjustable Standing Desks for Home Offices](/articles/benefits-of-adjustable-standing-desks-for-home-offices/)
+
+## Our picks worth a closer look
+
+- **[Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/)** — see current price and specs.
+

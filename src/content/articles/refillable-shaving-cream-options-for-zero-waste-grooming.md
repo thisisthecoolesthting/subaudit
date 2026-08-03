@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Refillable Shaving Cream Options for Zero-Waste Grooming
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 updatedAt: '2026-05-12T10:02:04Z'
-
 relatedProducts:
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CGW48C3G"
-- "B0CYJV9X52"
+- B073Q8P6CQ
+- B07C11YW88
+- B082Y7X9H5
+- B083BFPGD8
+- B08GX3K9YS
+- B0BVYBVHK5
+- B0CGW48C3G
+- B0CYJV9X52
 status: published
 heroImage: /images/hero/refillable-shaving-cream-options-for-zero-waste-grooming.jpg
 subtopic: personal-care
@@ -201,3 +200,8 @@ Using third-party refills or cartridges can sometimes lead to dispensing problem
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+

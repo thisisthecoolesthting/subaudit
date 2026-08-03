@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Personal Care Brand Showdown
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 updatedAt: '2026-05-12T09:47:42Z'
-
 relatedProducts:
-- "B00CAZAU62"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
+- B00CAZAU62
+- B073Q8P6CQ
+- B07C11YW88
+- B082Y7X9H5
+- B083BFPGD8
+- B08GX3K9YS
+- B09W9MF63Y
+- B0BVYBVHK5
 status: published
 heroImage: /images/hero/personal-care-brand-showdown-refillable-packaging-vs-conventional.jpg
 subtopic: personal-care
@@ -196,3 +195,8 @@ With thoughtful choices, refillable packaging can be a practical tool in your ho
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+

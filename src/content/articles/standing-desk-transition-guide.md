@@ -1,18 +1,18 @@
 ---
-title: "Standing Desk Guide: How to Transition Without Back Pain"
-metaDescription: "How long to stand, when to sit, how to set height correctly, and which anti-fatigue mats actually work."
+title: 'Standing Desk Guide: How to Transition Without Back Pain'
+metaDescription: How long to stand, when to sit, how to set height correctly, and which anti-fatigue mats actually work.
 publishedAt: '2026-05-13'
 updatedAt: '2026-05-13'
-excerpt: "How long to stand, when to sit, how to set height correctly, and which anti-fatigue mats actually work."
-targetKeyword: "standing desk guide"
+excerpt: How long to stand, when to sit, how to set height correctly, and which anti-fatigue mats actually work.
+targetKeyword: standing desk guide
 relatedProducts: []
 status: published
 tags:
-  - standing-desk
-  - anti-fatigue-mat
-  - posture
-  - ergonomics
-author: "nate-chairwise"
+- standing-desk
+- anti-fatigue-mat
+- posture
+- ergonomics
+author: nate-chairwise
 ---
 
 This is the comprehensive guide to **standing desk guide** — covering everything you need to make informed decisions.
@@ -82,3 +82,9 @@ at any level. Invest time in the basics before upgrading gear.
 
 Browse our [articles](/articles) for in-depth coverage of specific topics, techniques, and
 comparisons within standing desk guide.
+
+## Our picks worth a closer look
+
+- **[Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/)** — see current price and specs.
+- **[Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set/)** — see current price and specs.
+

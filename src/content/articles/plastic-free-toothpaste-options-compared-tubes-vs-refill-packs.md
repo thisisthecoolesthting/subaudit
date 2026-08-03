@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Plastic-Free Toothpaste Options Compared
 cardPick: Low-waste oral care swaps—paste, brushes, and refills worth the shelf space.
 updatedAt: '2026-05-12T09:52:14Z'
-
 relatedProducts:
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B07G82D89G"
-- "B07RVMZNYR"
-- "B07VVK39F7"
-- "B09W9MF63Y"
-- "B0CGW48C3G"
+- B00CAZAU62
+- B00NQ1CLTI
+- B073Q8P6CQ
+- B07G82D89G
+- B07RVMZNYR
+- B07VVK39F7
+- B09W9MF63Y
+- B0CGW48C3G
 status: published
 heroImage: /images/hero/plastic-free-toothpaste-options-compared-tubes-vs-refill-packs.jpg
 subtopic: personal-care
@@ -202,3 +201,10 @@ Plastic-free toothpaste is a clear opportunity to reduce bathroom plastics, but 
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/)** — see current price and specs.
+- **[ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)** — see current price and specs.
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+

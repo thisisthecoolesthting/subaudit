@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Top Refillable Deodorants That Are Aluminum and Plastic-Free
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 updatedAt: '2026-05-12T10:06:57Z'
-
 relatedProducts:
-- "B001QY8QXM"
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B07D5DN269"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CGW48C3G"
+- B001QY8QXM
+- B00CAZAU62
+- B00NQ1CLTI
+- B073Q8P6CQ
+- B07D5DN269
+- B09W9MF63Y
+- B0BVYBVHK5
+- B0CGW48C3G
 status: published
 heroImage: /images/hero/top-refillable-deodorants-that-are-aluminum-and-plastic-free.jpg
 subtopic: personal-care
@@ -199,3 +198,9 @@ Here’s a ranked list based on factors like ingredient transparency, refill ava
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/)** — see current price and specs.
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+

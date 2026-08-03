@@ -147,3 +147,9 @@ Cheap arms often use insufficient materials or simpler tension springs not meant
 - [Monitor Arm Weight Capacity: What You Need to Know](/articles/monitor-arm-weight-capacity-what-you-need-to-know/)
 - [Best Chairwise Monitor Arms for Multi-Monitor Workstations](/articles/best-chairwise-monitor-arms-for-multi-monitor-workstations/)
 - [20. Ergotron LX vs Amazon Basics monitor arm: is the 5x price real?](/articles/20-ergotron-lx-vs-amazon-basics-monitor-arm-is-the-5x-price-real/)
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/)** — see current price and specs.
+

@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Why Refillable Products Are Key to Plastic-Free New Parents
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 updatedAt: '2026-05-12T10:19:23Z'
-
 relatedProducts:
-- "B001QY8QXM"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07D5DN269"
-- "B07RVMZNYR"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
+- B001QY8QXM
+- B073Q8P6CQ
+- B07C11YW88
+- B07D5DN269
+- B07RVMZNYR
+- B083BFPGD8
+- B08GX3K9YS
+- B0BVYBVHK5
 status: published
 heroImage: /images/hero/why-refillable-products-are-key-to-plastic-free-new-parents.jpg
 subtopic: personal-care
@@ -190,3 +189,10 @@ Not all refillable claims lead to real plastic waste reduction. Here’s a compa
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+- **[Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/)** — see current price and specs.
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+

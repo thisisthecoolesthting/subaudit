@@ -3,14 +3,14 @@ title: 'Split Keyboards for Wrist Pain: Which Models Actually Work (Lab + 60-Day
 metaDescription: 'Split keyboard testing: 180+ hours, 5 models, pressure mapping & EMG data. Tenting angles, palm support, key travel. 2 genuinely reduce wrist strain.'
 metaTitle: 'Split Keyboard for Wrist Pain: Lab-Tested Models | ChairWise'
 ogTitle: 'Split Keyboards: Which Models Actually Work?'
-ogDescription: 'Median nerve pressure tested with sensors. 2 of 5 models reduced RSI risk 73%. Tenting angle over 15 degrees critical for neutral wrist alignment.'
+ogDescription: Median nerve pressure tested with sensors. 2 of 5 models reduced RSI risk 73%. Tenting angle over 15 degrees critical for neutral wrist alignment.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: 'After 180+ hours of testing five split keyboards with pressure sensors and   real-world use, two models genuinely reduced wrist strain during 8+ hour workdays.   Three others created new problems or showed negligible benefit over basic ergonomic   setup.'
-pillarSlug: 'ergonomic-accessories-guides'
-status: 'published'
+excerpt: After 180+ hours of testing five split keyboards with pressure sensors and   real-world use, two models genuinely reduced wrist strain during 8+ hour workdays.   Three others created new problems or showed negligible benefit over basic ergonomic   setup.
+pillarSlug: ergonomic-accessories-guides
+status: published
 heroImage: /images/hero/home.jpg
-cardTitle: 'Best Ergonomic Chair for All-Day Remote Work Pain Relief'
-cardPick: 'Herman Miller Aeron reduces wrist and back strain through scientifically-designed   lumbar support and adjustable armrests for proper alignment.'
+cardTitle: Best Ergonomic Chair for All-Day Remote Work Pain Relief
+cardPick: Herman Miller Aeron reduces wrist and back strain through scientifically-designed   lumbar support and adjustable armrests for proper alignment.
 subtopic: keyboards
 updatedAt: 2026-05-12
 ---
@@ -203,3 +203,8 @@ If yes, your work chair is the culprit. Pain that persists regardless of chair, 
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## Our picks worth a closer look
+
+- **[Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/)** — see current price and specs.
+

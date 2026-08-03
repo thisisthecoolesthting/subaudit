@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Refillable vs Compostable Packaging
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 updatedAt: '2026-05-12T10:10:04Z'
-
 relatedProducts:
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0D92PVDQH"
+- B073Q8P6CQ
+- B07C11YW88
+- B082Y7X9H5
+- B083BFPGD8
+- B08GX3K9YS
+- B09W9MF63Y
+- B0BVYBVHK5
+- B0D92PVDQH
 status: published
 heroImage: /images/hero/refillable-vs-compostable-packaging-which-is-more-eco-friendly.jpg
 subtopic: personal-care
@@ -225,3 +224,8 @@ Choose refillable packaging when reuse is practical and you can access suitable 
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+

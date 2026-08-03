@@ -1,18 +1,18 @@
 ---
-title: "Progressive Overload Tracking: Logs, Apps, and Spreadsheets That Work"
-metaDescription: "Why progressive overload is the only driver of long-term strength gains, and how to track it simply enough that you actually do it."
+title: 'Progressive Overload Tracking: Logs, Apps, and Spreadsheets That Work'
+metaDescription: Why progressive overload is the only driver of long-term strength gains, and how to track it simply enough that you actually do it.
 publishedAt: '2026-05-13'
 updatedAt: '2026-05-13'
-excerpt: "Why progressive overload is the only driver of long-term strength gains, and how to track it simply enough that you actually do it."
-targetKeyword: "progressive overload tracking workout log"
+excerpt: Why progressive overload is the only driver of long-term strength gains, and how to track it simply enough that you actually do it.
+targetKeyword: progressive overload tracking workout log
 relatedProducts: []
 status: published
 tags:
-  - progressive-overload
-  - workout-log
-  - strength-training
-  - tracking
-author: "nate-brennan"
+- progressive-overload
+- workout-log
+- strength-training
+- tracking
+author: nate-brennan
 ---
 
 This is the comprehensive guide to **progressive overload tracking workout log** — covering everything you need to make informed decisions.
@@ -82,3 +82,9 @@ at any level. Invest time in the basics before upgrading gear.
 
 Browse our [articles](/articles) for in-depth coverage of specific topics, techniques, and
 comparisons within progressive overload tracking workout log.
+
+## Our picks worth a closer look
+
+- **[Dr. Tobias Omega 3 Fish Oil 2000mg Triple Strength with 800mg EPA 600mg DHA Per ](/products/b00cazau62-dr-tobias-omega-3-fish-oil-2000mg-triple-strength-with-800mg/)** — see current price and specs.
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+

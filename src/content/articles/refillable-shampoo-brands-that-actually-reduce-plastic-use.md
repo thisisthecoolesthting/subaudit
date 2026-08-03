@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Refillable Shampoo Brands That Actually Reduce Plastic Use
 cardPick: Solid shampoo and conditioner bars that cut bottle waste without sacrificing results.
 updatedAt: '2026-05-12T05:54:53Z'
-
 relatedProducts:
-- "B00CAZAU62"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07D5DN269"
-- "B07Z6TV9Y7"
-- "B09TXP1KDV"
-- "B09W9MF63Y"
+- B00CAZAU62
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B07C11YW88
+- B07D5DN269
+- B07Z6TV9Y7
+- B09TXP1KDV
+- B09W9MF63Y
 status: published
 heroImage: /images/hero/refillable-shampoo-brands-that-actually-reduce-plastic-use.jpg
 subtopic: personal-care
@@ -182,3 +181,8 @@ Choosing refillable shampoo brands wisely removes significant single-use plastic
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+

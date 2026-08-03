@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: How to Transition to Zero-Waste Personal Care Routines Easily
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 updatedAt: '2026-05-12T09:45:57Z'
-
 relatedProducts:
-- "B07C11YW88"
-- "B07Z6TV9Y7"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0B2RM68G2"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B07C11YW88
+- B07Z6TV9Y7
+- B082Y7X9H5
+- B083BFPGD8
+- B08GX3K9YS
+- B0B2RM68G2
+- B0BVYBVHK5
+- B0CYJV9X52
 status: published
 heroImage: /images/hero/how-to-transition-to-zero-waste-personal-care-routines-easily.jpg
 subtopic: personal-care
@@ -178,3 +177,8 @@ Don’t aim for a perfect zero-waste routine overnight. Many households find a h
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+

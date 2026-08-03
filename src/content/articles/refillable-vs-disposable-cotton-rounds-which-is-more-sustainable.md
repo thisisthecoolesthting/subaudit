@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Refillable vs Disposable Cotton Rounds
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 updatedAt: '2026-05-12T10:21:59Z'
-
 relatedProducts:
-- "B0014D3N0Q"
-- "B00CAZAU62"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B09W9MF63Y"
+- B0014D3N0Q
+- B00CAZAU62
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B074ND5RDT
+- B083BFPGD8
+- B08GX3K9YS
+- B09W9MF63Y
 status: published
 heroImage: /images/hero/refillable-vs-disposable-cotton-rounds-which-is-more-sustainable.jpg
 subtopic: personal-care
@@ -216,3 +215,8 @@ If your priority is minimizing plastic and landfill waste while maintaining ingr
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+

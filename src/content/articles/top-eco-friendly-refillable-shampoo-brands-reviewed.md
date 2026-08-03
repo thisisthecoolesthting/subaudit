@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Top Eco-Friendly Refillable Shampoo Brands Reviewed
 cardPick: Solid shampoo and conditioner bars that cut bottle waste without sacrificing results.
 updatedAt: '2026-05-12T09:53:21Z'
-
 relatedProducts:
-- "B001QY8QXM"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B001QY8QXM
+- B07C11YW88
+- B07RVMZNYR
+- B082Y7X9H5
+- B083BFPGD8
+- B08GX3K9YS
+- B0BVYBVHK5
+- B0CYJV9X52
 status: published
 heroImage: /images/hero/top-eco-friendly-refillable-shampoo-brands-reviewed.jpg
 subtopic: personal-care
@@ -221,3 +220,8 @@ Transparency builds trust and helps consumers avoid hidden irritants or environm
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+

@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Top Refillable Mouthwash Brands That Reduce Plastic Use
 cardPick: Low-waste oral care swaps—paste, brushes, and refills worth the shelf space.
 updatedAt: '2026-05-12T10:02:33Z'
-
 relatedProducts:
-- "B00CAZAU62"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B09W9MF63Y"
-- "B0CGW48C3G"
+- B00CAZAU62
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B074ND5RDT
+- B07C11YW88
+- B082Y7X9H5
+- B09W9MF63Y
+- B0CGW48C3G
 status: published
 heroImage: /images/hero/top-refillable-mouthwash-brands-that-reduce-plastic-use.jpg
 subtopic: personal-care
@@ -216,3 +215,8 @@ When choosing a refillable mouthwash brand for eco-friendly purposes, consider t
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+

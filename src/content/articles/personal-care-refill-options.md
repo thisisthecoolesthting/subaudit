@@ -7,34 +7,34 @@ pillarSlug: refill-and-reusable-guides
 cardTitle: Refill Your Routine
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 relatedProducts:
-- "B000NL0T1K"
-- "B001ET76H8"
-- "B002R5AF1I"
-- "B00CBBJ5KY"
-- "B00WSAXBQ0"
-- "B01N7V39UO"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B08FY8XQ3W"
-- "B08GX3K9YS"
-- "B08K3J4WX6"
-- "B08KDQZJQ5"
-- "B08PZBPXLZ"
-- "B08R3515SF"
-- "B08R3R5KXJ"
-- "B098JD8HD3"
-- "B09VXQ221K"
-- "B0BVYBVHK5"
-- "B0BX2N258S"
-- "B0CYJV9X52"
-- "B0D41ZMDPD"
-- "B0D92PVDQH"
-- "B0DHV7ZWH2"
-- "B0DHV8SCLS"
-- "B0G63G9LRJ"
-- "B0G63H5J2M"
-- "B0GCMVP12Q"
+- B000NL0T1K
+- B001ET76H8
+- B002R5AF1I
+- B00CBBJ5KY
+- B00WSAXBQ0
+- B01N7V39UO
+- B07C11YW88
+- B07RVMZNYR
+- B082Y7X9H5
+- B08FY8XQ3W
+- B08GX3K9YS
+- B08K3J4WX6
+- B08KDQZJQ5
+- B08PZBPXLZ
+- B08R3515SF
+- B08R3R5KXJ
+- B098JD8HD3
+- B09VXQ221K
+- B0BVYBVHK5
+- B0BX2N258S
+- B0CYJV9X52
+- B0D41ZMDPD
+- B0D92PVDQH
+- B0DHV7ZWH2
+- B0DHV8SCLS
+- B0G63G9LRJ
+- B0G63H5J2M
+- B0GCMVP12Q
 status: published
 tags:
 - refillable personal care
@@ -239,3 +239,12 @@ Tradeoffs to consider:
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+- **[ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)** — see current price and specs.
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-b001qy8qxm/)** — see current price and specs.
+- **[Dr. Tobias Omega 3 Fish Oil 2000mg Triple Strength with 800mg EPA 600mg DHA Per ](/products/b00cazau62-dr-tobias-omega-3-fish-oil-2000mg-triple-strength-with-800mg/)** — see current price and specs.
+
