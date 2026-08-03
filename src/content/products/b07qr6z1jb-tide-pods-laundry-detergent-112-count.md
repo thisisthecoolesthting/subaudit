@@ -18,7 +18,7 @@ affiliateUrl: https://www.amazon.com/dp/B07QR6Z1JB?tag=subaudit-20&linkCode=ll1&
 isPrime: true
 status: published
 firstSeen: '2026-04-24T00:00:00+00:00'
-lastSeen: '2026-08-03T15:40:23+00:00'
+lastSeen: '2026-08-03T15:43:14+00:00'
 tags:
 - laundry
 - household

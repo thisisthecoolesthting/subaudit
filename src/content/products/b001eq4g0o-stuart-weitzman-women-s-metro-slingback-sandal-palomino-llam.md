@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B001EQ4G0O?tag=subaudit-20
 isPrime: false
 status: published
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:40:23+00:00'
+lastSeen: '2026-08-03T15:43:14+00:00'
 slug: b001eq4g0o-stuart-weitzman-women-s-metro-slingback-sandal-palomino-llam
 cardTitle: Stuart Weitzman Women's Metro Slingback Sandal,Palomino Llama Calf,8 M
 cardPick: Solid pick for most readers
