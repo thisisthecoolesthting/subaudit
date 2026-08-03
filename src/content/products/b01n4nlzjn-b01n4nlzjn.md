@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B01N4NLZJN?tag=subaudit-20
 isPrime: false
 status: published
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:37:12+00:00'
+lastSeen: '2026-08-03T15:38:48+00:00'
 slug: b01n4nlzjn-b01n4nlzjn
 cardTitle: B01N4NLZJN
 cardPick: Solid pick for most readers

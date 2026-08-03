@@ -18,7 +18,7 @@ affiliateUrl: https://www.amazon.com/dp/B01N5IB20Q?tag=subaudit-20&linkCode=ll1&
 isPrime: true
 status: published
 firstSeen: '2026-04-24T00:00:00+00:00'
-lastSeen: '2026-08-03T15:37:12+00:00'
+lastSeen: '2026-08-03T15:38:48+00:00'
 tags:
 - batteries
 - household
