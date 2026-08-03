@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B000VKGRF0?tag=subaudit-20
 isPrime: false
 status: published
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:33:15+00:00'
+lastSeen: '2026-08-03T15:35:21+00:00'
 slug: b000vkgrf0-b000vkgrf0
 cardTitle: B000VKGRF0
 cardPick: Solid pick for most readers

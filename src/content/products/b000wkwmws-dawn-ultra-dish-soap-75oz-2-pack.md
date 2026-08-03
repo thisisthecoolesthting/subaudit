@@ -18,7 +18,7 @@ affiliateUrl: https://www.amazon.com/dp/B000WKWMWS?tag=subaudit-20&linkCode=ll1&
 isPrime: true
 status: published
 firstSeen: '2026-04-24T00:00:00+00:00'
-lastSeen: '2026-08-03T15:33:15+00:00'
+lastSeen: '2026-08-03T15:35:21+00:00'
 tags:
 - dish-soap
 - kitchen

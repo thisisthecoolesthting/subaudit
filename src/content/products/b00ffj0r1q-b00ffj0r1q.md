@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B00FFJ0R1Q?tag=subaudit-20
 isPrime: false
 status: published
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:33:15+00:00'
+lastSeen: '2026-08-03T15:35:21+00:00'
 slug: b00ffj0r1q-b00ffj0r1q
 cardTitle: B00FFJ0R1Q
 cardPick: Solid pick for most readers
