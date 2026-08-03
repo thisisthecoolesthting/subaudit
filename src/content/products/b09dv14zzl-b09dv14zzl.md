@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B09DV14ZZL?tag=subaudit-20
 isPrime: false
 status: published
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:43:47+00:00'
+lastSeen: '2026-08-03T15:44:26+00:00'
 slug: b09dv14zzl-b09dv14zzl
 cardTitle: B09DV14ZZL
 cardPick: Solid pick for most readers

@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B07P5Y5QHG?tag=subaudit-20
 isPrime: false
 status: published
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:43:47+00:00'
+lastSeen: '2026-08-03T15:44:26+00:00'
 slug: b07p5y5qhg-b07p5y5qhg
 cardTitle: B07P5Y5QHG
 cardPick: Solid pick for most readers
