@@ -31,12 +31,13 @@
       "fontCssHref": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap"
     }
   },
+  "defaultMetaDescription": "1Password Family Plan pricing explained: seat math for up to 5 users, when individual plans win, and how SubAudit audits password-manager renewals before they creep.",
   "homepage": {
-    "eyebrow": "Subscription audit",
-    "h1": "Catch subscription creep before it becomes permanent",
-    "subhead": "We track streaming, software, meal kits, and delivery memberships — then flag price hikes, shrinkflation, and cheaper annual swaps.",
-    "ctaPrimaryLabel": "Audit your subs",
-    "ctaPrimaryHref": "/articles",
+    "eyebrow": "Password manager pricing",
+    "h1": "1Password Family Plan pricing — seat math before you renew",
+    "subhead": "We break down 1Password Families membership cost vs individual seats, then help you audit the rest of your subscription stack for quiet price hikes.",
+    "ctaPrimaryLabel": "See family plan math",
+    "ctaPrimaryHref": "/articles/27-password-manager-subscriptions-1password-family-plan-math",
     "ctaSecondaryLabel": "Our audit method",
     "ctaSecondaryHref": "/methodology",
     "trustLine": "Independent watchdog · No retailer sponsorships · We name the hike, we name the cancel path",

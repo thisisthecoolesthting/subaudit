@@ -20,10 +20,12 @@ const {
   sectionAdsCompact = false,
   ...baseProps
 } = Astro.props as Props;
+
+// Emit FAQ/Article JSON-LD in <head> via BaseLayout (no duplicate body script).
+const headJsonLd = baseProps.jsonLd ?? articleJsonLd;
 ---
 
-<BaseLayout {...baseProps} sectionAds={sectionAds} sectionAdsCompact={sectionAdsCompact} sectionAdsFooter={baseProps.sectionAdsFooter ?? true}>
-  {articleJsonLd && <script type="application/ld+json" set:html={JSON.stringify(articleJsonLd)} />}
+<BaseLayout {...baseProps} jsonLd={headJsonLd} sectionAds={sectionAds} sectionAdsCompact={sectionAdsCompact} sectionAdsFooter={baseProps.sectionAdsFooter ?? true}>
   <slot />
 
   {showPriceFootnote && (

@@ -49,6 +49,8 @@ export interface Props {
   sectionAdsCompact?: boolean;
   /** When false, only render header band (home keeps footer ad before newsletter) */
   sectionAdsFooter?: boolean;
+  /** Optional JSON-LD object(s) emitted in <head> */
+  jsonLd?: Record<string, unknown> | Record<string, unknown>[];
 }
 
 const {
@@ -67,7 +69,10 @@ const {
   sectionAds = false,
   sectionAdsCompact = false,
   sectionAdsFooter = true,
+  jsonLd,
 } = Astro.props;
+
+const jsonLdBlocks = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
 
 const siteUrl = (import.meta.env.SITE as string | undefined)?.replace(/\/$/, '') || '';
 const hero = home.homepage.heroImageUrl;
@@ -117,6 +122,10 @@ const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toStrin
     <meta name="twitter:image" content={ogImageUrl} />
 
     <link rel="alternate" type="application/rss+xml" title={b.fullName} href="/rss.xml" />
+
+    {jsonLdBlocks.map((block) => (
+      <script type="application/ld+json" set:html={JSON.stringify(block)} />
+    ))}
 
     {(() => {
       const url = import.meta.env.PUBLIC_NEWSLETTER_EMBED_URL;

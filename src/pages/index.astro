@@ -116,9 +116,89 @@ const trustItems = [
   { label: 'Weekly price checks', icon: 'clock' as const },
   { label: 'No retailer sponsorships', icon: 'ban' as const },
 ];
+
+// ---------- SEO: FAQ (grounded in published 1Password / family-plan guides) ----------
+const pageTitle = '1Password Family Plan Pricing & Seat Math';
+const pageDescription =
+  homeX.defaultMetaDescription ||
+  '1Password Family Plan pricing explained: seat math for up to 5 users, when individual plans win, and how SubAudit audits password-manager renewals before they creep.';
+
+const faqItems = [
+  {
+    question: 'What is the 1Password Family Plan?',
+    answer:
+      'The 1Password Family Plan is a single household subscription that covers up to five users, each with a private login plus shared vaults for household passwords. SubAudit’s password-manager guide treats it as the main plan to audit when families stack multiple individual seats.',
+  },
+  {
+    question: 'How much is 1Password Family pricing compared with individual plans?',
+    answer:
+      'In our published seat-math guide, indicative monthly figures are about $2.99 per individual user and about $4.99 for the Family Plan covering five seats. Prices vary with promotions and billing cycle, so we always recommend confirming the current rate on renewal.',
+  },
+  {
+    question: 'How many people are included in a 1Password Families membership?',
+    answer:
+      'The base Families / Family Plan membership includes five users. You can add people beyond five, but each extra seat is billed separately and can erase the per-user savings.',
+  },
+  {
+    question: 'Is the 1Password Family Plan cheaper than buying individual accounts?',
+    answer:
+      'For three to five active users, the Family Plan is usually cheaper per person than paying for separate individual plans. For one or two users, individual plans are often the better deal unless shared vaults and unified billing matter more than price.',
+  },
+  {
+    question: 'What does SubAudit actually track?',
+    answer:
+      'SubAudit is a subscription-pricing watchdog. We track price changes and renewals across services like password managers, streaming, and other recurring software so you can catch subscription creep before the next bill.',
+  },
+  {
+    question: 'Are there cheaper alternatives to the 1Password Family Plan?',
+    answer:
+      'Yes. Our guide compares Bitwarden Families, LastPass Families, and Dashlane Families as lower-cost or differently featured options. Bitwarden is typically the most affordable open-source-style choice; tradeoffs are usually polish and workflow, not just sticker price.',
+  },
+  {
+    question: 'When should a household skip the Family Plan?',
+    answer:
+      'Skip or split plans when only one or two people need a password manager, when add-on seats past five make the bill climb past individual plans, or when a cheaper family tier from another manager covers your real feature needs.',
+  },
+];
+
+const faqJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqItems.map((item) => ({
+    '@type': 'Question',
+    name: item.question,
+    acceptedAnswer: {
+      '@type': 'Answer',
+      text: item.answer,
+    },
+  })),
+};
+
+const relatedGuides = [
+  {
+    href: '/articles/27-password-manager-subscriptions-1password-family-plan-math',
+    label: '1Password Family Plan math',
+    blurb: 'Seat breakpoints, add-on users, and when individuals win.',
+  },
+  {
+    href: '/pillars/family-subscriptions',
+    label: 'Family subscription plans',
+    blurb: 'Apple, Google, Microsoft, and streaming household tiers.',
+  },
+  {
+    href: '/articles/33-youtube-premium-family-plan-vs-ad-supported-tier',
+    label: 'YouTube Premium Family vs ads',
+    blurb: 'Family-plan cost versus living with the ad-supported tier.',
+  },
+  {
+    href: '/pillars/subscription-audit',
+    label: 'Subscription audit checklist',
+    blurb: 'Export card charges, annualize fees, cut overlap before renewal.',
+  },
+];
 ---
 
-<CompliantLayout title={b.fullName} description={dmeta} sectionAds={false}>
+<CompliantLayout title={pageTitle} description={pageDescription} articleJsonLd={faqJsonLd} sectionAds={false}>
   {/* ── home-top WIDE banner — filled by inject.js at runtime ── */}
   <div data-ad-slot="home-top" class="w-full max-w-5xl mx-auto px-4 my-3 not-prose"></div>
 
@@ -375,6 +455,60 @@ const trustItems = [
   </section>
 
   <SiteSectionAds page="home" variant="footer" />
+
+  {/* ============ 6b. RELATED GUIDES ============ */}
+  <section class="max-w-6xl mx-auto px-5 py-12 md:py-14" aria-labelledby="related-guides-heading">
+    <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-5 mb-8">
+      <div>
+        <p class="font-mono text-[11px] tracking-[0.18em] uppercase text-terracotta-600 font-medium mb-2">Related guides</p>
+        <h2 id="related-guides-heading" class="font-display text-3xl md:text-4xl text-ink-900 !mt-0 leading-tight max-w-[22ch]">
+          Start with family-plan math, then audit the stack.
+        </h2>
+      </div>
+      <p class="text-sm text-ink-700 max-w-[32ch]">
+        Real SubAudit pages on 1Password Families pricing, household tiers, and the full subscription checklist.
+      </p>
+    </div>
+    <ul class="grid grid-cols-1 sm:grid-cols-2 gap-4 list-none p-0 m-0">
+      {relatedGuides.map((guide) => (
+        <li>
+          <a
+            href={guide.href}
+            class="group no-underline block h-full rounded-xl border border-cream-200 bg-white p-6 hover:border-terracotta-400 hover:shadow-soft-lg hover:-translate-y-0.5 transition-all"
+          >
+            <h3 class="font-display text-xl text-ink-900 !mt-0 leading-snug group-hover:text-terracotta-600 transition-colors">
+              {guide.label}
+            </h3>
+            <p class="text-sm text-ink-700 mt-2 leading-relaxed">{guide.blurb}</p>
+            <span class="font-mono text-[11px] tracking-[0.1em] uppercase text-ink-900 mt-4 inline-block group-hover:text-terracotta-600">
+              Read guide <span class="text-terracotta-500">→</span>
+            </span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+
+  {/* ============ 6c. FAQ ============ */}
+  <section class="bg-cream-50 border-y border-cream-200" aria-labelledby="faq-heading">
+    <div class="max-w-3xl mx-auto px-5 py-12 md:py-14">
+      <p class="font-mono text-[11px] tracking-[0.18em] uppercase text-terracotta-600 font-medium mb-2">FAQ</p>
+      <h2 id="faq-heading" class="font-display text-3xl md:text-4xl text-ink-900 !mt-0 leading-tight max-w-[24ch]">
+        1Password Family Plan questions we hear most.
+      </h2>
+      <p class="text-sm text-ink-700 mt-4 max-w-[54ch]">
+        Answers drawn from our published password-manager and family-subscription guides. Confirm live pricing at renewal — promotions change.
+      </p>
+      <dl class="mt-8 space-y-6">
+        {faqItems.map((item) => (
+          <div class="border-b border-cream-200 pb-6 last:border-b-0 last:pb-0">
+            <dt class="font-display text-lg text-ink-900 leading-snug">{item.question}</dt>
+            <dd class="text-sm md:text-[15px] text-ink-700 leading-relaxed mt-2 m-0">{item.answer}</dd>
+          </div>
+        ))}
+      </dl>
+    </div>
+  </section>
 
   {/* ============ 7. NEWSLETTER ============ */}
   <section class="max-w-3xl mx-auto px-5 py-10 md:py-12">
