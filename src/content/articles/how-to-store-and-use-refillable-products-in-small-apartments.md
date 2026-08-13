@@ -22,6 +22,7 @@ publishedAt: '2026-05-12T10:20:49Z'
 metaDescription: Expert analysis of How to Store and Use Refillable Products in Small Apartments. Practical guidance, real data, and honest recommendations.
 excerpt: If you live in a small apartment, you might struggle with limited storage space and the clutter that reusable or refillable household products can add. While switching to refillable products reduces single-use plastic waste and can save money, managi
 ---
+
 ## How to Store and Use Refillable Products in Small Apartments
 
 
@@ -159,63 +160,7 @@ For apartments, compact concentrated pouches combined with stackable bottles are
 
 ## Top Picks
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07571LXYD?tag=subaudit-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Heali Kiwi Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/413hRd6x2YL.jpg" alt="Ethique Heali Kiwi Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Ethique Heali Kiwi Shampoo Bar</strong>
-<span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07VQC79W4?tag=subaudit-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Maintain Shampoo + Conditioner Set" data-card-pick="Matched shampoo and conditioner bars—salon feel without pump bottles.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51PG0xjvu+L.jpg" alt="HiBAR Maintain Shampoo + Conditioner Set" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">HiBAR Maintain Shampoo + Conditioner Set</strong>
-<span class="amazon-inline-card__desc">Separate solid bars with salon-quality ingredients, zero plastic packaging.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B084ZNXBN8?tag=subaudit-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Georganics Mineral Toothpaste Powder" data-card-pick="Glass-jar powder you can refill—cuts tube waste without sacrificing clean ingredients.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41bu3uBj5dL.jpg" alt="Georganics Mineral Toothpaste Powder" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Georganics Mineral Toothpaste Powder</strong>
-<span class="amazon-inline-card__desc">Fluoride-free powder in glass jar—refillable-friendly oral care swap.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0973GJNCC?tag=subaudit-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Native Sensitive Deodorant — Cotton &amp; Lily" data-card-pick="Paperboard stick with no aluminum—our pick for sensitive underarms without plastic waste.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/31y5kvuL3GL.jpg" alt="Native Sensitive Deodorant — Cotton & Lily" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Native Sensitive Deodorant — Cotton & Lily</strong>
-<span class="amazon-inline-card__desc">Aluminum-free, baking-soda-free stick in plastic-free paperboard—72-hour odor control for sensitive skin.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0DX7JF5HR?tag=subaudit-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bamboo Switch Biodegradable Toothbrush (4-Pack)" data-card-pick="Four bamboo handles for the price of one plastic brush run—easy oral-care plastic cut.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51bFoknduxL.jpg" alt="Bamboo Switch Biodegradable Toothbrush" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bamboo Switch Biodegradable Toothbrush</strong>
-<span class="amazon-inline-card__desc">Plant-based bristles, compostable bamboo handle—pack of 4.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
 ## Our picks worth a closer look
 
 - **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
 - **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
-

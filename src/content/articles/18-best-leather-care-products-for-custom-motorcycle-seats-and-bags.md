@@ -30,6 +30,7 @@ hero_image_keywords:
 heroImage: /images/hero/home.jpg
 ---
 
+
 Keeping your custom motorcycle seats and bags in prime condition means investing in the best leather care products for custom motorcycle seats and bags. From low-and-slow baggers to cholo-style rigs, the right leather treatments not only preserve the supple feel but also protect against sun, sweat, and road grime — all crucial for that polished, ride-ready look.
 
 ## Key takeaways
@@ -71,8 +72,9 @@ Spray in a well-ventilated area, applying in light, even coats. Let dry complete
 If you ride through wet weather or wash your bags and seat occasionally, waterproofing adds a crucial protective layer. Instead of full waterproofing which can change breathability, use a light spray like **Nikwax Leather Proof** that preserves softness while shedding moisture.
 
 Apply after conditioning and UV protection for best results.
-
 ---
+
+
 
 ## Best leather care products for custom motorcycle seats and bags: Comparison table
 
@@ -85,8 +87,6 @@ Apply after conditioning and UV protection for best results.
 | **Nikwax Leather Proof**    | Waterproofing Spray | Breathable water repellent           | Finished leathers          | $$          | Ideal for riders in wet climates |
 | **Jason Markk Repel**       | Water & Stain Repellent | Protects from spills and moisture  | Smooth leather, fabric hybrids | $$          | Multi-purpose, quick drying    |
 
----
-
 ## Leather care workflow for the home garage
 
 In my garage setup, I create a simple 3-bucket system: one for cleaning cloths, one for conditioning supplies, and one for drying/buffing. Keeping the workspace organized ensures I never cross-contaminate cleaners with conditioners, which can reduce product effectiveness.
@@ -95,8 +95,6 @@ I set aside a dedicated microfiber rag stash. These rags reduce scratching and a
 
 Always work in shade or indirect light—direct sunlight while applying will cause uneven drying. After treatment, I leave bags and seats to cure overnight on padded surfaces to prevent impressions.
 
----
-
 ## How to avoid common leather care mistakes
 
 - **Don’t overwet the leather:** Excess moisture invites mold and weakens fibers.
@@ -104,8 +102,6 @@ Always work in shade or indirect light—direct sunlight while applying will cau
 - **Don’t use wax-based polishes:** These can leave sticky residues and attract road grime.
 - **Keep products off chrome and paint:** Some oils can stain or dull surrounding surfaces.
 - **Condition regularly but sparingly:** Over-conditioning can choke leather pores and cause sagging.
-
----
 
 ## Related reading
 
@@ -145,4 +141,3 @@ Keeping your custom bike’s leather gear in shape doesn’t have to be complica
 
 - **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
 - **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
-

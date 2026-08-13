@@ -19,12 +19,15 @@ tags:
 author: marcus-webb
 ---
 
+
 *CampDeck is reader-supported. We earn a commission when you purchase through our links, but we never accept free gear or paid placements. All items are bought at retail and tested in the field on real trips.*
 
 Winter camping is an exercise in thermodynamics. When the mercury drops, the biggest challenge isn't just staying warm—it’s keeping your hydration systems functional. If you aren't careful, you’ll spend your morning melting snow for an hour just to get a drink, which is a massive waste of precious fuel.
 
 I’ve spent the last three winters testing hydration strategies in conditions ranging from the damp, freezing rain of the Pacific Northwest to the sub-zero ridgelines of the Rockies. Here is how to keep your water liquid when the environment wants to turn it into a solid block of ice.
 ---
+
+
 ## The Physics of Freezing: Why Your Current Setup Fails
 
 The biggest mistake I see beginners make is relying on hydration bladders. In temperatures below 25°F (-4°C), the hose is a liability. Even with insulated sleeves, the residual water in the bite valve will freeze solid within twenty minutes of inactivity. Once that happens, you’re stuck with a frozen tube that is nearly impossible to thaw without significant effort.
@@ -75,4 +78,3 @@ Winter camping requires a shift in mindset. You stop viewing water as a simple r
 - **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
 - **[LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/)** — see current price and specs.
 - **[RCA Roku Smart Home Theater Projector - Stream Netflix, Prime Video, Hulu, Disne](/products/b083td3v4j-rca-roku-smart-home-theater-projector-stream-netflix-prime-v/)** — see current price and specs.
-

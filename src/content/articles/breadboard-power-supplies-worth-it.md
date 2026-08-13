@@ -20,8 +20,11 @@ author: marcus-webb
 ---
 
 
+
 *TinkerBench is reader-supported. When you buy through links on our site, we may earn an affiliate commission.*
 ---
+
+
 ## The Truth About Breadboard Power Supplies: Are They Worth It?
 
 Breadboard power supplies: those little plug-in boards that promise to deliver regulated voltage right where you need it. They're cheap, convenient, and seem like the perfect solution for powering your Arduino, ESP32, or 555 timer projects on a breadboard. But are they all they're cracked up to be? As someone who's seen plenty of these things come and go on my workbench, let's dive into the realities of using breadboard power supplies, their limitations, and whether they're truly worth the investment.
@@ -102,4 +105,3 @@ So, are breadboard power supplies worth it? The answer depends on your specific 
 - **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
 - **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
 - **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
-

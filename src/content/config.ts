@@ -2,7 +2,7 @@
 //
 // Four collections:
 //   authors   -- named humans who write or edit (E-E-A-T layer)
-//   products  -- amazon products reviewed for the watchdog angle
+//   products  -- household products reviewed for the watchdog angle
 //   pillars   -- long-form authority investigations
 //   articles  -- pricing alerts + supporting Q&A
 //
@@ -35,7 +35,6 @@ const authors = defineCollection({
 const products = defineCollection({
   type: 'content',
   schema: z.object({
-    asin: z.string(),
     title: z.string(),
     seoTitle: z.string().optional().default(''),
     metaDescription: z.string().optional().default(''),
@@ -50,7 +49,6 @@ const products = defineCollection({
     score: z.number().optional().default(0),
     imageUrl: z.string().optional().default(''),
     imageFlagged: z.boolean().optional().default(false),
-    affiliateUrl: z.string(),
     isPrime: z.boolean().optional().default(false),
     status: z.enum(['draft', 'in_review', 'published']).default('draft'),
     firstSeen: z.string().optional().default(''),

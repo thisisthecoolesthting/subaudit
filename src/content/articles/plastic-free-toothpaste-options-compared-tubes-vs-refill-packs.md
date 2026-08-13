@@ -22,6 +22,7 @@ publishedAt: '2026-05-12T09:52:14Z'
 metaDescription: 'Expert analysis of Plastic-Free Toothpaste Options Compared: Tubes vs Refill Packs. Practical guidance, real data, and honest recommendations.'
 excerpt: If you've started trying to cut down on single-use plastic in your bathroom, toothpaste packaging is an immediate challenge. Traditional toothpaste tubes are almost always made from mixed plastics and laminates, which are hard or impossible to recycl
 ---
+
 ## Plastic-Free Toothpaste Options Compared: Tubes vs Refill Packs
 
 
@@ -142,69 +143,14 @@ In short, the real wins come from:
 - Not planning refill deliveries: running out can force use of plastic-toothpaste alternatives.
 
 Plastic-free toothpaste is a clear opportunity to reduce bathroom plastics, but the choice between tubes and refill packs depends on your priorities. Both offer real benefits over conventional plastic tubes, but understanding trade-offs empowers smarter, more sustainable habit change.
-
 ---
 
+
+
 ## Top Picks
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0DX7JF5HR?tag=subaudit-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bamboo Switch Biodegradable Toothbrush (4-Pack)" data-card-pick="Four bamboo handles for the price of one plastic brush run—easy oral-care plastic cut.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51bFoknduxL.jpg" alt="Bamboo Switch Biodegradable Toothbrush" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bamboo Switch Biodegradable Toothbrush</strong>
-<span class="amazon-inline-card__desc">Plant-based bristles, compostable bamboo handle—pack of 4.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B084ZNXBN8?tag=subaudit-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Georganics Mineral Toothpaste Powder" data-card-pick="Glass-jar powder you can refill—cuts tube waste without sacrificing clean ingredients.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41bu3uBj5dL.jpg" alt="Georganics Mineral Toothpaste Powder" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Georganics Mineral Toothpaste Powder</strong>
-<span class="amazon-inline-card__desc">Fluoride-free powder in glass jar—refillable-friendly oral care swap.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0CLBF6PLW?tag=subaudit-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Plastic Free Deodorant — Bergamot &amp; Cedar" data-card-pick="Plant-based wax formula in minimal packaging—pairs well with their solid hair bars.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41IfQ1+OUhL.jpg" alt="HiBAR Plastic Free Deodorant — Bergamot & Cedar" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">HiBAR Plastic Free Deodorant — Bergamot & Cedar</strong>
-<span class="amazon-inline-card__desc">Vegan, aluminum-free deodorant in recyclable tubes—plant-based waxes for all-day protection.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0BC244Z4W?tag=subaudit-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Native Plastic Free Deodorant — Cucumber &amp; Mint" data-card-pick="Compostable packaging and naturally derived scent—strong everyday deodorant without a plastic case.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/314RA4iSBHL.jpg" alt="Native Plastic Free Deodorant — Cucumber & Mint" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Native Plastic Free Deodorant — Cucumber & Mint</strong>
-<span class="amazon-inline-card__desc">Compostable paperboard packaging with naturally derived ingredients—no aluminum or parabens.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07FQ46R24?tag=subaudit-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41R7vsr7+8L.jpg" alt="Dr. Bronner's Pure-Castile Bar Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Bar Soap</strong>
-<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
 
 ## Our picks worth a closer look
 
 - **[Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/)** — see current price and specs.
 - **[ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)** — see current price and specs.
 - **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
-

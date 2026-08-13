@@ -20,8 +20,11 @@ author: marcus-webb
 ---
 
 
+
 *InkLedger is reader-supported. When you buy through links on our site, we may earn an affiliate commission at no cost to you. This helps us keep the lights on and the ink flowing, allowing us to continue our pursuit of affordable printing solutions.*
 ---
+
+
 ## The Best All-In-One Printers Under $100: Budget-Friendly Options
 
 Finding an all-in-one printer that’s both affordable and reliable can feel like searching for a unicorn. The allure of a sub-$100 price tag is often tempered by concerns about print quality, ink costs, and overall longevity. But fear not! While the market is saturated with options, some hidden gems offer surprisingly good value for the money. We've sifted through the noise to highlight the best all-in-one printers under $100, focusing on the features, print quality, and, of course, the long-term cost of ink. This isn't about chasing the absolute cheapest upfront; it's about finding the sweet spot where initial affordability meets reasonable running costs.
@@ -92,4 +95,3 @@ And always, *always* keep an eye on those ink prices. They're the silent killer 
 - **[Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-b001qy8qxm/)** — see current price and specs.
 - **[LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/)** — see current price and specs.
 - **[Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yie](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/)** — see current price and specs.
-

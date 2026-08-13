@@ -21,7 +21,6 @@ const {
   ...baseProps
 } = Astro.props as Props;
 
-// Emit FAQ/Article JSON-LD in <head> via BaseLayout (no duplicate body script).
 const headJsonLd = baseProps.jsonLd ?? articleJsonLd;
 ---
 
@@ -37,18 +36,4 @@ const headJsonLd = baseProps.jsonLd ?? articleJsonLd;
       <a href="/editorial-standards/" class="text-terracotta-600 hover:underline">Editorial standards</a>
     </p>
   )}
-
-  <script is:inline>
-    (() => {
-      const firstCard = document.querySelector('[data-content-card]');
-      if (!firstCard || firstCard.querySelector('[data-amazon-associates-note]')) return;
-      const target = firstCard.querySelector('[data-card-content]') || firstCard;
-      const note = document.createElement('p');
-      note.setAttribute('data-amazon-associates-note', 'true');
-      note.setAttribute('role', 'note');
-      note.className = 'text-xs text-ink-500 leading-snug mb-2';
-      note.textContent = 'As an Amazon Associate, we earn from qualifying purchases.';
-      target.insertBefore(note, target.firstChild);
-    })();
-  </script>
 </BaseLayout>

@@ -1,5 +1,4 @@
 ---
-asin: B00HHQX0BQ
 slug: b00hhqx0bq-folgers-classic-roast-coffee-48oz
 title: Folgers Classic Roast Ground Coffee, 48 Oz
 seoTitle: Folgers Classic Roast 48oz Price Tracker | RefillWatch
@@ -13,8 +12,7 @@ reviewCount: 67890
 bsr: 5
 commissionPerSale: 0.0
 score: 89.0
-imageUrl: https://m.media-amazon.com/images/I/41mFT3E-X6S.jpg
-affiliateUrl: https://www.amazon.com/dp/B00HHQX0BQ?tag=subaudit-20&linkCode=ll1&language=en_US
+imageUrl: ""
 isPrime: true
 status: published
 firstSeen: '2026-04-24T00:00:00+00:00'
@@ -24,6 +22,8 @@ tags:
 - grocery
 - bulk-buying
 ---
+
+
 # Folgers Classic Roast 48oz — Per-Cup Cost Analysis
 
 48oz makes roughly 270 cups of drip coffee at standard strength. At $11.99 that's **$0.044/cup** — less than a pod, less than instant, and 30× cheaper than a coffee shop.
@@ -35,5 +35,3 @@ Swings between $9.99 and $13.49. Subscribe & Save keeps it around $10.79. Best m
 ## Freshness note
 
 The 48oz can is not resealable. Transfer to an airtight container after opening for best flavor beyond 2 weeks.
-
-<AffiliateCTA asin="B00HHQX0BQ" label="Check current price on Amazon" />

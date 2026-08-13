@@ -12,11 +12,13 @@ relatedProducts: []
 status: published
 ---
 
+
 ## Samsung Galaxy Screenshot Not Working — Fixes by One UI Version
 
 Taking screenshots on your Samsung Galaxy device is essential for saving information, sharing content, or troubleshooting. However, users sometimes encounter issues where the screenshot function stops working. These issues vary depending on the One UI version your Galaxy phone is running. This article covers common causes and practical fixes to get your screenshots working again, organized by One UI version.
-
 ---
+
+
 
 ## Common Reasons Why Screenshots Fail on Samsung Galaxy Devices
 
@@ -31,8 +33,6 @@ Before diving into version-specific fixes, it's helpful to understand some gener
 
 Knowing these will help you troubleshoot regardless of your phone’s One UI version.
 
----
-
 ## How to Identify Your One UI Version
 
 Before trying fixes for your specific One UI version, check which one your device uses:
@@ -43,8 +43,6 @@ Before trying fixes for your specific One UI version, check which one your devic
 4. Find **One UI version**.
 
 Samsung’s One UI versions roughly correspond to Android versions, e.g., One UI 1.x for Android 9, One UI 2.x for Android 10, One UI 3.x for Android 11, etc.
-
----
 
 ## Fixes for One UI 1.x (Android 9 Pie)
 
@@ -72,8 +70,6 @@ One UI 1.x was Samsung’s first major redesign, and some early bugs around scre
   - Use **Smart Select** through the Edge panel if available.
   
 If none of these work, a factory reset may fix corrupted system files but should be a last resort after backup.
-
----
 
 ## Fixes for One UI 2.x (Android 10)
 
@@ -104,8 +100,6 @@ One UI 2.x improved stability but added new features affecting screenshots, such
 - **Reset Accessibility shortcuts**:
   - Sometimes accessibility features interfere.
   - Go to **Settings > Accessibility > Advanced settings**, reset or adjust any screenshot-related settings.
-
----
 
 ## Fixes for One UI 3.x (Android 11)
 
@@ -138,8 +132,6 @@ With One UI 3.x, Samsung introduced refined UI elements and enhanced screenshot 
   - Test screenshots in safe mode. If working normally, a third-party app is likely the cause.
 - **Update your device software** to the latest patch.
 
----
-
 ## Fixes for One UI 4.x and Later (Android 12+)
 
 One UI 4 and beyond brought more customization and tighter security controls, which sometimes block screenshots in secure contexts.
@@ -170,16 +162,12 @@ One UI 4 and beyond brought more customization and tighter security controls, wh
 - **Update your device** to latest One UI and security patches to benefit from fixes.
 - **Factory reset** if all else fails, but back up your data first.
 
----
-
 ## Universal Fixes and Workarounds Regardless of One UI Version
 
 - **Use Third-Party Screenshot Apps**: Apps available on the Play Store can sometimes bypass system limitations temporarily.
 - **ADB Commands for Screenshots**: Using a PC, the Android Debug Bridge (ADB) can capture screenshots regardless of phone settings.
 - **Restart Your Phone**: Simply rebooting may fix temporary software bugs.
 - **Check Hardware Buttons**: If physical buttons are damaged, you can use on-screen assistant menus.
-
----
 
 ## Conclusion
 
@@ -190,4 +178,3 @@ By following this guide tailored to your One UI version, you'll be better equipp
 ## Our picks worth a closer look
 
 - **[TiVo Stream 4K – Every Streaming App and Live TV on One Screen – 4K UHD, Dolby V](/products/b089655hqv-tivo-stream-4k-every-streaming-app-and-live-tv-on-one-screen/)** — see current price and specs.
-

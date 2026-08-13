@@ -29,6 +29,8 @@ hero_image_keywords:
 - cancel timing
 ---
 
+
+
 Cancel Hulu without losing watchlist access: steps and timing can be a major concern if you’re trying to trim streaming expenses but don’t want to lose your saved shows and movies. Having been through this myself as I audited my own subscriptions, I know how crucial it is to preserve your watchlist and preferences while managing billing cycles effectively.
 
 ## Key takeaways
@@ -38,8 +40,8 @@ Cancel Hulu without losing watchlist access: steps and timing can be a major con
 - Hulu allows you to pause or cancel your subscription and maintain your watchlist and profiles linked to your account.  
 - You can download select Hulu content with a Live TV subscription, but downloads are not available if you just have the basic or on-demand plans.  
 - Reactivating Hulu later restores both access and your watchlist without data loss, as long as you use the same login credentials.
-
 ---
+
 
 ## Why cancel Hulu but keep your watchlist?
 
@@ -53,8 +55,6 @@ Fortunately, Hulu’s watchlist is account-based and separate from active stream
 - You cannot stream content until you resubscribe.  
 - When you return, your watchlist is intact and ready.
 
----
-
 ## How Hulu’s watchlist works with canceled accounts
 
 Your watchlist on Hulu is stored on Hulu’s servers, associated with your user profile in your Hulu account. Because it’s not tied to having an active paid subscription but instead to your account identity, you save your picks during the entire lifecycle of the account.
@@ -64,8 +64,6 @@ However, the catch is streaming access is streaming access: no active subscripti
 - Canceling immediately stops further billing, but your watchlist exists in a dormant state.  
 - If you have an ongoing paid period after cancellation (Hulu bills in advance, so you pay upfront for the month), you keep streaming until the paid period ends.  
 - Once your paid period lapses, streaming privileges end, but your watchlist and account settings remain.
-
----
 
 ## Step-by-step to cancel Hulu without losing access to your watchlist
 
@@ -91,8 +89,6 @@ Through multiple cancellations during cord-cutting phases, I developed a timing 
 
 7. **Consider export options for your watchlist (screenshots or manual notes) if you want a backup, but Hulu does not provide a native export function.**
 
----
-
 ## The best timing to cancel Hulu to maximize watchlist retention
 
 The main timing consideration is billing cycle aligned cancellation:
@@ -106,8 +102,6 @@ The main timing consideration is billing cycle aligned cancellation:
 
 In my experience, the best way to avoid losing watchlist access while canceling Hulu is to cancel shortly before your billing date but to keep your account intact. This way, you continue streaming during your prepaid time, maintain your data, and drop subscription costs going forward.
 
----
-
 ## Will you lose watchlist if switching Hulu plans or adding/removing add-ons?
 
 No. Your user profiles and watchlists do not reset or disappear when changing plans or removing add-ons like Live TV or premium channels. Subscription status is what controls streaming rights, but your watchlist is persistent across plan tiers.
@@ -117,8 +111,6 @@ That said, some features can vary:
 - **Live TV subscribers** can download shows for offline viewing. Canceling Live TV removes download capability but does not remove watchlists.  
 - **Basic plan users** don’t have download options; your watchlist remains a convenient queue across those limitations.  
 - Removing bundle add-ons like Disney+ or ESPN+ through Hulu does not erase saved content in the watchlist. Those are managed separately by their own apps.
-
----
 
 ## Checklist: How to cancel Hulu without losing watchlist access
 
@@ -131,8 +123,6 @@ That said, some features can vary:
 | Cancel or pause subscription      | [ ]        | Do not delete account             |
 | Keep login credentials secure     | [ ]        | Use same email and password       |
 | Resume or reactivate when ready   | [ ]        | Watchlist restored with login     |
-
----
 
 ## Related reading
 
@@ -171,4 +161,3 @@ Canceling Hulu without losing your watchlist needn’t be stressful. With the ri
 ## Our picks worth a closer look
 
 - **[RCA Roku Smart Home Theater Projector - Stream Netflix, Prime Video, Hulu, Disne](/products/b083td3v4j-rca-roku-smart-home-theater-projector-stream-netflix-prime-v/)** — see current price and specs.
-

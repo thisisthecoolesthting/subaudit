@@ -9,4 +9,5 @@ location: ""
 socials: {}
 ---
 
+
 Miguel Vega contributes to SubAudit's editorial coverage.

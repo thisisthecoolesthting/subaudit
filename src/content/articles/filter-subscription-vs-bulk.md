@@ -17,6 +17,7 @@ tags:
 author: jordan-reed-filtercycle
 ---
 
+
 ## The spreadsheet (pet household, MERV 11 16×25×1)
 
 Assumptions: **5 changes/year** (72-day interval), Amazon list prices May 2026.
@@ -51,4 +52,3 @@ Fridge cartridges often push **6-month** subs while light-use homes run **9 mont
 3. Switch to bulk for HVAC; keep one spare fridge cartridge on shelf.
 
 Calendar: [Replacement calendar](/pillars/replacement-calendar).
-

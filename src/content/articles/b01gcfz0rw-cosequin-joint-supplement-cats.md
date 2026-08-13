@@ -1,5 +1,5 @@
 ---
-asin: "B01GCFZ0RW"
+
 slug: "b01gcfz0rw-cosequin-joint-supplement-cats"
 title: "Cosequin Maximum Strength Joint Supplement for Cats 60 Sprinkle Capsules"
 seoTitle: "Cosequin for Cats Review | Silvertail"
@@ -13,8 +13,7 @@ reviewCount: 6830
 bsr: 115
 commissionPerSale: 0.0
 score: 46.7
-imageUrl: "/images/amazon-picks/B01GCFZ0RW.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B01GCFZ0RW?tag=silvertail-20&linkCode=ll1&language=en_US"
+imageUrl: ""
 isPrime: true
 status: "published"
 firstSeen: "2026-05-13T00:00:00+00:00"
@@ -26,6 +25,8 @@ tags:
   - senior-cat
 author: "amelia-silvertail"
 ---
+
+
 # Cosequin for Cats — What the Joint Supplement Evidence Actually Shows
 
 Approximately 90% of cats over 12 have radiographic signs of osteoarthritis. Most owners don't notice
@@ -48,5 +49,3 @@ reports indicate no food refusal. Dose once daily for 4–6 weeks before assessi
 Cosequin is not a pain medication. It supports cartilage maintenance and may reduce inflammation
 marginally over time. For cats already showing obvious pain (limping, vocalizing on palpation),
 combine with vet-prescribed meloxicam rather than relying on supplements alone.
-
-<AffiliateCTA asin="B01GCFZ0RW" label="Check current price on Amazon" />

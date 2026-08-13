@@ -9,6 +9,7 @@ location: ""
 socials: {}
 ---
 
+
 This is the placeholder editorial profile that ships with every newly-spawned site.
 Until the operator generates a real author persona for this niche, articles render
 under this byline. The article layout falls back to this entry when the niche spec

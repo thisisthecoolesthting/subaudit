@@ -13,6 +13,7 @@ tags:
 author: morgan-hale-subaudit
 ---
 
+
 ## Where creep hides
 
 1. **Your Memberships & Subscriptions** — digital trials and Prime Video channels.
@@ -51,4 +52,3 @@ Physical Subscribe & Save orders can still earn **product commission** via Assoc
 ## Our picks worth a closer look
 
 - **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
-

@@ -20,8 +20,11 @@ author: marcus-webb
 ---
 
 
+
 *TinkerBench is reader-supported. When you buy through links on our site, we may earn an affiliate commission.*
 ---
+
+
 ## Advanced Arduino Techniques: Beyond the Basics
 
 You've mastered blinking LEDs and reading sensor values with your Arduino. Now it's time to unlock the true potential of this versatile microcontroller. This guide will delve into three key advanced techniques: interrupts, timers, and EEPROM, offering practical examples and explanations to elevate your Arduino projects from simple to sophisticated. We'll be using the ubiquitous [Arduino Uno Rev3 (A000066)](/products/b008grtsv6-arduino-uno-rev3-a000066-atmega328p-microcontroller-16mhz-14/) as our example platform.
@@ -209,4 +212,3 @@ By mastering interrupts, timers, and EEPROM, you'll significantly expand your Ar
 - **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
 - **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
 - **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
-

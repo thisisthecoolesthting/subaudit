@@ -10,6 +10,7 @@ location: ""
 socials: {}
 ---
 
+
 Jordan Reyes spent eight years as a lead at a major carrier store — the person staff escalated to when a customer needed screenshots, backups, or a phone that would not turn on five minutes before a flight. PhoneHowTo publishes the exact menu paths once, clearly, with the model name in the title.
 
 Every guide is checked on hardware. When Apple or Samsung moves a setting in a point release, the article gets a dated update note.

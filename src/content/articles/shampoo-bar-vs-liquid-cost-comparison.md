@@ -38,6 +38,7 @@ heroImage: /images/hero/shampoo-bar-vs-liquid-cost-comparison.jpg
 subtopic: personal-care
 updatedAt: 2026-05-12
 ---
+
 ## Introduction
 
 
@@ -163,61 +164,6 @@ New concentrate systems like Bare Home Shampoo Drops promise:
 
 ## Top Picks
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07571LXYD?tag=subaudit-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Heali Kiwi Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/413hRd6x2YL.jpg" alt="Ethique Heali Kiwi Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Ethique Heali Kiwi Shampoo Bar</strong>
-<span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07VQC79W4?tag=subaudit-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Maintain Shampoo + Conditioner Set" data-card-pick="Matched shampoo and conditioner bars—salon feel without pump bottles.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51PG0xjvu+L.jpg" alt="HiBAR Maintain Shampoo + Conditioner Set" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">HiBAR Maintain Shampoo + Conditioner Set</strong>
-<span class="amazon-inline-card__desc">Separate solid bars with salon-quality ingredients, zero plastic packaging.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B001W2K51O?tag=subaudit-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="J.R.LIGGETT Shampoo Bar" data-card-pick="Classic concentrated bar that lasts—great value per wash vs. liquid refills.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41e6eGXac8L.jpg" alt="J.R.LIGGETT Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">J.R.LIGGETT Shampoo Bar</strong>
-<span class="amazon-inline-card__desc">One bar replaces multiple liquid bottles—travel-friendly and plastic-free.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0DKPHHP5G?tag=subaudit-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Hydrating Conditioner Bar" data-card-pick="Completes a solid hair routine—pairs directly with Ethique shampoo bars.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41+MTQP7EEL.jpg" alt="Ethique Hydrating Conditioner Bar" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Ethique Hydrating Conditioner Bar</strong>
-<span class="amazon-inline-card__desc">Solid conditioner bar that pairs with shampoo bars for a full plastic-free routine.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0CLBF6PLW?tag=subaudit-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Plastic Free Deodorant — Bergamot &amp; Cedar" data-card-pick="Plant-based wax formula in minimal packaging—pairs well with their solid hair bars.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41IfQ1+OUhL.jpg" alt="HiBAR Plastic Free Deodorant — Bergamot & Cedar" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">HiBAR Plastic Free Deodorant — Bergamot & Cedar</strong>
-<span class="amazon-inline-card__desc">Vegan, aluminum-free deodorant in recyclable tubes—plant-based waxes for all-day protection.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
 ## Our picks worth a closer look
 
 - **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
@@ -225,4 +171,3 @@ New concentrate systems like Bare Home Shampoo Drops promise:
 - **[Dr. Tobias Omega 3 Fish Oil 2000mg Triple Strength with 800mg EPA 600mg DHA Per ](/products/b00cazau62-dr-tobias-omega-3-fish-oil-2000mg-triple-strength-with-800mg/)** — see current price and specs.
 - **[LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/)** — see current price and specs.
 - **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
-

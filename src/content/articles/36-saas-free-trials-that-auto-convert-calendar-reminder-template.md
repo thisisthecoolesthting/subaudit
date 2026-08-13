@@ -29,6 +29,8 @@ hero_image_keywords:
 - saas template
 ---
 
+
+
 If you’ve ever signed up for a SaaS (Software as a Service) free trial only to forget to cancel and then get hit with a surprise charge, you’re not alone. SaaS free trials that auto-convert can quietly eat into your budget, so having a reliable calendar reminder template is a smart way to stay in control of your recurring expenses.
 
 ## Key takeaways
@@ -38,8 +40,8 @@ If you’ve ever signed up for a SaaS (Software as a Service) free trial only to
 - A clear reminder template should include trial start/end dates, cancellation instructions, and review prompts.
 - Combining calendar alerts with a recurring subscriptions audit helps households and freelancers keep spending in check.
 - Automating reminders through popular calendar apps is simple and customizable to your workflow.
-
 ---
+
 
 ## Understanding SaaS Free Trials That Auto-Convert
 
@@ -123,8 +125,6 @@ For example:
 - Use your trial tracking spreadsheet to mark which trials converted or got canceled.
 - Consider using budgeting apps that track recurring charges, supplementing manual calendar and note reminders.
 
----
-
 ## Related reading
 
 - [How to find hidden subscriptions in Apple and Google play stores](/articles/35-how-to-find-hidden-subscriptions-in-apple-and-google-play-stores/)
@@ -162,4 +162,3 @@ Managing SaaS free trials that auto-convert isn’t complicated, but it does req
 ## Our picks worth a closer look
 
 - **[Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/)** — see current price and specs.
-

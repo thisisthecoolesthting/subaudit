@@ -1,5 +1,4 @@
 ---
-asin: B000WKWMWS
 slug: b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack
 title: Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)
 seoTitle: Dawn Ultra 75oz 2-Pack Price Analysis | RefillWatch
@@ -13,8 +12,7 @@ reviewCount: 54320
 bsr: 2
 commissionPerSale: 0.0
 score: 91.0
-imageUrl: https://m.media-amazon.com/images/I/51rRWjWC7bL.jpg
-affiliateUrl: https://www.amazon.com/dp/B000WKWMWS?tag=subaudit-20&linkCode=ll1&language=en_US
+imageUrl: ""
 isPrime: true
 status: published
 firstSeen: '2026-04-24T00:00:00+00:00'
@@ -24,6 +22,8 @@ tags:
 - kitchen
 - household
 ---
+
+
 # Dawn Ultra 75oz 2-Pack — Per-Ounce Price Breakdown
 
 150 oz total. At $12.99 that's **$0.087/oz** — consistently cheaper than the grocery store's 28oz bottle at $4.99 ($0.178/oz).
@@ -35,5 +35,3 @@ Yes, provided you have storage space. The 2-pack saves ~$5 vs. buying two 75oz b
 ## Best price threshold
 
 Alert at $10.99 — it hits this 3–4 times a year. At that price it's $0.073/oz, the all-time low we've tracked.
-
-<AffiliateCTA asin="B000WKWMWS" label="Check current price on Amazon" />

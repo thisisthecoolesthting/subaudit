@@ -8,6 +8,7 @@ joinedAt: 2026-01-01
 location: ""
 ---
 
+
 Dana Wolff is the editor of RefillWatch. She spent a decade covering retail pricing, private-label strategy, and category management for the analyst side of the grocery and household-goods industry before getting tired of watching retailers quietly raise prices on routine purchases while nobody named the numbers out loud.
 
 RefillWatch is her attempt to name them. Every pricing alert tracks the specific dollar amount, the specific retailer, and the specific date of the hike. Every refill or bulk alternative is something she&rsquo;d switch to herself &mdash; and in most cases, she already has.

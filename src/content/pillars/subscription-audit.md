@@ -18,6 +18,7 @@ tags:
 author: morgan-hale-subaudit
 ---
 
+
 ## Step 1 — Pull 90 days of charges
 
 Export CSV from your bank or use your card app’s **recurring** filter. Tag anything that hits more than once in 90 days.

@@ -10,6 +10,7 @@ heroImage: /images/hero/home.jpg
 subtopic: lighting
 ---
 
+
 Proper lighting is often overlooked in the quest to optimize workspace ergonomics, yet it has a profound impact on cognitive performance and well-being during long desk hours. If you’re struggling with afternoon slumps, eye strain, or difficulty focusing at your desk, the lighting setup around you might be a key culprit. Understanding how lighting affects your brain function and productivity can help you create a more supportive environment for sustained mental clarity.
 
 ## What Proper Lighting Is and Why It Matters
@@ -100,8 +101,9 @@ While ergonomic furniture aids physical comfort and reduces distractions, proper
 
 **Q: Is natural light always better than artificial light at work?**  
 **A:** Natural light is ideal, especially in the morning, but artificial lighting designed to mimic daylight spectra can effectively support productivity indoors after sunset or in windowless offices.
-
 ---
+
+
 
 Optimizing your workspace lighting with attentiveness to intensity, color temperature, and adjustability can transform your daily cognitive experience. When combined with ergonomic furniture considerations, this holistic approach sustains mental agility, reduces fatigue, and supports lasting productivity through your workload.
 
@@ -116,4 +118,3 @@ Optimizing your workspace lighting with attentiveness to intensity, color temper
 ## Our picks worth a closer look
 
 - **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
-

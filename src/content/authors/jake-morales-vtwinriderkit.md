@@ -9,4 +9,5 @@ location: ""
 socials: {}
 ---
 
+
 Jake Morales contributes to SubAudit's editorial coverage.

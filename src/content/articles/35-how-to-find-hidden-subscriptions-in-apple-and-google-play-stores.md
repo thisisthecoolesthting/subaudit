@@ -29,6 +29,8 @@ hero_image_keywords:
 - find stores
 ---
 
+
+
 Finding hidden subscriptions in Apple and Google Play stores can feel like peeling an onion — frustrating layers, unexpected fees, and confusing account settings. Whether you’re auditing your household expenses or tracking down tools for your indie projects, uncovering these sneaky recurring charges is essential to staying in control of your budget.
 
 ## Key takeaways
@@ -38,16 +40,14 @@ Finding hidden subscriptions in Apple and Google Play stores can feel like peeli
 - Mobile devices and desktop platforms offer different views; it’s worth checking both.
 - Canceling unwanted subscriptions requires timely action to avoid auto-renewal charges.
 - Keeping a centralized list of subscriptions can prevent future surprises.
-
 ---
+
 
 ## Why hidden subscriptions slip under the radar
 
 As a former FP&A analyst, I learned that small, recurring expenses — especially those that change accounts or turn into free trials — are notorious for silently eating into a household budget. Subscription services in app stores like Apple’s App Store and Google Play are no exception. Many users set up free trials, forget about them, or run multiple accounts, and these add-ons renew without clear notifications.
 
 Given the rise of micro-subscriptions — whether for productivity apps, streaming add-ons, or AI-powered tools — I knew it was time to dig deep into how these platforms help (or hinder) users in auditing their subscriptions. Here’s what I’ve found after hands-on testing both ecosystems:
-
----
 
 ## How to find hidden subscriptions on Apple App Store
 
@@ -80,8 +80,6 @@ On a PC, subscriptions can be viewed via iTunes under account settings, but this
 
 Subscriptions sometimes hide in rarely used apps or older games where you "accidentally" signed up for recurring charges months ago. Go through your app download history to jog your memory.
 
----
-
 ## How to find hidden subscriptions on Google Play Store
 
 ### 1. Access your Google Play subscriptions on Android devices
@@ -107,8 +105,6 @@ On a browser, log in to your Google account, open the Google Play Store page, se
 
 Android’s Family Library isn’t as widely used but carries subscription responsibilities for the family manager. Like Apple, confirm with the family organizer if subscriptions might be hiding in shared purchases.
 
----
-
 ## Common subscription blind spots and how to avoid them
 
 | Blind Spot                   | How it Happens                                           | How to Find & Fix                                   |
@@ -119,15 +115,11 @@ Android’s Family Library isn’t as widely used but carries subscription respo
 | Inactive or hidden app subs  | Subscriptions purchased in dormant apps                 | Review app download history and linked subscriptions |
 | Alternate payment methods    | Subscriptions paid via third-party or web outside app   | Check payment methods on app store accounts and vendor sites |
 
----
-
 ## The importance of cancellation timing
 
 Finding a subscription is half the battle; canceling it properly is your next step. Both Apple and Google Play allow you to cancel subscriptions anytime, but the subscription usually continues until the end of the paid billing cycle. Cancel early if you know you no longer want the service, and mark renewal dates in your calendar to avoid unwanted auto-renews.
 
 In my tests, I’ve seen missed cancellation windows cause double or triple monthly charges that could have been avoided with a timely audit.
-
----
 
 ## Tips for keeping your subscription stack manageable
 
@@ -136,8 +128,6 @@ In my tests, I’ve seen missed cancellation windows cause double or triple mont
 - Keep a personal spreadsheet or use budgeting apps with subscription tracking.
 - Regularly check payment methods for recurring charges outside of Apple or Google.
 - Consider family group plans when appropriate, but audit periodically.
-
----
 
 ## Checklist: How to find hidden subscriptions in Apple and Google Play Stores
 
@@ -150,8 +140,6 @@ In my tests, I’ve seen missed cancellation windows cause double or triple mont
 | Switch multiple accounts       | Log out/in with other Apple IDs              | Switch accounts via profile icon            |
 | Cross-reference payment methods| Examine Apple ID and linked cards           | Review Google payments and linked cards     |
 | Cancel unwanted subscriptions | Tap subscription > Cancel Subscription      | Tap subscription > Cancel Subscription      |
-
----
 
 ## Related reading
 
@@ -192,4 +180,3 @@ Keeping an eye on hidden subscriptions in Apple and Google Play stores is a crit
 - **[RCA Roku Smart Home Theater Projector - Stream Netflix, Prime Video, Hulu, Disne](/products/b083td3v4j-rca-roku-smart-home-theater-projector-stream-netflix-prime-v/)** — see current price and specs.
 - **[Splin Table Stand Holder Compatible with Amazon Alexa Smart Speaker Echo Dot (4t](/products/b0ckgkbp93-splin-table-stand-holder-compatible-with-amazon-alexa-smart/)** — see current price and specs.
 - **[Splin Table Stand Holder Compatible with Amazon Alexa Smart Speaker Echo Dot (4t](/products/b0d2rydmyw-splin-table-stand-holder-compatible-with-amazon-alexa-smart/)** — see current price and specs.
-

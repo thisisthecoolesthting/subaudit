@@ -19,6 +19,7 @@ tags:
 author: morgan-hale-subaudit
 ---
 
+
 ## Three buckets — one paid seat each
 
 | Bucket | Examples | Rule |

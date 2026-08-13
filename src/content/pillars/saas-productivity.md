@@ -19,6 +19,7 @@ tags:
 author: morgan-hale-subaudit
 ---
 
+
 ## What belongs in “productivity SaaS”
 
 | Category | Examples | Overlap trap |

@@ -10,6 +10,7 @@ heroImage: /images/hero/home.jpg
 subtopic: chairs
 ---
 
+
 Many desk workers develop repetitive strain injuries (RSIs) from long hours typing on traditional QWERTY keyboards that were not designed with ergonomic principles in mind. These injuries can cause pain, numbness, and fatigue in the fingers, hands, wrists, and forearms. If you’re experiencing discomfort or want to minimize your risk of RSI, understanding ergonomic keyboard layouts—and how they differ from standard ones—is crucial for lasting relief during your workflow.
 
 ## What Are Ergonomic Keyboard Layouts?
