@@ -22,7 +22,7 @@ author: marcus-webb
 
 # Introduction
 
-"Why does my solder blob instead of flow?" If you're holding a cold joint wondering where you went wrong, the problem might not be your technique — it might be your iron. A proper soldering iron maintains precise temperatures, transfers heat efficiently, and won't fail after three uses.  For more context, see our [article on raspberry pi 5 projects](/articles/raspberry-pi-5-projects-beginners).After testing four beginner-friendly models (including the [Hakko FX-888D](https://www.amazon.com/dp/B07TEST1234?tag=tinkerbench-20) and [Pinecil V2](https://www.amazon.com/dp/B07TEST5678?tag=tinkerbench-20)) on Arduino boards, guitar pedals, and antique radio repairs, here's what actually works.
+"Why does my solder blob instead of flow?" If you're holding a cold joint wondering where you went wrong, the problem might not be your technique — it might be your iron. A proper soldering iron maintains precise temperatures, transfers heat efficiently, and won't fail after three uses.  For more context, see our [article on raspberry pi 5 projects](/articles/raspberry-pi-5-projects-beginners).After testing four beginner-friendly models (including the Hakko FX-888D and Pinecil V2) on Arduino boards, guitar pedals, and antique radio repairs, here's what actually works.
 
 We identified three critical failure points in budget irons: thermal runaway (where the iron keeps heating beyond set temperatures), tip oxidation (which happens 3x faster in sub-$30 irons), and power cord failures (the #1 cause of premature shutdown). The Hakko FX-888D survived our stress test of 100 consecutive solder joints without temperature fluctuation, while the Vastar 60W's tip degraded noticeably after 15 minutes at 400°C. For more context, see our [article on are arduino starter kits](/articles/arduino-starter-kits-worth-buying).
 
@@ -30,7 +30,7 @@ For context, lead-free solder requires consistent 350–400°C temperatures—me
 
 # Why This Matters
 
-A poor soldering iron costs more than its price tag. Cold joints fail over time—imagine a project dying mid-demonstration because the iron couldn't maintain temperature.  For more context, see our [article on how to solder through-hole](/articles/how-to-solder-through-hole).We measured with thermal imaging: budget irons like the [Vastar 60W](https://www.amazon.com/dp/B07TEST9012?tag=tinkerbench-20) fluctuate ±50°C while soldering, causing brittle connections. The Hakko held ±3°C. For through-hole components, you need at least 40W; surface-mount work demands precise tip control.
+A poor soldering iron costs more than its price tag. Cold joints fail over time—imagine a project dying mid-demonstration because the iron couldn't maintain temperature.  For more context, see our [article on how to solder through-hole](/articles/how-to-solder-through-hole).We measured with thermal imaging: budget irons like the Vastar 60W fluctuate ±50°C while soldering, causing brittle connections. The Hakko held ±3°C. For through-hole components, you need at least 40W; surface-mount work demands precise tip control.
 
 Our testers noted the Pinecil's USB-C power made it ideal for field repairs, while the Hakko's analog controls appealed to those who distrust digital interfaces.
 
@@ -48,7 +48,7 @@ Our testers noted the Pinecil's USB-C power made it ideal for field repairs, whi
 | Weller WE1010NA     | 425°C    | 8 sec         | 15          | 2 years  | $80   |
 | Vastar 60W Kit      | 400°C    | 12 sec        | 5           | 90 days  | $22   |
 
-*Community-supported; manufacturer warranty may vary. The Hakko dominates for bench work, but the [Pinecil](https://www.amazon.com/dp/B07TEST5678?tag=tinkerbench-20) is unbeatable for portability. The Weller's ceramic heater outperforms the Vastar's budget metal coil, but both lag in heat recovery.
+*Community-supported; manufacturer warranty may vary. The Hakko dominates for bench work, but the Pinecil is unbeatable for portability. The Weller's ceramic heater outperforms the Vastar's budget metal coil, but both lag in heat recovery.
 
 **Key findings from our 30-hour stress test:**
 - **Temperature accuracy**: Hakko maintained ±3°C vs. Pinecil's ±8°C and Vastar's ±50°C
@@ -56,7 +56,7 @@ Our testers noted the Pinecil's USB-C power made it ideal for field repairs, whi
 - **Ergonomics**: Pinecil's 45g weight caused less fatigue during extended sessions
 - **Safety**: Only the Hakko and Weller passed UL certification for tip-to-ground electrical resistance
 
-For context, professional soldering stations like the [JBC CD-2BE](https://www.amazon.com/dp/B07TEST3456?tag=tinkerbench-20) (not tested here) offer 1-second heat recovery but cost $500+. The Hakko strikes the best balance for serious hobbyists.
+For context, professional soldering stations like the JBC CD-2BE (not tested here) offer 1-second heat recovery but cost $500+. The Hakko strikes the best balance for serious hobbyists.
 
 # Real-World Performance
 
@@ -86,7 +86,7 @@ For PCB work, the Hakko's ESD-safe design mattered; for portable field repairs, 
 3. **Repairs**: 3 out of 10 Vastar units failed within warranty vs. 0 out of 10 Hakkos
 4. **Time waste**: Budget irons add ~15 minutes per project due to temperature drift
 
-A [good solder sucker](https://www.amazon.com/dp/B07TEST7890?tag=tinkerbench-20) ($15) prevents more ruined boards than upgrading your iron—but only if your iron gets hot enough.
+A good solder sucker ($15) prevents more ruined boards than upgrading your iron—but only if your iron gets hot enough.
 
 # Alternatives and Refills
 
@@ -118,7 +118,7 @@ Cheap irons run too hot when idle. Turn down to 300°C when not in use. Hakko's 
 
 # Bottom Line
 
-For beginners who will commit to the hobby: Buy the [Hakko FX-888D](https://www.amazon.com/dp/B07TEST1234?tag=tinkerbench-20). Its consistent performance and extensive tip ecosystem justify the cost. For budget-conscious tinkerers or those needing portability, the [Pinecil V2](https://www.amazon.com/dp/B07TEST5678?tag=tinkerbench-20) is remarkably capable for the price. Avoid the Vastar unless you're soldering one or two projects total. A quality iron with proper technique beats a cheap iron with perfect technique every time.
+For beginners who will commit to the hobby: Buy the Hakko FX-888D. Its consistent performance and extensive tip ecosystem justify the cost. For budget-conscious tinkerers or those needing portability, the Pinecil V2 is remarkably capable for the price. Avoid the Vastar unless you're soldering one or two projects total. A quality iron with proper technique beats a cheap iron with perfect technique every time.
 
 **Final recommendation matrix:**
 - **Electronics students**: Hakko FX-888D

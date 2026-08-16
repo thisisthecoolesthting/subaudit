@@ -10,7 +10,7 @@ bsr: 2597
 commissionPerSale: 0
 score: 0
 imageUrl: "https://m.media-amazon.com/images/I/31oTDuHoSHL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B083TD3V4J?tag=subaudit-20"
+affiliateUrl: "https://www.amazon.com/dp/B083TD3V4J"
 isPrime: false
 status: published
 firstSeen: "2026-06-02"

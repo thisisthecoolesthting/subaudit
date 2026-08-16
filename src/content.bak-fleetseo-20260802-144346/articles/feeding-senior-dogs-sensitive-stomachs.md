@@ -72,9 +72,9 @@ After evaluating 17 leading formulas through both lab analysis and real-dog tria
 
 | Product | Protein Source | Fiber Blend | Fat Content | Digestibility Score | Price (30-day) | Cost Per Nutrient Unit |
 |---------|---------------|-------------|-------------|---------------------|----------------|------------------------|
-| [Purina Pro Plan Sensitive Skin & Stomach](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) | Salmon (26%) | Beet pulp, guar gum (3.5%) | 12% | 94/100 | $59.99 | $0.38 |
-| [Hill's Science Diet Sensitive Stomach & Skin](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) | Chicken (23%) | Psyllium, cellulose (4%) | 14% | 89/100 | $64.99 | $0.42 |
-| [Blue Buffalo Basics Limited Ingredient Diet](https://www.amazon.com/dp/B0GF25F12C?tag=silvertail-20) | Turkey (24%) | Pea fiber (3%) | 10% | 85/100 | $49.99 | $0.31 |
+| Purina Pro Plan Sensitive Skin & Stomach | Salmon (26%) | Beet pulp, guar gum (3.5%) | 12% | 94/100 | $59.99 | $0.38 |
+| Hill's Science Diet Sensitive Stomach & Skin | Chicken (23%) | Psyllium, cellulose (4%) | 14% | 89/100 | $64.99 | $0.42 |
+| Blue Buffalo Basics Limited Ingredient Diet | Turkey (24%) | Pea fiber (3%) | 10% | 85/100 | $49.99 | $0.31 |
 | Royal Canin Digestive Care | Pork, rice (22%) | FOS, MOS (3.2%) | 13% | 91/100 | $69.99 | $0.47 |
 | Nutro Limited Ingredient | Lamb (25%) | Chickpeas (4.5%) | 12% | 83/100 | $54.99 | $0.36 |
 | Purina ONE Sensitive Systems | Salmon (28%) | Wheat bran (4%) | 15% | 87/100 | $44.99 | $0.29 |
@@ -89,7 +89,7 @@ Key findings:
 
 Our 6-month feeding trials with 42 senior dogs (ages 8-15) yielded surprising insights beyond standard digestibility metrics. Dogs were rotated through diets with 30-day washout periods between.
 
-**Top Performer: [Purina Pro Plan Sensitive Skin & Stomach](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20)**
+**Top Performer: Purina Pro Plan Sensitive Skin & Stomach**
 - 89% of dogs maintained or gained lean muscle mass
 - 72% showed improved coat quality within 4 weeks
 - 67% had more consistent bowel movements
@@ -99,12 +99,12 @@ Notable case: A 12-year-old German Shepherd with chronic loose stools and 15% we
 - 8% weight regain in 6 weeks
 - 40% reduction in arthritis medication needs
 
-**Best for Picky Eaters: [Hill's Science Diet](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20)**
+**Best for Picky Eaters: Hill's Science Diet**
 - 78% acceptance rate among dogs who refused other foods
 - Kibble shape designed for easier prehension in dogs with dental issues
 - Contains palatability enhancers like animal digest (safe but not vegetarian-friendly)
 
-**Budget Winner: [Blue Buffalo Basics](https://www.amazon.com/dp/B0GF25F12C?tag=silvertail-20)**
+**Budget Winner: Blue Buffalo Basics**
 - 65% of dogs with chicken allergies improved
 - Lowest incidence of gas among test foods
 - Required longest transition period (10-14 days for best results)
@@ -136,15 +136,15 @@ Our data shows dogs on optimized diets had:
 | Mid-range | $44.99 | $67.80 | $112.79 |
 | Premium | $64.99 | $24.30 | $89.29 |
 
-The [Purina Pro Plan 30lb bag](https://www.amazon.com/dp/B099NZC4PB?tag=silvertail-20) brings the effective daily cost down to $1.79 when accounting for these factors—cheaper than 'cheap' food in real terms.
+The Purina Pro Plan 30lb bag brings the effective daily cost down to $1.79 when accounting for these factors—cheaper than 'cheap' food in real terms.
 
 ## Alternatives and refuxlls
 
 For dogs that don't tolerate commercial kibble, consider these veterinary-approved options:
 
 **1. Home-Cooked Meals**
-- Requires precise balancing: Use [BalanceIT](https://www.amazon.com/dp/B0846GFNCQ?tag=silvertail-20) supplements
-- Starter recipe: 1lb lean turkey, 2 cups white rice, 1 tbsp [salmon oil](https://www.amazon.com/dp/B08PDT5J24?tag=silvertail-20), BalanceIT mix
+- Requires precise balancing: Use BalanceIT supplements
+- Starter recipe: 1lb lean turkey, 2 cups white rice, 1 tbsp salmon oil, BalanceIT mix
 - Cost: $2.10/day (30% cheaper than fresh delivery)
 
 **2. Fresh Food Delivery**
@@ -154,9 +154,9 @@ For dogs that don't tolerate commercial kibble, consider these veterinary-approv
 - Cons: 15-minute prep time, freezer space needed
 
 **3. Digestive Supplements**
-- [Purina FortiFlora](https://www.amazon.com/dp/B0C7ZTV376?tag=silvertail-20): #1 vet-recommended probiotic
-- [Proviable DC](https://www.amazon.com/dp/B002VLZHLS?tag=silvertail-20): Multi-strain formula
-- [Slippery Elm](https://www.amazon.com/dp/B08QJNQG4K?tag=silvertail-20): Natural soothing agent
+- Purina FortiFlora: #1 vet-recommended probiotic
+- Proviable DC: Multi-strain formula
+- Slippery Elm: Natural soothing agent
 
 **Pro Tip:** Rotate proteins every 3-4 months to prevent new sensitivities from developing, even with successful foods.
 
@@ -198,13 +198,13 @@ A: Immediately if you see:
 
 ## Bottom line
 
-After 18 months of rigorous testing, [Purina Pro Plan Sensitive Skin & Stomach](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) emerges as our top recommendation for senior dogs with sensitive stomachs. Its combination of:
+After 18 months of rigorous testing, Purina Pro Plan Sensitive Skin & Stomach emerges as our top recommendation for senior dogs with sensitive stomachs. Its combination of:
 - Novel protein (salmon)
 - Prebiotic-fermented fibers
 - Optimal 26:12 protein:fat ratio
 - High palatability
 
-...delivered measurable health improvements across our test group. For budget-conscious owners, [Purina ONE Sensitive Systems](https://www.amazon.com/dp/B08QJNQG4K?tag=silvertail-20) offers 85% of the benefits at 30% lower cost. Remember: transitioning slowly over 10-14 days and keeping detailed food logs will give your senior companion the best chance at comfortable, joyful golden years.
+...delivered measurable health improvements across our test group. For budget-conscious owners, Purina ONE Sensitive Systems offers 85% of the benefits at 30% lower cost. Remember: transitioning slowly over 10-14 days and keeping detailed food logs will give your senior companion the best chance at comfortable, joyful golden years.
 
 <!-- padded-no-api-v2 -->
 

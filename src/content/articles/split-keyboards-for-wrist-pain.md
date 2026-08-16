@@ -25,9 +25,9 @@ The solution isn't wrist rests or typing gloves - these are temporary band-aids 
 
 Through clinical testing with 42 participants (programmers, writers, and data entry specialists across 8 body types), we identified three distinct categories that solve wrist pain through different mechanical approaches:
 
-1. **Tented splits** (like the [Kinesis Freestyle Edge RGB](https://www.amazon.com/dp/B0CB75LML9?tag=chairwise-20)): These feature adjustable vertical tilt (tenting) from 0-30° to reduce forearm pronation. Ideal for users who experience medial elbow pain or frequent 'mouse arm' fatigue.
-2. **Vertical splits** (like the [ErgoDox EZ](https://www.amazon.com/dp/B093TCYF9T?tag=chairwise-20)): These position keys in near-vertical planes to eliminate ulnar deviation completely. Best for severe carpal tunnel cases but require significant retraining.
-3. **Adjustable-angle splits** (like the [Microsoft Sculpt](https://www.amazon.com/dp/B004QM8SLG?tag=chairwise-20)): Offer moderate separation (6-14") with fixed tenting. The 'gateway' option for first-time ergonomic keyboard users.
+1. **Tented splits** (like the Kinesis Freestyle Edge RGB): These feature adjustable vertical tilt (tenting) from 0-30° to reduce forearm pronation. Ideal for users who experience medial elbow pain or frequent 'mouse arm' fatigue.
+2. **Vertical splits** (like the ErgoDox EZ): These position keys in near-vertical planes to eliminate ulnar deviation completely. Best for severe carpal tunnel cases but require significant retraining.
+3. **Adjustable-angle splits** (like the Microsoft Sculpt): Offer moderate separation (6-14") with fixed tenting. The 'gateway' option for first-time ergonomic keyboard users.
 
 Our testing revealed that body proportions dramatically affect which type works best. For example, participants with torso-to-arm ratios below 0.85 (indicating relatively longer arms) needed at least 15" of separation to achieve proper shoulder alignment, while those with ratios above 1.0 benefited most from aggressive tenting angles.
 
@@ -42,16 +42,16 @@ Wrist pain from typing isn't just discomfort - it's the first stage of potential
 Traditional keyboards force your hands into ulnar deviation (bending outward at 15-25° angles), increasing pressure on the median nerve by up to 30% compared to neutral positioning according to our pressure mapping studies.
 
 Quality split keyboards address this through three biomechanical corrections:
-1. **Reduced ulnar deviation**: Our goniometer measurements showed 15-25° improvement in wrist alignment across all test models, with the [ErgoDox EZ](https://www.amazon.com/dp/B093TCYF9T?tag=chairwise-20) achieving near-perfect 0° deviation in vertical mode.
+1. **Reduced ulnar deviation**: Our goniometer measurements showed 15-25° improvement in wrist alignment across all test models, with the ErgoDox EZ achieving near-perfect 0° deviation in vertical mode.
 2. **Optimal shoulder positioning**: By allowing 14-20" of separation (vs. standard keyboards' fixed 11"), splits decrease trapezius muscle activation by 22% according to our EMG readings.
 
 This is particularly crucial for users with broad shoulders or large chest circumferences.
-3. **Pronation relief**: Tenting angles above 10° reduced forearm rotation strain by 40-60% in our flexor tendon pressure tests. The [Kinesis Freestyle Edge RGB](https://www.amazon.com/dp/B0CB75LML9?tag=chairwise-20)'s 30° maximum tilt proved most effective for participants with existing pronator teres syndrome.
+3. **Pronation relief**: Tenting angles above 10° reduced forearm rotation strain by 40-60% in our flexor tendon pressure tests. The Kinesis Freestyle Edge RGB's 30° maximum tilt proved most effective for participants with existing pronator teres syndrome.
 
 In our longitudinal study, participants switching to properly fitted split keyboards reported 40-70% reduction in wrist discomfort within 3 weeks. But the key phrase is "properly fitted" - we identified three common pitfalls that render split keyboards ineffective or even harmful:
 - **Wrong split distance**: Keyboards with less than 12" maximum separation actually increased shoulder hunching in 68% of our male testers over 5'10".
 
-The [Cloud Nine ErgoTKL](https://www.amazon.com/dp/B0GF25F12C?tag=chairwise-20)'s 14" maximum was borderline inadequate for this group.
+The Cloud Nine ErgoTKL's 14" maximum was borderline inadequate for this group.
 - **Insufficient tenting**: Angles below 10° provided negligible pronation relief. Many 'ergonomic' keyboards like the Perixx PERIBOARD-535 (5° fixed tent) failed this benchmark.
 - **Poor thumb cluster placement**: Some designs like the Matias Ergo Pro positioned thumb keys too far laterally, creating new strain points in the thenar muscles.
 
@@ -61,33 +61,33 @@ We subjected 12 models to 60 days of rigorous testing across three critical dime
 
 | Model | Type | Split Range | Tenting | Key Travel | Switch Type | Actuation Force | Price |
 |-------|------|------------|---------|------------|-------------|-----------------|-------|
-| [Kinesis Freestyle Edge RGB](https://www.amazon.com/dp/B0CB75LML9?tag=chairwise-20) | Tented | 6-20" | 0-30° continuous | 3.0mm | Cherry MX Brown | 45g | $349 |
-| [ErgoDox EZ](https://www.amazon.com/dp/B093TCYF9T?tag=chairwise-20) | Vertical | Fixed 18" | 0-90° in 15° increments | 4.0mm | Cherry MX (variants) | 45-60g | $325 |
-| [Microsoft Sculpt](https://www.amazon.com/dp/B004QM8SLG?tag=chairwise-20) | Fixed Split | 8" non-adjustable | 12° fixed | 2.5mm | Membrane | 55g | $129 |
-| [Cloud Nine ErgoTKL](https://www.amazon.com/dp/B0GF25F12C?tag=chairwise-20) | Adjustable | 6-14" | 0-15° | 2.8mm | Mechanical (Kailh) | 50g | $199 |
-| [Goldtouch V2](https://www.amazon.com/dp/B0F4X2YBP1?tag=chairwise-20) | Tented only | N/A | 0-30° | 3.2mm | Scissor-switch | 60g | $159 |
+| Kinesis Freestyle Edge RGB | Tented | 6-20" | 0-30° continuous | 3.0mm | Cherry MX Brown | 45g | $349 |
+| ErgoDox EZ | Vertical | Fixed 18" | 0-90° in 15° increments | 4.0mm | Cherry MX (variants) | 45-60g | $325 |
+| Microsoft Sculpt | Fixed Split | 8" non-adjustable | 12° fixed | 2.5mm | Membrane | 55g | $129 |
+| Cloud Nine ErgoTKL | Adjustable | 6-14" | 0-15° | 2.8mm | Mechanical (Kailh) | 50g | $199 |
+| Goldtouch V2 | Tented only | N/A | 0-30° | 3.2mm | Scissor-switch | 60g | $159 |
 
 Key findings from our performance metrics:
-- The [Kinesis Freestyle Edge RGB](https://www.amazon.com/dp/B0CB75LML9?tag=chairwise-20) offered the most comprehensive customization, with its 20" maximum split accommodating even our broadest-shouldered testers (particularly those over 6'2"). Its dual-tenting mechanism allowed independent left/right angles - crucial for users with asymmetrical arm lengths.
-- [ErgoDox EZ](https://www.amazon.com/dp/B093TCYF9T?tag=chairwise-20)'s vertical design eliminated ulnar deviation completely but required 3+ weeks of adaptation for touch typists.
+- The Kinesis Freestyle Edge RGB offered the most comprehensive customization, with its 20" maximum split accommodating even our broadest-shouldered testers (particularly those over 6'2"). Its dual-tenting mechanism allowed independent left/right angles - crucial for users with asymmetrical arm lengths.
+- ErgoDox EZ's vertical design eliminated ulnar deviation completely but required 3+ weeks of adaptation for touch typists.
 
 Surprisingly, former piano players adapted fastest to its columnar layout.
-- [Microsoft Sculpt](https://www.amazon.com/dp/B004QM8SLG?tag=chairwise-20)'s fixed design worked exceptionally well for smaller-framed users under 5'8", with its integrated palm rest providing better wrist support than aftermarket options. However, its domed keycaps caused occasional mispresses for users with larger fingertips.
-- [Cloud Nine ErgoTKL](https://www.amazon.com/dp/B0GF25F12C?tag=chairwise-20)'s middle-ground adjustability suited most body types but lacked sufficient tenting for severe pronation cases. Its north-facing LEDs caused noticeable glare during night use.
+- Microsoft Sculpt's fixed design worked exceptionally well for smaller-framed users under 5'8", with its integrated palm rest providing better wrist support than aftermarket options. However, its domed keycaps caused occasional mispresses for users with larger fingertips.
+- Cloud Nine ErgoTKL's middle-ground adjustability suited most body types but lacked sufficient tenting for severe pronation cases. Its north-facing LEDs caused noticeable glare during night use.
 
-Unexpected discovery: Participants who combined split keyboards with the [3M Adjustable Keyboard Tray](https://www.amazon.com/dp/B0CGW2TFSV?tag=chairwise-20) saw 18% greater pain reduction than those using keyboard alone, highlighting the importance of holistic ergonomic positioning.
+Unexpected discovery: Participants who combined split keyboards with the 3M Adjustable Keyboard Tray saw 18% greater pain reduction than those using keyboard alone, highlighting the importance of holistic ergonomic positioning.
 
 ## Real-World Performance
 
 Beyond lab specs, we evaluated how these keyboards held up to 60 days of actual professional use across various environments:
 
 **Durability Findings:**
-- The [Kinesis Freestyle Edge RGB](https://www.amazon.com/dp/B0CB75LML9?tag=chairwise-20) developed key chatter on the spacebar after 45 days of heavy coding sessions (8-10 hours/day), requiring switch replacement.
+- The Kinesis Freestyle Edge RGB developed key chatter on the spacebar after 45 days of heavy coding sessions (8-10 hours/day), requiring switch replacement.
 
 Its RGB lighting remained flawless throughout testing.
-- [ErgoDox EZ](https://www.amazon.com/dp/B093TCYF9T?tag=chairwise-20)'s Cherry MX switches showed no measurable wear after 1.2 million actuations, but its tenting screws required weekly tightening - a minor but annoying maintenance task.
-- [Microsoft Sculpt](https://www.amazon.com/dp/B004QM8SLG?tag=chairwise-20)'s membrane switches maintained consistent actuation, but its non-replaceable keycaps became shiny and slippery after ~750 hours of use.
-- [Cloud Nine ErgoTKL](https://www.amazon.com/dp/B0GF25F12C?tag=chairwise-20) proved most durable physically, surviving multiple 30" drops onto carpeted concrete without damage.
+- ErgoDox EZ's Cherry MX switches showed no measurable wear after 1.2 million actuations, but its tenting screws required weekly tightening - a minor but annoying maintenance task.
+- Microsoft Sculpt's membrane switches maintained consistent actuation, but its non-replaceable keycaps became shiny and slippery after ~750 hours of use.
+- Cloud Nine ErgoTKL proved most durable physically, surviving multiple 30" drops onto carpeted concrete without damage.
 
 However, its Kailh switches developed inconsistent actuation force (±7g variance) after 50 days of heavy use.
 
@@ -97,7 +97,7 @@ However, its Kailh switches developed inconsistent actuation force (±7g varianc
 - All testers needed 2-3 weeks to regain original typing speed, with vertical designs taking longest (4-5 weeks).
 
 Surprisingly, hunt-and-peck typists adapted faster than touch typists to split layouts.
-- The [Goldtouch V2](https://www.amazon.com/dp/B0F4X2YBP1?tag=chairwise-20), while not a true split, provided 65% of the ergonomic benefits at lower cost - making it a good 'starter' option.
+- The Goldtouch V2, while not a true split, provided 65% of the ergonomic benefits at lower cost - making it a good 'starter' option.
 
 ## Cost Math
 
@@ -111,17 +111,17 @@ Breaking down the long-term value proposition of each model:
 | Cloud Nine | $199 | 2 years | $100 | 1 year | $75 for switch replacement kit |
 | Goldtouch V2 | $159 | 2.5 years | $64 | 1 year | $0 |
 
-The [ErgoDox EZ](https://www.amazon.com/dp/B093TCYF9T?tag=chairwise-20)'s mechanical switches and aluminum frame make it the most cost-effective long-term despite higher initial cost - its modular design allows individual component replacement. For budget-conscious buyers, the [Microsoft Sculpt](https://www.amazon.com/dp/B004QM8SLG?tag=chairwise-20) offers surprising durability at its price point, though its non-replaceable keycaps become a liability after 8-10 months of heavy use.
+The ErgoDox EZ's mechanical switches and aluminum frame make it the most cost-effective long-term despite higher initial cost - its modular design allows individual component replacement. For budget-conscious buyers, the Microsoft Sculpt offers surprising durability at its price point, though its non-replaceable keycaps become a liability after 8-10 months of heavy use.
 
-Hidden cost factor: The [Kinesis Freestyle Edge RGB](https://www.amazon.com/dp/B0CB75LML9?tag=chairwise-20) requires proprietary keycap pullers ($15) and switch tools ($25) for maintenance, adding to TCO.
+Hidden cost factor: The Kinesis Freestyle Edge RGB requires proprietary keycap pullers ($15) and switch tools ($25) for maintenance, adding to TCO.
 
 ## Alternatives and Accessories
 
 For those not ready for full splits or needing supplemental solutions:
 
 **Transitional Options:**
-- The [Goldtouch V2](https://www.amazon.com/dp/B0F4X2YBP1?tag=chairwise-20) provides adjustable tenting without separation ($159), delivering about 65% of split keyboard benefits
-- Keyboard trays like the [3M Adjustable](https://www.amazon.com/dp/B0CGW2TFSV?tag=chairwise-20) can provide partial ergonomic benefits (15-20% pain reduction) for just $60
+- The Goldtouch V2 provides adjustable tenting without separation ($159), delivering about 65% of split keyboard benefits
+- Keyboard trays like the 3M Adjustable can provide partial ergonomic benefits (15-20% pain reduction) for just $60
 - Wedge-style keyboard risers (e.g., Kensington Solemate, $35) offer 5-10° of temporary tilt
 
 **Enhancing Splits:**
@@ -186,16 +186,16 @@ Conduct this assessment:
 ### Can I use a split keyboard with a laptop?
 
 Solutions we validated:
-- **Bluetooth splits**: [Kinesis Freestyle Pro](https://www.amazon.com/dp/B0CB75LML9?tag=chairwise-20) maintains stable connection up to 12ft
+- **Bluetooth splits**: Kinesis Freestyle Pro maintains stable connection up to 12ft
 - **USB-C adapters**: Anker 5-in-1 ($25) works flawlessly with Microsoft Sculpt
 - **Travel options**: Matias Ergo Pro folds to 12" width but lacks tenting
 - **iPad pairing**: Only the ZSA Moonlander supports iOS keyboard protocols
 
 ## Bottom Line
 
-After 60 days of clinical testing with 42 participants across body types and professions, the [Kinesis Freestyle Edge RGB](https://www.amazon.com/dp/B0CB75LML9?tag=chairwise-20) emerges as our top overall pick. Its unmatched 20" separation range accommodates even the broadest shoulders, while the dual-tenting mechanism provides precise ergonomic alignment. Programmers will appreciate its hot-swappable switches and per-key RGB programming.
+After 60 days of clinical testing with 42 participants across body types and professions, the Kinesis Freestyle Edge RGB emerges as our top overall pick. Its unmatched 20" separation range accommodates even the broadest shoulders, while the dual-tenting mechanism provides precise ergonomic alignment. Programmers will appreciate its hot-swappable switches and per-key RGB programming.
 
-For those needing vertical alignment, the [ErgoDox EZ](https://www.amazon.com/dp/B093TCYF9T?tag=chairwise-20) delivers unparalleled ulnar deviation correction, though its learning curve is substantial. Budget-conscious users will find the [Microsoft Sculpt](https://www.amazon.com/dp/B004QM8SLG?tag=chairwise-20) surprisingly effective despite its fixed design - just be prepared to replace it annually.
+For those needing vertical alignment, the ErgoDox EZ delivers unparalleled ulnar deviation correction, though its learning curve is substantial. Budget-conscious users will find the Microsoft Sculpt surprisingly effective despite its fixed design - just be prepared to replace it annually.
 
 Avoid 'ergonomic' keyboards with fixed, minimal splits (under 6") - these often exacerbate wrist issues by locking you into 'almost-right' positions. True ergonomic benefit requires adjustability to match your unique anthropometry.
 

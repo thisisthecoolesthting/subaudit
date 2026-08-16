@@ -14,7 +14,7 @@ bsr: 115
 commissionPerSale: 0.0
 score: 46.7
 imageUrl: "/images/amazon-picks/B01GCFZ0RW.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B01GCFZ0RW?tag=silvertail-20&linkCode=ll1&language=en_US"
+affiliateUrl: "https://www.amazon.com/dp/B01GCFZ0RW&language=en_US"
 isPrime: true
 status: "published"
 firstSeen: "2026-05-13T00:00:00+00:00"

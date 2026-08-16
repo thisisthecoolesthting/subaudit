@@ -13,7 +13,7 @@ bsr: 72471
 commissionPerSale: 0.0
 score: 170.65
 imageUrl: "https://m.media-amazon.com/images/I/71ZdSfYJJhL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0DVTM4VSY?tag=silvertail-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0DVTM4VSY"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ My Lil’ Nugget - Vet-Approved Mood & Cognition Chews for Dogs | All-Natural Do
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0DVTM4VSY" url="https://www.amazon.com/dp/B0DVTM4VSY?tag=silvertail-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0DVTM4VSY" url="https://www.amazon.com/dp/B0DVTM4VSY" label="Check price on Amazon" />
 

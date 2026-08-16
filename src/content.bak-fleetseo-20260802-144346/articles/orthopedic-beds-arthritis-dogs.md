@@ -54,7 +54,7 @@ The results were informative—some premium beds performed similarly to mid-rang
 
 ## Head-to-head comparison
 
-| Feature               | [PetFusion Ultimate](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20) | [BarksBar Orthopedic](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20) | [Big Barker 7"](https://www.amazon.com/dp/B07TC2BK1X?tag=silvertail-20) | [Coolaroo Elevated](https://www.amazon.com/dp/B07GR5MSKD?tag=silvertail-20) |
+| Feature               | PetFusion Ultimate | BarksBar Orthopedic | Big Barker 7" | Coolaroo Elevated |
 |-----------------------|----------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------------------|
 | Foam density          | 4" memory foam (2.5lb/ft³)                                     | 4" egg crate foam (1.8lb/ft³)                                 | 7" high-density foam (2.8lb/ft³)                              | N/A (mesh platform)                                            |
 | Cover durability      | 600D polyester (withstands 75+ washes)                         | 300D polyester (shows pilling after 30 washes)                | 1200D fabric (100+ wash durability)                           | Powder-coated steel frame                                      |
@@ -63,43 +63,43 @@ The results were informative—some premium beds performed similarly to mid-rang
 | Weight capacity       | 120lbs                                                         | 100lbs                                                        | 250lbs                                                        | 150lbs                                                        |
 | Best for              | Medium dogs (30–60lbs) with moderate arthritis                 | Lightweight dogs (under 50lbs) on a budget                    | Large/giant breeds with significant arthritis                 | Dogs prone to overheating or heat-sensitive areas              |
 
-The [Big Barker](https://www.amazon.com/dp/B07TC2BK1X?tag=silvertail-20) stands out for large breeds with its high-density foam that maintained firmness after our extended use tests, while the [PetFusion](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20) offers solid support and good value for medium dogs—its dual-layer construction prevented significant sagging even with our 65-pound test dog. The [Coolaroo Elevated Bed](https://www.amazon.com/dp/B07GR5MSKD?tag=silvertail-20) kept surface temperatures measurably cooler in hot weather, though it works best paired with a [pressure-relief pad](https://www.amazon.com/dp/B00FLYWNYQ?tag=silvertail-20) for full arthritis support.
+The Big Barker stands out for large breeds with its high-density foam that maintained firmness after our extended use tests, while the PetFusion offers solid support and good value for medium dogs—its dual-layer construction prevented significant sagging even with our 65-pound test dog. The Coolaroo Elevated Bed kept surface temperatures measurably cooler in hot weather, though it works best paired with a pressure-relief pad for full arthritis support.
 
 ## Real-world performance
 
-Our 18-month field study tracked bed performance across four key metrics: foam integrity, cover durability, ease of cleaning, and comfort behaviors (observed through regular check-ins and owner feedback). The [Big Barker](https://www.amazon.com/dp/B07TC2BK1X?tag=silvertail-20) showed minimal sagging even after months of continuous use by larger dogs—its 7" foam core outperformed competitors in our durability tests. However, its weight (28lbs for the large size) made washing the cover labor-intensive.
+Our 18-month field study tracked bed performance across four key metrics: foam integrity, cover durability, ease of cleaning, and comfort behaviors (observed through regular check-ins and owner feedback). The Big Barker showed minimal sagging even after months of continuous use by larger dogs—its 7" foam core outperformed competitors in our durability tests. However, its weight (28lbs for the large size) made washing the cover labor-intensive.
 
-The [BarksBar](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20) developed visible impressions after 9 months with regular use, but its machine-washable cover handled frequent cleaning effortlessly—valuable for dogs with incontinence. Our observation: the [PetFusion](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20)'s waterproof liner prevented moisture damage during accident tests, while adding minimal weight. For temperature-sensitive dogs, the [Coolaroo](https://www.amazon.com/dp/B07GR5MSKD?tag=silvertail-20) maintained noticeably cooler surface temperatures in summer, though cold-weather testing showed it benefited from supplemental bedding below 50°F.
+The BarksBar developed visible impressions after 9 months with regular use, but its machine-washable cover handled frequent cleaning effortlessly—valuable for dogs with incontinence. Our observation: the PetFusion's waterproof liner prevented moisture damage during accident tests, while adding minimal weight. For temperature-sensitive dogs, the Coolaroo maintained noticeably cooler surface temperatures in summer, though cold-weather testing showed it benefited from supplemental bedding below 50°F.
 
 ## Cost analysis
 
 Our cost breakdown factors in durability, cleaning requirements, and longevity:
-- **Budget option**: [BarksBar](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20) at $89 lasts approximately 2 years = $45/year + waterproof liner maintenance = **~$57/year**
-- **Mid-range**: [PetFusion](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20) at $149 lasts 4+ years = **~$37/year**
-- **Premium**: [Big Barker](https://www.amazon.com/dp/B07TC2BK1X?tag=silvertail-20) at $379 with multi-year durability = **~$43/year** including occasional professional cleaning
-- **Cooling option**: [Coolaroo](https://www.amazon.com/dp/B07GR5MSKD?tag=silvertail-20) at $75 lasts 5 years + [pressure-relief topper](https://www.amazon.com/dp/B00FLYWNYQ?tag=silvertail-20) at $40 = **~$40/year**
+- **Budget option**: BarksBar at $89 lasts approximately 2 years = $45/year + waterproof liner maintenance = **~$57/year**
+- **Mid-range**: PetFusion at $149 lasts 4+ years = **~$37/year**
+- **Premium**: Big Barker at $379 with multi-year durability = **~$43/year** including occasional professional cleaning
+- **Cooling option**: Coolaroo at $75 lasts 5 years + pressure-relief topper at $40 = **~$40/year**
 
 The PetFusion offers the best value for most households. The Big Barker justifies its higher upfront cost through durability—owners reported using it for entire senior years, which reduces overall cost per year.
 
 ## Alternatives and additions
 
 For interim solutions or customization:
-1. **Memory foam toppers** like the [Milliard 2"](https://www.amazon.com/dp/B00FLYWNYQ?tag=silvertail-20) can extend an existing bed's life for $40—testing showed adding one to a worn bed restored support measurably
+1. **Memory foam toppers** like the Milliard 2" can extend an existing bed's life for $40—testing showed adding one to a worn bed restored support measurably
 2. **Heating pads** (vet-approved low-voltage options) provided more restful sleep for stiff dogs in winter tests when positioned under half the bed
 3. **DIY orthopedic bases** using high-density foam (minimum 2.5lb/ft³) cost 30% less than pre-made options
-4. **Hybrid setups**: Pairing the [Coolaroo](https://www.amazon.com/dp/B07GR5MSKD?tag=silvertail-20) with a [3" gel-infused topper](https://www.amazon.com/dp/B07P6Y7954?tag=silvertail-20) provided effective cooling with pressure relief in summer trials
+4. **Hybrid setups**: Pairing the Coolaroo with a 3" gel-infused topper provided effective cooling with pressure relief in summer trials
 
-Note: Replacement foams often degrade faster than original materials. The [Big Barker replacement foam](https://www.amazon.com/dp/B07P6Y7954?tag=silvertail-20) was one of few aftermarket options that matched original specifications. For other beds, replacing the entire unit often proves more cost-effective than refill options.
+Note: Replacement foams often degrade faster than original materials. The Big Barker replacement foam was one of few aftermarket options that matched original specifications. For other beds, replacing the entire unit often proves more cost-effective than refill options.
 
 ## FAQ
 
 ### How thick should an orthopedic dog bed be for significant arthritis?
 
-While 4" is a reasonable minimum for mild cases, veterinary specialists generally suggest 5–7" for moderate to advanced arthritis. Small dogs (under 20lbs) may do well with 3" if the foam density exceeds 2.5lb/ft³. For large and giant breeds, the [Big Barker](https://www.amazon.com/dp/B07TC2BK1X?tag=silvertail-20)'s 7" thickness provided measurable comfort benefits.
+While 4" is a reasonable minimum for mild cases, veterinary specialists generally suggest 5–7" for moderate to advanced arthritis. Small dogs (under 20lbs) may do well with 3" if the foam density exceeds 2.5lb/ft³. For large and giant breeds, the Big Barker's 7" thickness provided measurable comfort benefits.
 
 ### Do cooling beds help with arthritis-related inflammation?
 
-Cooling beds like the [Coolaroo](https://www.amazon.com/dp/B07GR5MSKD?tag=silvertail-20) provided noticeably cooler surface temperatures during warm months. However, arthritic dogs sometimes benefit from warmth, especially during stiff mornings or in winter. Many owners use heated beds (on low settings) for winter and cooling beds or elevated designs for summer.
+Cooling beds like the Coolaroo provided noticeably cooler surface temperatures during warm months. However, arthritic dogs sometimes benefit from warmth, especially during stiff mornings or in winter. Many owners use heated beds (on low settings) for winter and cooling beds or elevated designs for summer.
 
 ### How often should I replace the bed based on wear?
 
@@ -118,9 +118,9 @@ Not typically—human mattresses aren't engineered for pet-specific weight distr
 
 ## Bottom line
 
-After 18 months of testing with multiple arthritic dogs, the [PetFusion Ultimate](https://www.amazon.com/dp/B07PXGQC1Q?tag=silvertail-20) remains our top recommendation for most senior dogs—it balances therapeutic support, durability, and value effectively. Large breed owners should consider investing in the [Big Barker](https://www.amazon.com/dp/B07TC2BK1X?tag=silvertail-20)—its high-density foam and multi-year durability make it cost-effective long-term. For dogs in hot climates or prone to overheating, pair the [Coolaroo Elevated Bed](https://www.amazon.com/dp/B07GR5MSKD?tag=silvertail-20) with a [gel topper](https://www.amazon.com/dp/B07P6Y7954?tag=silvertail-20) for cooling support.
+After 18 months of testing with multiple arthritic dogs, the PetFusion Ultimate remains our top recommendation for most senior dogs—it balances therapeutic support, durability, and value effectively. Large breed owners should consider investing in the Big Barker—its high-density foam and multi-year durability make it cost-effective long-term. For dogs in hot climates or prone to overheating, pair the Coolaroo Elevated Bed with a gel topper for cooling support.
 
-Budget-conscious owners can start with the [BarksBar](https://www.amazon.com/dp/B07TFB22H5?tag=silvertail-20) but should plan to upgrade as the foam loses firmness—investing in a quality bed earlier typically saves money and supports your dog's comfort better over time.
+Budget-conscious owners can start with the BarksBar but should plan to upgrade as the foam loses firmness—investing in a quality bed earlier typically saves money and supports your dog's comfort better over time.
 
 <!-- padded-no-api-v2 -->
 
