@@ -16,7 +16,7 @@ imageUrl: "https://m.media-amazon.com/images/I/71ZdSfYJJhL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B0DVTM4VSY"
 amazonUrl: ""
 isPrime: false
-status: "published"
+status: draft
 firstSeen: "2026-06-09T03:30:49+00:00"
 lastSeen: "2026-06-09T03:30:49+00:00"
 tags: ["catalog-export"]

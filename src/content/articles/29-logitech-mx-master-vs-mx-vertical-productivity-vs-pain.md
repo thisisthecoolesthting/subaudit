@@ -5,7 +5,7 @@ topic: '29. Logitech MX Master vs MX Vertical: productivity vs pain'
 tier: mvp
 updatedAt: '2026-05-12T06:52:48Z'
 relatedProducts: []
-status: published
+status: draft
 heroImage: /images/hero/home.jpg
 subtopic: setup
 ---

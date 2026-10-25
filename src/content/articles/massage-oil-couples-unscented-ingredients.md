@@ -14,7 +14,7 @@ site: pleasurewatch
 topic: massage oil couples unscented ingredients
 tier: full
 relatedProducts: []
-status: published
+status: draft
 keyTakeaways:
 - Unscented massage oils for couples typically have minimal, natural ingredients to avoid irritation and allergic reactions.
 - Common carrier oils include jojoba, sweet almond, grapeseed, and fractionated coconut oil for smooth glide and skin nourishment.

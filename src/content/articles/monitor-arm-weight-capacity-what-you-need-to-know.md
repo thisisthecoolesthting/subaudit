@@ -5,7 +5,7 @@ topic: 'Monitor Arm Weight Capacity: What You Need to Know'
 tier: mvp
 updatedAt: '2026-05-12T07:32:19Z'
 relatedProducts: []
-status: published
+status: draft
 heroImage: /images/hero/home.jpg
 subtopic: monitors
 ---

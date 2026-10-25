@@ -5,7 +5,7 @@ topic: Monitor Arms with Swivel and Tilt for Maximum Flexibility
 tier: mvp
 updatedAt: '2026-05-12T07:26:56Z'
 relatedProducts: []
-status: published
+status: draft
 heroImage: /images/hero/home.jpg
 subtopic: chairs
 ---

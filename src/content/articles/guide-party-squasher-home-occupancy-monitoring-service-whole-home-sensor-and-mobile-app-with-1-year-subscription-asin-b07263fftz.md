@@ -13,7 +13,7 @@ topic: 'Guide: Party Squasher Home Occupancy Monitoring Service: Whole Home Sens
   and Mobile App with 1-Year Subscription (ASIN B07263FFTZ)'
 tier: mvp
 relatedProducts: []
-status: published
+status: draft
 hero_image_keywords:
 - party squasher home
 - home occupancy monitoring

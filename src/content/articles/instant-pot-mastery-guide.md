@@ -6,7 +6,7 @@ updatedAt: '2026-05-13'
 excerpt: 'A complete Instant Pot reference: pressure times for every protein and legume, how to adapt stovetop recipes, and troubleshooting sealing issues.'
 targetKeyword: instant pot guide techniques
 relatedProducts: []
-status: published
+status: draft
 tags:
 - instant-pot
 - pressure-cooking

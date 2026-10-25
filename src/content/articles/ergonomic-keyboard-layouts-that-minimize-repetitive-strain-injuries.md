@@ -5,7 +5,7 @@ topic: Ergonomic Keyboard Layouts That Minimize Repetitive Strain Injuries
 tier: mvp
 updatedAt: '2026-05-12T07:29:01Z'
 relatedProducts: []
-status: published
+status: draft
 heroImage: /images/hero/home.jpg
 subtopic: chairs
 ---

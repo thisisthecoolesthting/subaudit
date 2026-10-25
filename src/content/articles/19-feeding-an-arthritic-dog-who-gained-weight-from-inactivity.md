@@ -5,7 +5,7 @@ topic: 19. Feeding an arthritic dog who gained weight from inactivity
 tier: mvp
 updatedAt: '2026-05-12T10:29:54Z'
 relatedProducts: []
-status: published
+status: draft
 heroImage: /images/hero/home.jpg
 subtopic: enrichment
 ---

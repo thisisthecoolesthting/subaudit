@@ -15,7 +15,7 @@ site: pleasurewatch
 topic: body safe silicone how to read labels
 tier: full
 relatedProducts: []
-status: published
+status: draft
 keyTakeaways:
 - '"Body safe silicone" typically refers to medical-grade or platinum-cured silicone, which is non-porous, hypoallergenic, and free from harmful additives.'
 - Labels rarely say "body safe" explicitly, so look for terms like "100% silicone," "medical grade," or "platinum-cured."

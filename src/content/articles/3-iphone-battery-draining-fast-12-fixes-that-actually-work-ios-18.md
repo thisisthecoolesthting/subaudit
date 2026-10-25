@@ -4,7 +4,7 @@ site: phonehowto
 topic: 3. iPhone battery draining fast — 12 fixes that actually work (iOS 18)
 tier: mvp
 relatedProducts: []
-status: published
+status: draft
 metaDescription: iPhone battery draining fast — 12 fixes that actually work (iOS 18)
 publishedAt: '2026-05-30'
 excerpt: iPhone battery draining fast — 12 fixes that actually work (iOS 18)

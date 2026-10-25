@@ -4,7 +4,7 @@ site: phonehowto
 topic: 7. Samsung Galaxy frozen screen — force restart by model
 tier: mvp
 relatedProducts: []
-status: published
+status: draft
 metaDescription: Samsung Galaxy frozen screen — force restart by model
 publishedAt: '2026-05-30'
 excerpt: Samsung Galaxy frozen screen — force restart by model

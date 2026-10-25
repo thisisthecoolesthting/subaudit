@@ -5,7 +5,7 @@ topic: '19. The monitor arm test: 8 arms reviewed at 34-inch ultrawide'
 tier: mvp
 updatedAt: '2026-05-12T06:48:25Z'
 relatedProducts: []
-status: published
+status: draft
 heroImage: /images/hero/home.jpg
 subtopic: monitors
 ---

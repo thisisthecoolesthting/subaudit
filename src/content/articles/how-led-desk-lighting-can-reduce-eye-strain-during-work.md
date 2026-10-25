@@ -5,7 +5,7 @@ topic: How LED Desk Lighting Can Reduce Eye Strain During Work
 tier: mvp
 updatedAt: '2026-05-12T07:24:28Z'
 relatedProducts: []
-status: published
+status: draft
 heroImage: /images/hero/home.jpg
 subtopic: desks
 ---

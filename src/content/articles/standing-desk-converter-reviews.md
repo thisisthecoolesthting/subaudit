@@ -7,7 +7,7 @@ ogDescription: '7 models tested with real keyboard/monitor loads. Budget picks s
 publishedAt: '2026-04-28T00:00:00.000Z'
 excerpt: 'After 60+ days testing 12 models, we found most workers can get proper standing   desk ergonomics for under $300—if you know which features actually matter for your   body type and workflow.'
 pillarSlug: 'standing-desks'
-status: 'published'
+status: draft
 heroImage: /images/hero/home.jpg
 subtopic: desks
 updatedAt: 2026-05-12

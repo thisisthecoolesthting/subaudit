@@ -13,7 +13,7 @@ topic: 'Guide: Spy Spot Mini GPS Tracker for Vehicles and Assets, Real Time 4G L
   Tracking Device with Magnetic Waterproof Case, No Wi (ASIN B008GTB6CI)'
 tier: mvp
 relatedProducts: []
-status: published
+status: draft
 hero_image_keywords:
 - spy spot mini
 - mini gps tracker

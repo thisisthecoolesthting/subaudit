@@ -1,4 +1,5 @@
 ---
+import { showCodeOnce } from '@/lib/coupon-once';
 /**
  * PhoneStorePromo — bold cross-promo ad with real case images + 15% first-order promo code.
  * Self-contained: no external data files required. Works in all dev1 affiliate sites.
@@ -156,7 +157,7 @@ const isSidebar = variant === 'sidebar';
         <div class="psp-stars"><span class="psp-star-row">{store.stars}</span> <span class="psp-reviews">{store.reviews}</span></div>
         <div class="psp-offer">
           <span class="psp-offer-text">✦ {store.offer}</span>
-          <span class="psp-code">Code: <strong>{store.code}</strong></span>
+          {showCodeOnce(Astro.locals, store.code) && <span class="psp-code">Code: <strong>{store.code}</strong></span>}
         </div>
         <span class="psp-cta">{store.cta} →</span>
       </div>
@@ -175,7 +176,7 @@ const isSidebar = variant === 'sidebar';
         <div class="psp-stars"><span class="psp-star-row">{store.stars}</span> <span class="psp-reviews">{store.reviews}</span></div>
         <div class="psp-offer psp-offer--bold">
           <span class="psp-offer-text">✦ {store.offer}</span>
-          <span class="psp-code">Code: <strong>{store.code}</strong></span>
+          {showCodeOnce(Astro.locals, store.code) && <span class="psp-code">Code: <strong>{store.code}</strong></span>}
         </div>
         <span class="psp-cta psp-cta--btn">{store.cta} →</span>
       </div>

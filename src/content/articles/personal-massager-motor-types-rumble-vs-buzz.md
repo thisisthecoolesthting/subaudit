@@ -16,7 +16,7 @@ site: pleasurewatch
 topic: personal massager motor types rumble vs buzz
 tier: full
 relatedProducts: []
-status: published
+status: draft
 keyTakeaways:
 - Rumble motors create a deep, low-frequency vibration that resonates through the body for broad, soothing sensations.
 - Buzz motors produce higher-frequency, sharper vibrations that often feel more pinpointed and intense.

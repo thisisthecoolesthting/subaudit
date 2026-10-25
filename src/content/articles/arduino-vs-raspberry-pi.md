@@ -6,7 +6,7 @@ updatedAt: '2026-05-13'
 excerpt: "When to use Arduino, when to use Raspberry Pi, and when to use neither — a practical decision framework for maker projects."
 targetKeyword: "arduino vs raspberry pi"
 relatedProducts: []
-status: published
+status: draft
 tags:
   - arduino
   - raspberry-pi

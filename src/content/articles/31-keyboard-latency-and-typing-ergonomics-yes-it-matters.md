@@ -5,7 +5,7 @@ topic: '31. Keyboard latency and typing ergonomics: yes it matters'
 tier: mvp
 updatedAt: '2026-05-12T06:53:39Z'
 relatedProducts: []
-status: published
+status: draft
 heroImage: /images/hero/home.jpg
 subtopic: chairs
 ---

@@ -15,7 +15,7 @@ site: harproomguide
 topic: 39. Should You Rent or Buy Your First Harp?
 tier: full
 relatedProducts: []
-status: published
+status: draft
 keyTakeaways:
 - Renting a harp is ideal for beginners testing their commitment, offering flexibility
   and lower upfront costs.

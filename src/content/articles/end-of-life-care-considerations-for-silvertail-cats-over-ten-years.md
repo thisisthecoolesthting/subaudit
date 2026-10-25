@@ -5,7 +5,7 @@ topic: End-of-Life Care Considerations for Silvertail Cats Over Ten Years
 tier: mvp
 updatedAt: '2026-05-12T10:55:16Z'
 relatedProducts: []
-status: published
+status: draft
 heroImage: /images/hero/home.jpg
 subtopic: grooming
 ---

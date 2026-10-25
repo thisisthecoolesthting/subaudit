@@ -13,7 +13,7 @@ topic: 'Guide: Optimus Wired GPS Tracker for Vehicles - Easy Installation on Car
   Battery - Low Cost Subscription Plan Options (ASIN B08SSWY8SH)'
 tier: mvp
 relatedProducts: []
-status: published
+status: draft
 hero_image_keywords:
 - optimus wired gps
 - gps tracker vehicles

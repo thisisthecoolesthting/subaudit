@@ -16,7 +16,7 @@ score: 46.7
 imageUrl: "/images/amazon-picks/B01GCFZ0RW.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B01GCFZ0RW&language=en_US"
 isPrime: true
-status: "published"
+status: draft
 firstSeen: "2026-05-13T00:00:00+00:00"
 lastSeen: "2026-05-13T00:00:00+00:00"
 tags:

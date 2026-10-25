@@ -5,7 +5,7 @@ topic: 35. Quality of life scoring for senior dogs using the HHHHHMM scale
 tier: mvp
 updatedAt: '2026-05-12T10:36:19Z'
 relatedProducts: []
-status: published
+status: draft
 heroImage: /images/hero/home.jpg
 subtopic: end-of-life
 ---

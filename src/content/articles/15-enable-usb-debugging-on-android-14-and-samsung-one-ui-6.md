@@ -9,7 +9,7 @@ site: phonehowto
 topic: 15. Enable USB debugging on Android 14 and Samsung One UI 6
 tier: mvp
 relatedProducts: []
-status: published
+status: draft
 ---
 
 ## How to Enable USB Debugging on Android 14 and Samsung One UI 6

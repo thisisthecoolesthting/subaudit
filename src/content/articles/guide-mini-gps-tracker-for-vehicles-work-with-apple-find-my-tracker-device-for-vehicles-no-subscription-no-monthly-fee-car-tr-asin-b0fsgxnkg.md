@@ -13,7 +13,7 @@ topic: 'Guide: Mini GPS Tracker for Vehicles Work with Apple Find My, Tracker De
   for Vehicles No Subscription No Monthly Fee Car Tr (ASIN B0FSGXNKGB)'
 tier: mvp
 relatedProducts: []
-status: published
+status: draft
 hero_image_keywords:
 - mini gps tracker
 - tracker vehicles work

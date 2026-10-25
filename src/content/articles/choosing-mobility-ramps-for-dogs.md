@@ -13,7 +13,7 @@ relatedProducts:
 - B085VZPR2Y
 - B0CGW2TFSV
 - B0CGW48C3G
-status: published
+status: draft
 tags:
 - dog mobility aids
 - senior dog stairs

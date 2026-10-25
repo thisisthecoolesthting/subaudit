@@ -18,7 +18,7 @@ relatedProducts:
 - B0D41ZMDPD
 - B0DYNQ1WP7
 - B0FT32PL8L
-status: published
+status: draft
 tags:
 - printer ink
 - ink cartridges

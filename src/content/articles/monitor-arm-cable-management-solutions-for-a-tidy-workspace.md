@@ -5,7 +5,7 @@ topic: Monitor Arm Cable Management Solutions for a Tidy Workspace
 tier: mvp
 updatedAt: '2026-05-12T07:30:46Z'
 relatedProducts: []
-status: published
+status: draft
 heroImage: /images/hero/home.jpg
 subtopic: monitors
 ---

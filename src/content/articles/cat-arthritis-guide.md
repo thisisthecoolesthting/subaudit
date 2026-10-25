@@ -6,7 +6,7 @@ updatedAt: '2026-05-13'
 excerpt: How to recognize arthritis in cats, which supplements have real evidence, and practical home changes that reduce daily pain.
 targetKeyword: cat arthritis symptoms treatment
 relatedProducts: []
-status: published
+status: draft
 tags:
 - cat-arthritis
 - joint-health

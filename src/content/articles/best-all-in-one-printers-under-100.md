@@ -7,7 +7,7 @@ cardTitle: best-all-in-one-printers-under-100
 cardPick: Editorial printer-ink pick from InkLedger.
 updatedAt: '2026-06-06T03:05:48.075Z'
 relatedProducts: []
-status: published
+status: draft
 subtopic: printer-ink
 publishedAt: '2026-06-06T03:05:48.075Z'
 metaDescription: best-all-in-one-printers-under-100

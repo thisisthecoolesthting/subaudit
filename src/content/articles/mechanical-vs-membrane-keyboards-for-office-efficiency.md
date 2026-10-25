@@ -5,7 +5,7 @@ topic: Mechanical vs Membrane Keyboards for Office Efficiency
 tier: mvp
 updatedAt: '2026-05-12T07:20:37Z'
 relatedProducts: []
-status: published
+status: draft
 heroImage: /images/hero/home.jpg
 subtopic: keyboards
 ---

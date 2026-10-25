@@ -13,7 +13,7 @@ topic: 'Guide: GPS Tracker for Vehicles.Mini Hidden Magnetic GPS Tracker for Veh
   - Full Global Coverage, No Subscription or SIM Ca (ASIN B0G3B6H1BG)'
 tier: mvp
 relatedProducts: []
-status: published
+status: draft
 hero_image_keywords:
 - gps tracker vehicles
 - vehicles mini hidden

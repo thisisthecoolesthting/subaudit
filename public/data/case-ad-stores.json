@@ -189,25 +189,6 @@
     "samsungDomain": "galaxycaseco.com"
   },
   {
-    "slug": "phonecaseforher",
-    "name": "Phone Case For Her",
-    "domain": "phonecaseforher.com",
-    "tagline": "Gift-ready · every iPhone + Galaxy",
-    "badge": "🌸 Gift-ready for her",
-    "offer": "10% off your first case",
-    "code": "HER10",
-    "cta": "Browse designs",
-    "accent": "#C77A8B",
-    "accentLight": "#FFF8F4",
-    "accentDark": "#8A4E62",
-    "images": [
-      "/images/case-ads/ad-phonecaseforher-disp-RECOVERED-e30a38d6.jpg",
-      "/images/case-ads/ad-phonecaseforher-disp-RECOVERED-4103334e.jpg"
-    ],
-    "iphoneDomain": "titancase.shop",
-    "samsungDomain": "galaxycaseco.com"
-  },
-  {
     "slug": "dadgiftlab",
     "name": "Dad Gift Lab",
     "domain": "dadgiftlab.com",

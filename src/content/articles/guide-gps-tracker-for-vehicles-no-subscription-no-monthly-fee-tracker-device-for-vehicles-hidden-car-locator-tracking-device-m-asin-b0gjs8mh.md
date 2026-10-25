@@ -13,7 +13,7 @@ topic: 'Guide: GPS Tracker for Vehicles,No Subscription No Monthly Fee Tracker D
   for Vehicles,Hidden Car Locator Tracking Device,M (ASIN B0GJS8MHJ7)'
 tier: mvp
 relatedProducts: []
-status: published
+status: draft
 hero_image_keywords:
 - gps tracker vehicles
 - vehicles subscription monthly

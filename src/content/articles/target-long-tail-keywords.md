@@ -4,7 +4,7 @@ metaDescription: Discover the best long-tail keywords to boost your niche affili
 publishedAt: '2026-08-02'
 updatedAt: '2026-08-02'
 excerpt: Long-tail keywords are essential for driving targeted traffic to your niche affiliate review site. This guide helps you identify and use the best long-tail keywords effectively.
-status: published
+status: draft
 tags: ["long-tail keywords"]
 author: morgan-hale-subaudit
 relatedProducts: [b01n5ib20q-amazon-basics-aa-batteries-48-pack, b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack, b00hhqx0bq-folgers-classic-roast-coffee-48oz]

@@ -6,7 +6,7 @@ updatedAt: '2026-05-13'
 excerpt: How long to stand, when to sit, how to set height correctly, and which anti-fatigue mats actually work.
 targetKeyword: standing desk guide
 relatedProducts: []
-status: published
+status: draft
 tags:
 - standing-desk
 - anti-fatigue-mat

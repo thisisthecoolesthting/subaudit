@@ -13,7 +13,7 @@ topic: 'Guide: TuTrackAI OBD GPS Tracker for Vehicles, No Subscription, No Month
   Fees, 4G LTE Built-in SIM, Data Plan Included, Plug  (ASIN B0GWCLF73V)'
 tier: mvp
 relatedProducts: []
-status: published
+status: draft
 hero_image_keywords:
 - tutrackai obd gps
 - gps tracker vehicles

@@ -17,7 +17,7 @@ site: viclabaggerguide
 topic: 2. Chrome and Whitewall Care Guide for Show-Ready Baggers
 tier: full
 relatedProducts: []
-status: published
+status: draft
 keyTakeaways:
 - '**Chrome oxidation happens fast**: Salt, humidity, and brake dust attack exposed metal within weeks; monthly maintenance beats seasonal panic.'
 - '**Whitewall tires need dedicated cleaning and conditioning**: Standard tire shine leaves them gray or yellow; whitewall-specific cleaners and protectants preserve that cream finish.'

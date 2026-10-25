@@ -16,7 +16,7 @@ site: viclabaggerguide
 topic: 18. Best leather care products for custom motorcycle seats and bags
 tier: full
 relatedProducts: []
-status: published
+status: draft
 keyTakeaways:
 - Proper leather care extends the life and appearance of custom motorcycle seats and bags, preventing cracking, fading, and stiffness.
 - Choose products designed specifically for smooth, finished leather common on motorcycle gear—not heavy-duty tack or suede treatments.

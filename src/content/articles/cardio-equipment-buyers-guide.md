@@ -6,7 +6,7 @@ updatedAt: '2026-05-13'
 excerpt: Which cardio machine fits your goals, space, and budget — with honest assessments of calorie accuracy and long-term use patterns.
 targetKeyword: home cardio equipment guide
 relatedProducts: []
-status: published
+status: draft
 tags:
 - treadmill
 - exercise-bike

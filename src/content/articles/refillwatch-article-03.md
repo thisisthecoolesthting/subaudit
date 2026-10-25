@@ -16,7 +16,7 @@ relatedProducts:
 - B08GX3K9YS
 - B0BVYBVHK5
 - B0CYJV9X52
-status: published
+status: draft
 tags:
 - printer ink comparison
 - ink cartridge refills

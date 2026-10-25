@@ -6,7 +6,7 @@ updatedAt: '2026-05-13'
 excerpt: 'Everything you need for a first soldering workbench: iron, tip, flux, solder type, and fume extraction — prioritized by what matters most.'
 targetKeyword: beginner soldering setup guide
 relatedProducts: []
-status: published
+status: draft
 tags:
 - soldering
 - beginner

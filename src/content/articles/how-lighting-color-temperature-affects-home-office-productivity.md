@@ -5,7 +5,7 @@ topic: How Lighting Color Temperature Affects Home Office Productivity
 tier: mvp
 updatedAt: '2026-05-12T07:13:08Z'
 relatedProducts: []
-status: published
+status: draft
 heroImage: /images/hero/home.jpg
 subtopic: lighting
 ---

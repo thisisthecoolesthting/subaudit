@@ -13,7 +13,7 @@ topic: 'Guide: GPS Tracker for Vehicles, No Monthly Fee, No Subscription, Real-T
   Location, Long Battery Life, Hidden Magnetic Tracki (ASIN B0D99VHXSK)'
 tier: mvp
 relatedProducts: []
-status: published
+status: draft
 hero_image_keywords:
 - gps tracker vehicles
 - vehicles monthly fee

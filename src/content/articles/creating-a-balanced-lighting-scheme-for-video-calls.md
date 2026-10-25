@@ -5,7 +5,7 @@ topic: Creating a Balanced Lighting Scheme for Video Calls
 tier: mvp
 updatedAt: '2026-05-12T07:15:43Z'
 relatedProducts: []
-status: published
+status: draft
 heroImage: /images/hero/home.jpg
 subtopic: lighting
 ---

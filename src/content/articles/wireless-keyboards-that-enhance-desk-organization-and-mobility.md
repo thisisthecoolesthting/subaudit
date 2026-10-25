@@ -5,7 +5,7 @@ topic: Wireless Keyboards That Enhance Desk Organization and Mobility
 tier: mvp
 updatedAt: '2026-05-12T07:27:22Z'
 relatedProducts: []
-status: published
+status: draft
 heroImage: /images/hero/home.jpg
 subtopic: desks
 ---

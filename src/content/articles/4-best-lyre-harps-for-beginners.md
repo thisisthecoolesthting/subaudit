@@ -14,7 +14,7 @@ site: harproomguide
 topic: 4. Best Lyre Harps for Beginners
 tier: full
 relatedProducts: []
-status: published
+status: draft
 keyTakeaways:
 - Lyre harps typically have fewer strings and a compact frame, making them ideal for
   beginners and small spaces.

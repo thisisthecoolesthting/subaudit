@@ -7,7 +7,7 @@ ogDescription: 'Testing proved neither wins alone. Alternating every 30-45 minut
 publishedAt: '2026-04-29T10:00:00Z'
 excerpt: 'After 180 hours testing 7 standing desks and 7 ergonomic chairs with pressure   sensors and EMG muscle monitors, we reveal which solution actually reduces back   pain and fatigue for 8-hour workdays.'
 pillarSlug: 'standing-desk-solutions'
-status: 'published'
+status: draft
 heroImage: /images/hero/home.jpg
 subtopic: chairs
 updatedAt: 2026-05-12

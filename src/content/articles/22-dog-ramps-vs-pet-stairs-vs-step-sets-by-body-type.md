@@ -5,7 +5,7 @@ topic: 22. Dog ramps vs pet stairs vs step sets by body type
 tier: mvp
 updatedAt: '2026-05-12T10:31:14Z'
 relatedProducts: []
-status: published
+status: draft
 heroImage: /images/hero/home.jpg
 subtopic: comfort
 ---

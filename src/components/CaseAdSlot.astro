@@ -1,4 +1,5 @@
 ---
+import { showCodeOnce } from '@/lib/coupon-once';
 /**
  * Phone-case cross-promo slot. Store + image rotate on each page load (see case-ad-rotate.js).
  */
@@ -138,7 +139,7 @@ const wrapAttrs = {
       </span>
       <span class="cad-leader-offer">
         <span class="cad-leader-pct">15% OFF</span>
-        <span class="cad-leader-code">{store.code}</span>
+        {showCodeOnce(Astro.locals, store.code) && <span class="cad-leader-code">{store.code}</span>}
       </span>
       <span class="cad-leader-cta">{displayCta} →</span>
     </a>
@@ -175,7 +176,7 @@ const wrapAttrs = {
         <p class="cad-tag">{displayTagline}</p>
         <div class="cad-offer">
           <span class="cad-offer-text">✦ {store.offer}</span>
-          <span class="cad-code">Code: <strong>{store.code}</strong></span>
+          {showCodeOnce(Astro.locals, store.code) && <span class="cad-code">Code: <strong>{store.code}</strong></span>}
         </div>
         <span class="cad-cta-btn">{displayCta} →</span>
       </div>
@@ -213,7 +214,7 @@ const wrapAttrs = {
         <div class="cad-stars"><span class="cad-star-row">★★★★★</span></div>
         <div class="cad-offer">
           <span class="cad-offer-text">✦ {store.offer}</span>
-          <span class="cad-code">Code: <strong>{store.code}</strong></span>
+          {showCodeOnce(Astro.locals, store.code) && <span class="cad-code">Code: <strong>{store.code}</strong></span>}
         </div>
         <span class="cad-cta-btn">{displayCta} →</span>
       </div>

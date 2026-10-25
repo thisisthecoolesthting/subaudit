@@ -13,7 +13,7 @@ topic: 'Guide: Mini GPS Tracker for Vehicles,Tracker Device for Vehicles No Subs
   No Monthly Fee No SIM,Hidden Tracking Devices  (ASIN B0GYD368MV)'
 tier: mvp
 relatedProducts: []
-status: published
+status: draft
 hero_image_keywords:
 - mini gps tracker
 - tracker vehicles tracker

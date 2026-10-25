@@ -5,7 +5,7 @@ topic: Veterinary Approaches to Managing Arthritis in Elderly Silvertail Cats
 tier: mvp
 updatedAt: '2026-05-12T10:57:45Z'
 relatedProducts: []
-status: published
+status: draft
 heroImage: /images/hero/home.jpg
 subtopic: health
 ---

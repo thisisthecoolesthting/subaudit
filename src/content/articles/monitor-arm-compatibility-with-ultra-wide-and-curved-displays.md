@@ -5,7 +5,7 @@ topic: Monitor Arm Compatibility with Ultra-Wide and Curved Displays
 tier: mvp
 updatedAt: '2026-05-12T07:28:32Z'
 relatedProducts: []
-status: published
+status: draft
 heroImage: /images/hero/home.jpg
 subtopic: monitors
 ---

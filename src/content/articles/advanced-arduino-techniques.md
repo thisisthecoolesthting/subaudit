@@ -7,7 +7,7 @@ cardTitle: advanced-arduino-techniques
 cardPick: Editorial household-staples pick from TinkerBench.
 updatedAt: '2026-06-06T03:05:47.115Z'
 relatedProducts: []
-status: published
+status: draft
 subtopic: household-staples
 publishedAt: '2026-06-06T03:05:47.115Z'
 metaDescription: advanced-arduino-techniques

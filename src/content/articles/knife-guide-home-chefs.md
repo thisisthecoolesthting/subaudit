@@ -6,7 +6,7 @@ updatedAt: '2026-05-13'
 excerpt: Which knives every kitchen actually needs, how to maintain an edge between sharpenings, and when to buy a honing rod vs. a whetstone.
 targetKeyword: kitchen knife guide home chef
 relatedProducts: []
-status: published
+status: draft
 tags:
 - chef's-knife
 - knife-sharpening

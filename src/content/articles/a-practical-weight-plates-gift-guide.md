@@ -7,7 +7,7 @@ cardTitle: a-practical-weight-plates-gift-guide
 cardPick: Editorial home-gym pick from GymLedger.
 updatedAt: '2026-06-06T02:39:56.125Z'
 relatedProducts: []
-status: published
+status: draft
 subtopic: home-gym
 publishedAt: '2026-06-06T02:39:56.125Z'
 metaDescription: a-practical-weight-plates-gift-guide

@@ -16,7 +16,7 @@ site: vtwinriderkit
 topic: 19. Best earplugs and wind-noise kits for open fairings
 tier: full
 relatedProducts: []
-status: published
+status: draft
 keyTakeaways:
 - Custom-fit earplugs and high-fidelity reusable earplugs balance noise reduction and situational awareness best for open fairings.
 - Wind-noise kits including deflectors and windscreen extensions significantly reduce noise by managing airflow around the helmet.

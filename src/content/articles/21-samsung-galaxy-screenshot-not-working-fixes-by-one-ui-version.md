@@ -9,7 +9,7 @@ site: phonehowto
 topic: 21. Samsung Galaxy screenshot not working — fixes by One UI version
 tier: mvp
 relatedProducts: []
-status: published
+status: draft
 ---
 
 ## Samsung Galaxy Screenshot Not Working — Fixes by One UI Version

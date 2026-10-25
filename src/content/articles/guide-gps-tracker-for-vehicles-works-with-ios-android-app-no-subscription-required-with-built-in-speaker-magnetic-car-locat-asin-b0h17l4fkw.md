@@ -13,7 +13,7 @@ topic: 'Guide: GPS Tracker for Vehicles Works with iOS & Android App No Subscrip
   Required, with Built-in Speaker Magnetic Car Locat (ASIN B0H17L4FKW)'
 tier: mvp
 relatedProducts: []
-status: published
+status: draft
 hero_image_keywords:
 - gps tracker vehicles
 - vehicles works ios

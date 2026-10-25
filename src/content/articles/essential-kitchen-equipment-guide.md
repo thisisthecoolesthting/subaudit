@@ -6,7 +6,7 @@ updatedAt: '2026-05-13'
 excerpt: 'A prioritized kitchen gear list: what to buy first, what to upgrade later, and what you can skip entirely.'
 targetKeyword: essential kitchen equipment home cook
 relatedProducts: []
-status: published
+status: draft
 tags:
 - kitchen-equipment
 - cookware

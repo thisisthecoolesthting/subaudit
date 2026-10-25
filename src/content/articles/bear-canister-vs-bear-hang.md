@@ -7,7 +7,7 @@ cardTitle: bear-canister-vs-bear-hang
 cardPick: Editorial cleaning pick from CampDeck.
 updatedAt: '2026-06-06T03:05:59.790Z'
 relatedProducts: []
-status: published
+status: draft
 subtopic: cleaning
 publishedAt: '2026-06-06T03:05:59.790Z'
 metaDescription: bear-canister-vs-bear-hang

@@ -15,7 +15,7 @@ site: pleasurewatch
 topic: best personal massager quiet apartment
 tier: full
 relatedProducts: []
-status: published
+status: draft
 keyTakeaways:
 - Look for massagers with low decibel ratings (under 50 dB) to ensure quiet operation
   suitable for apartments.

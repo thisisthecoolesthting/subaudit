@@ -6,7 +6,7 @@ updatedAt: '2026-05-13'
 excerpt: A practical guide to building an ergonomic home office on a $500 budget — chair, desk, monitor position, and lighting.
 targetKeyword: ergonomic home office setup
 relatedProducts: []
-status: published
+status: draft
 tags:
 - ergonomic
 - home-office

@@ -6,7 +6,7 @@ updatedAt: '2026-05-13'
 excerpt: Why progressive overload is the only driver of long-term strength gains, and how to track it simply enough that you actually do it.
 targetKeyword: progressive overload tracking workout log
 relatedProducts: []
-status: published
+status: draft
 tags:
 - progressive-overload
 - workout-log

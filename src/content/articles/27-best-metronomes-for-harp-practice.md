@@ -14,7 +14,7 @@ site: harproomguide
 topic: 27. Best Metronomes for Harp Practice
 tier: full
 relatedProducts: []
-status: published
+status: draft
 keyTakeaways:
 - A reliable, clear-sounding metronome is crucial for developing consistent timing
   on the harp.

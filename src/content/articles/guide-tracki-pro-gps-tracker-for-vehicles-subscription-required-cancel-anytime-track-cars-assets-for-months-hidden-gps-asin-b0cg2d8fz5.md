@@ -13,7 +13,7 @@ topic: 'Guide: Tracki Pro GPS Tracker for Vehicles, Subscription Required, Cance
   Anytime – Track Cars & Assets for Months – Hidden GPS (ASIN B0CG2D8FZ5)'
 tier: mvp
 relatedProducts: []
-status: published
+status: draft
 hero_image_keywords:
 - tracki pro gps
 - gps tracker vehicles

@@ -4,7 +4,7 @@ site: phonehowto
 topic: 2. How to screenshot on Samsung Galaxy S24 and A-series phones
 tier: mvp
 relatedProducts: []
-status: published
+status: draft
 metaDescription: How to screenshot on Samsung Galaxy S24 and A-series phones
 publishedAt: '2026-05-30'
 excerpt: How to screenshot on Samsung Galaxy S24 and A-series phones

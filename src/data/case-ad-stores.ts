@@ -16,7 +16,7 @@ export type CaseAdStore = {
   samsungDomain: string;
 };
 
-export const CASE_AD_STORES: CaseAdStore[] = [
+const CASE_AD_STORES_RAW: CaseAdStore[] = [
   {
     slug: "phonecasesforall",
     name: "Phone Cases For All",
@@ -210,5 +210,10 @@ export const CASE_AD_STORES: CaseAdStore[] = [
     samsungDomain: 'galaxycaseco.com',
   },
 ];
+
+// Dedupe by coupon code so the same code never renders twice on a page (HER10).
+export const CASE_AD_STORES: CaseAdStore[] = CASE_AD_STORES_RAW.filter(
+  (store, i, all) => all.findIndex((s) => s.code === store.code) === i,
+);
 
 export const CASE_AD_KIDS_POOL = ['phonecasesforkids', 'phonecasegift'] as const;

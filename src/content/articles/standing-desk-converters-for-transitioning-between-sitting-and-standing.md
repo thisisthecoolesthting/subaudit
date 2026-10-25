@@ -5,7 +5,7 @@ topic: Standing Desk Converters for Transitioning Between Sitting and Standing
 tier: mvp
 updatedAt: '2026-05-12T07:30:25Z'
 relatedProducts: []
-status: published
+status: draft
 heroImage: /images/hero/home.jpg
 subtopic: desks
 ---

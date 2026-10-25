@@ -1,4 +1,5 @@
 ---
+import { showCodeOnce } from '@/lib/coupon-once';
 /**
  * Lightweight text cross-links to phone-case family shops (replaces heavy 300×250 image stacks).
  */
@@ -39,7 +40,7 @@ const aff = 'subaudit-20';
           </a>
           <span class="text-ink-500"> — </span>
           <span class="text-ink-700 leading-snug">
-            {store.tagline} {store.offer}; code <span class="font-mono text-[11px]">{store.code}</span>.
+            {store.tagline} {store.offer}{showCodeOnce(Astro.locals, store.code) ? <>; code <span class="font-mono text-[11px]">{store.code}</span></> : null}.
             {' '}
             <span class="text-ink-500">
               ({store.badge.replace(/^[^\s]+\s/, '')})
