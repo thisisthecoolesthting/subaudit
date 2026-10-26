@@ -48,7 +48,3 @@ Physical Subscribe & Save orders can still earn **product commission** via Assoc
 - [How To Cancel Britbox Subscription for Prime Members Guide](/products/b0dnqvt4qx-how-to-cancel-britbox-subscription-for-prime-members-guide/)
 - [Subscription Business Model A Complete Guide - 2020 Edition](/products/0655913424-subscription-business-model-a-complete-guide-2020-edition/)
 
-## Our picks worth a closer look
-
-- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
-

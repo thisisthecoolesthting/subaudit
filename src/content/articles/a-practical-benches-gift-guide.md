@@ -20,7 +20,6 @@ author: marcus-webb
 ---
 
 
-*GymLedger is reader-supported. When you buy through links on our site, we may earn an affiliate commission. This helps us keep the lights on and the weights heavy. We only recommend gear we'd buy again.*
 
 If you're shopping for a lifter who loves their bench, you know they care about more than just the iron. A good bench setup is about comfort, safety, and maximizing performance. This benches gift guide skips the obvious (another weight plate) and focuses on practical upgrades and accessories that any serious bench presser will appreciate. We've broken down the options into categories to help you find the perfect gift, regardless of your budget.
 ---
@@ -124,9 +123,4 @@ See our guide on the [Best dumbbells upgrades for small spaces](Best dumbbells u
 *   **Budget:** $200-$500+
 
 No matter your budget, there are plenty of practical gifts that will enhance any bench presser's training experience. By focusing on comfort, safety, and maintenance, you can give a gift that will be appreciated for years to come. Don't forget to take into account the lifter's current setup and training goals when making your selection. Happy gifting!
-
-## Our picks worth a closer look
-
-- **[LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/)** — see current price and specs.
-- **[RCA Roku Smart Home Theater Projector - Stream Netflix, Prime Video, Hulu, Disne](/products/b083td3v4j-rca-roku-smart-home-theater-projector-stream-netflix-prime-v/)** — see current price and specs.
 

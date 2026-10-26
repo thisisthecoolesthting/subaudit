@@ -130,7 +130,3 @@ Switching to a wireless keyboard can matter a lot if your desktop feels cluttere
 - [Keyboards with Split Design for Enhanced Typing Comfort](/articles/keyboards-with-split-design-for-enhanced-typing-comfort/)
 - [Benefits of Adjustable Standing Desks for Home Offices](/articles/benefits-of-adjustable-standing-desks-for-home-offices/)
 
-## Our picks worth a closer look
-
-- **[Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/)** — see current price and specs.
-

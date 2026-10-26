@@ -20,7 +20,6 @@ author: marcus-webb
 ---
 
 
-*TinkerBench is reader-supported. When you buy through links on our site, we may earn an affiliate commission.*
 ---
 ## The Truth About Breadboard Power Supplies: Are They Worth It?
 
@@ -95,11 +94,4 @@ So, are breadboard power supplies worth it? The answer depends on your specific 
 **Professionals:** Professionals should always use a high-quality benchtop power supply for critical prototyping and testing. The accuracy and reliability of these units are essential for ensuring accurate results and preventing damage to sensitive components.
 
 **In short:** If you're building a complex project with motors, sensors, or anything that draws more than a few hundred milliamps, seriously consider upgrading to a proper benchtop power supply. The frustration and potential component damage you'll avoid will be well worth the investment. The reliability of your power source impacts everything you build, and it's not worth skimping on.
-
-## Our picks worth a closer look
-
-- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
-- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
-- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
-- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
 

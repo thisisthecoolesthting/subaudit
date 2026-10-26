@@ -83,8 +83,3 @@ at any level. Invest time in the basics before upgrading gear.
 Browse our [articles](/articles) for in-depth coverage of specific topics, techniques, and
 comparisons within progressive overload tracking workout log.
 
-## Our picks worth a closer look
-
-- **[Dr. Tobias Omega 3 Fish Oil 2000mg Triple Strength with 800mg EPA 600mg DHA Per ](/products/b00cazau62-dr-tobias-omega-3-fish-oil-2000mg-triple-strength-with-800mg/)** — see current price and specs.
-- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
-

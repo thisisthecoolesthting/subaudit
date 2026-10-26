@@ -1,3 +1,4 @@
+import { disableAmazon } from './site-flags.mjs';
 /**
  * Build-time: fix dead Amazon P/ASIN images → curated images/I URLs or local pick path.
  */
@@ -6,6 +7,7 @@ import { rewriteAmazonInlineImgSrc } from './amazon-inline-image-map.mjs';
 
 export function rehypeFixAmazonInline() {
   return (tree) => {
+    if (disableAmazon) return;
     visit(tree, 'element', (node) => {
       if (node.tagName === 'img' && node.properties?.src) {
         const src = String(node.properties.src);

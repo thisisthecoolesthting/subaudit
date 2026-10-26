@@ -78,10 +78,6 @@
       "label": "Articles"
     },
     {
-      "href": "/products",
-      "label": "Reviews"
-    },
-    {
       "href": "/about",
       "label": "About"
     }

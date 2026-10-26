@@ -142,7 +142,3 @@ By regularly auditing your family’s subscriptions with an eye toward device co
 - [How To Cancel Britbox Subscription for Prime Members Guide](/products/b0dnqvt4qx-how-to-cancel-britbox-subscription-for-prime-members-guide/)
 - [Roku Streaming Stick Plus - 4K & HDR Roku Streaming Device for TV with Voice Remote - Free & Live TV](/products/b0dxy833hv-roku-streaming-stick-plus-4k-hdr-roku-streaming-device-for-t/)
 
-## Our picks worth a closer look
-
-- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
-

@@ -170,8 +170,3 @@ Functionally, both are the same subscription with access through Amazon. Direct 
 
 Streaming today offers an overwhelming amount of choice — but also easy duplication. As a former FP&A analyst, I recommend a strategic review of your streaming stack at least annually. Prime Video channel add-ons are a convenient way to enhance your entertainment but need a closer look if you already use Netflix and Max extensively. Pick add-ons that truly expand your content universe, not just replicate what you already pay for. With thoughtful selection, you can save money and still enjoy great shows and movies tailored to your tastes.
 
-## Our picks worth a closer look
-
-- **[RCA Roku Smart Home Theater Projector - Stream Netflix, Prime Video, Hulu, Disne](/products/b083td3v4j-rca-roku-smart-home-theater-projector-stream-netflix-prime-v/)** — see current price and specs.
-- **[Stuart Weitzman Women's Metro Slingback Sandal,Palomino Llama Calf,8 M US](/products/b001eq4g0o-stuart-weitzman-women-s-metro-slingback-sandal-palomino-llam/)** — see current price and specs.
-

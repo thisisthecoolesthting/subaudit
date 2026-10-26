@@ -19,7 +19,6 @@ tags:
 author: marcus-webb
 ---
 
-*CampDeck is reader-supported. We earn a commission when you click through our links and purchase gear, which helps us fund the field testing required to keep our reviews honest and independent. We only recommend gear we have personally hauled, used, and abused in the backcountry.*
 
 The debate between a bear canister and a bear hang is often framed as a choice between weight and convenience. In reality, it’s a choice between failure points. 
 
@@ -72,10 +71,4 @@ It is important to remember that bear canisters and hangs are not just for bears
 Regardless of which method you choose, keep your food sealed in an odor-proof bag inside your canister or hang kit. If you are struggling to keep your kit organized or are looking to upgrade your sleep system to better handle the extra space taken up by a canister, check out our [sleeping-pads essentials for weekend projects](/articles/sleeping-pads-essentials-for-weekend-projects-3/) for tips on how to balance your pack's internal volume.
 
 If you decide to go the canister route, treat it as a piece of mandatory safety gear, just like your water filter or your first-aid kit. Don't view it as a burden; view it as a guarantee that you won't be hiking out of the woods on day three because your dinner was stolen in the night.
-
-## Our picks worth a closer look
-
-- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
-- **[LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/)** — see current price and specs.
-- **[RCA Roku Smart Home Theater Projector - Stream Netflix, Prime Video, Hulu, Disne](/products/b083td3v4j-rca-roku-smart-home-theater-projector-stream-netflix-prime-v/)** — see current price and specs.
 

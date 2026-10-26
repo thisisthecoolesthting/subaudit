@@ -84,7 +84,3 @@ at any level. Invest time in the basics before upgrading gear.
 Browse our [articles](/articles) for in-depth coverage of specific topics, techniques, and
 comparisons within home cardio equipment guide.
 
-## Our picks worth a closer look
-
-- **[LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/)** — see current price and specs.
-

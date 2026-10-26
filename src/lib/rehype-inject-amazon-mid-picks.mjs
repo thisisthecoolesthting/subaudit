@@ -1,3 +1,4 @@
+import { disableAmazon } from './site-flags.mjs';
 /**
 
  * Injects compact Amazon inline cards after selected h2s (Pinterest-friendly on-page density).
@@ -245,6 +246,7 @@ function walkInsert(node, picks) {
 export function rehypeInjectAmazonMidPicks() {
 
   return (tree, file) => {
+    if (disableAmazon) return;
 
     const fm = frontmatterFromVfile(file);
 

@@ -164,9 +164,3 @@ Balancing Xbox Game Pass vs buying games is a classic case of understanding your
 
 By keeping track of hours played and amount spent, you’ll confidently know when to subscribe, save, or buy—and keep your gaming budget in check without sacrificing fun.
 
-## Our picks worth a closer look
-
-- **[Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)** — see current price and specs.
-- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
-- **[Amazon Basics Pre-Seasoned Cast Iron Skillet, Oven Safe, Even Heating, Heat Dist](/products/b073q8p6cq-b073q8p6cq/)** — see current price and specs.
-

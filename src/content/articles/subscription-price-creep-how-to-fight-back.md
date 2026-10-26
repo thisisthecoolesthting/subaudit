@@ -94,11 +94,3 @@ When you get a price-increase notice:
 
 Price creep is designed to be invisible. Making it visible — on a quarterly audit, in a dedicated email folder, annualized in a spreadsheet — is the only reliable defense.
 
-## Our picks worth a closer look
-
-- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
-- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
-- **[Amazon Basics Pre-Seasoned Cast Iron Skillet, Oven Safe, Even Heating, Heat Dist](/products/b073q8p6cq-b073q8p6cq/)** — see current price and specs.
-- **[Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/)** — see current price and specs.
-- **[Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set/)** — see current price and specs.
-

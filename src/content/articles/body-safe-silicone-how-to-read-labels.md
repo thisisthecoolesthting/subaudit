@@ -153,7 +153,3 @@ Generally, no. Silicone-based lubricants can degrade silicone toys’ surface si
 
 Reading labels for body safe silicone requires attention beyond the marketing buzzwords. With careful scrutiny and understanding of terms like medical grade and platinum-cured silicone, shoppers can confidently select products that ensure safety, durability, and comfort. I’ve found that patience and preference for transparent brands is key to avoiding low-quality or potentially irritating materials.
 
-## Our picks worth a closer look
-
-- **[Amazon Basics Pre-Seasoned Cast Iron Skillet, Oven Safe, Even Heating, Heat Dist](/products/b073q8p6cq-b073q8p6cq/)** — see current price and specs.
-

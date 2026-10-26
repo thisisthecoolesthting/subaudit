@@ -83,7 +83,3 @@ at any level. Invest time in the basics before upgrading gear.
 Browse our [articles](/articles) for in-depth coverage of specific topics, techniques, and
 comparisons within beginner soldering setup guide.
 
-## Our picks worth a closer look
-
-- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
-

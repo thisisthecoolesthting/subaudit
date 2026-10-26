@@ -15,4 +15,4 @@ SubAudit is her attempt to read every receipt line out loud. Every guide annuali
 
 Morgan tracks streaming stacks, AI and productivity SaaS, Amazon digital memberships, Subscribe &amp; Save auto-ships, and the free trials that turn into quiet recurring charges. She re-checks list prices quarterly on featured stacks and answers reader corrections within 72 hours with dated amendment notes.
 
-SubAudit takes no sponsored placements from the services it covers. Partner links use disclosed Amazon Associates and SaaS affiliate relationships; commissions never change ranking criteria or what we recommend. The full methodology is on the <a href="/methodology/">methodology page</a>.
+SubAudit takes no sponsored placements from the services it covers. We do not use affiliate links; links to products made by our own team are labeled. The full methodology is on the <a href="/methodology/">methodology page</a>.

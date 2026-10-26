@@ -20,7 +20,6 @@ author: marcus-webb
 ---
 
 
-*GymLedger is reader-supported. When you buy through links on our site, we may earn an affiliate commission.*
 
 Finding a quality weight bench on a tight budget can feel like searching for a unicorn. Many budget benches sacrifice stability and durability, leaving you with a wobbly platform that hinders your workouts. But don't despair! It's possible to find a solid, reliable bench for under $150. We've tested several options to identify the best budget benches that offer the most bang for your buck, focusing on stability, comfort, and overall value.
 ---
@@ -126,9 +125,4 @@ Periodically check the bolts and screws to ensure they're tight. Loose bolts can
 When not in use, store your bench in a dry, clean place. Avoid exposing it to extreme temperatures or humidity, which can damage the frame and upholstery. If you have a foldable bench, fold it up and store it against a wall to save space. For more tips, see our article on [Storage and maintenance tips for benches].
 
 By following these tips, you can extend the life of your budget bench and enjoy many years of comfortable and effective workouts.
-
-## Our picks worth a closer look
-
-- **[LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/)** — see current price and specs.
-- **[RCA Roku Smart Home Theater Projector - Stream Netflix, Prime Video, Hulu, Disne](/products/b083td3v4j-rca-roku-smart-home-theater-projector-stream-netflix-prime-v/)** — see current price and specs.
 

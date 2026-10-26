@@ -151,7 +151,3 @@ If it’s a lightweight, non-comedogenic oil like jojoba or grapeseed, daily use
 
 Selecting the right unscented massage oil ingredients for couples comes down to transparency, carrier quality, and skin compatibility. From my testing, oils like pure jojoba or fractionated coconut oil offer a reliable, safe base that enhances intimacy without introducing scent distractions or irritation risks. Choosing carefully supports not only comfort but a more authentic connection.
 
-## Our picks worth a closer look
-
-- **[Dr. Tobias Omega 3 Fish Oil 2000mg Triple Strength with 800mg EPA 600mg DHA Per ](/products/b00cazau62-dr-tobias-omega-3-fish-oil-2000mg-triple-strength-with-800mg/)** — see current price and specs.
-

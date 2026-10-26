@@ -83,7 +83,3 @@ at any level. Invest time in the basics before upgrading gear.
 Browse our [articles](/articles) for in-depth coverage of specific topics, techniques, and
 comparisons within instant pot guide techniques.
 
-## Our picks worth a closer look
-
-- **[TiVo Stream 4K – Every Streaming App and Live TV on One Screen – 4K UHD, Dolby V](/products/b089655hqv-tivo-stream-4k-every-streaming-app-and-live-tv-on-one-screen/)** — see current price and specs.
-

@@ -1,3 +1,4 @@
+import { disableAmazon } from './site-flags.mjs';
 /**
  * Inserts lightweight text phone-case promos after selected h2s (no image ad weight).
  */
@@ -74,6 +75,7 @@ function walkInsert(node) {
 
 export function rehypeInjectPhonePromos() {
   return (tree) => {
+    if (disableAmazon) return;
     walkInsert(tree);
   };
 }

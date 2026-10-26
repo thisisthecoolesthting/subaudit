@@ -158,7 +158,3 @@ Both motor types are safe when used as intended. Medical recommendations usually
 
 Understanding the difference between rumble and buzz motors empowers you to choose a personal massager that aligns with your sensation preferences and intimacy goals. Whether you lean toward deep, resonant vibrations or sharp, targeted pulses, this knowledge helps cut through marketing hype and find what truly works for you.
 
-## Our picks worth a closer look
-
-- **[LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/)** — see current price and specs.
-

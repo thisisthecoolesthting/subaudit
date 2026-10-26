@@ -3,6 +3,13 @@ import tailwind from '@astrojs/tailwind';
 import { rehypeFixAmazonInline } from './src/lib/rehype-fix-amazon-inline.mjs';
 import { rehypeInjectAmazonMidPicks } from './src/lib/rehype-inject-amazon-mid-picks.mjs';
 import { rehypeInjectPhonePromos } from './src/lib/rehype-inject-phone-promos.mjs';
+import { disableAmazon as DISABLE_AMAZON } from './src/lib/site-flags.mjs';
+
+// Ricky's policy: no Amazon on content sites. While DISABLE_AMAZON is true the
+// three injector plugins are no-ops and rehypeAugmentProductLinks only strips:
+// it unwraps /products/* and Amazon links and drops Amazon-hosted images.
+const amazonHostRe = /(^|\/\/|\.)(amazon\.[a-z.]+|amzn\.to|media-amazon\.com|images-amazon\.com)(\/|$|\?)/i;
+const isAmazonHref = (h) => amazonHostRe.test(h) || /[?&]tag=[a-z0-9-]+-2\d/i.test(h);
 
 // Sitemap temporarily disabled — @astrojs/sitemap 3.x crashes with
 // our current route set. Re-enable once upstream ships a fix or we
@@ -23,7 +30,18 @@ function rehypeAugmentProductLinks() {
     if (!node || !Array.isArray(node.children)) return;
     const out = [];
     for (const child of node.children) {
+      if (DISABLE_AMAZON && child && child.type === 'element') {
+        const href = child.properties && typeof child.properties.href === 'string' ? child.properties.href : '';
+        const src = child.properties && typeof child.properties.src === 'string' ? child.properties.src : '';
+        if (child.tagName === 'a' && (/^(https?:\/\/(www\.)?subaudit\.org)?\/products(\/|$)/i.test(href) || isAmazonHref(href))) {
+          walk(child);
+          out.push(...(child.children || []));
+          continue;
+        }
+        if (child.tagName === 'img' && isAmazonHref(src)) continue;
+      }
       if (
+        !DISABLE_AMAZON &&
         child &&
         child.type === 'element' &&
         child.tagName === 'a' &&

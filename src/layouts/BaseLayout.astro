@@ -3,8 +3,6 @@ import '@/styles/global.css';
 import Header from '@/components/Header.astro';
 import SkipLink from '@/components/SkipLink.astro';
 import Footer from '@/components/Footer.astro';
-import GlobalBottomAffiliateStrip from '@/components/GlobalBottomAffiliateStrip.astro';
-import SiteSectionAds from '@/components/SiteSectionAds.astro';
 import type { SectionPage } from '@/lib/section-page';
 import home from '@/data/spawn-home.json';
 
@@ -17,17 +15,6 @@ const dmeta = (home as { defaultMetaDescription?: string }).defaultMetaDescripti
 // can flip from not_connected to live without code changes.
 const ga = (home as { analytics?: { ga_measurement_id?: string; ga_property_id?: string; search_console_property?: string } }).analytics;
 const gaMeasurementId = (ga?.ga_measurement_id || '').trim();
-
-// ── Ad injection: derive site slug for utm_source ────────────────────────────
-// The slug is the ONLY thing baked into HTML for the ad system.
-// utm_source is assembled at click-link time in inject.js from this slug.
-// It is never stored in the manifest, making cross-site UTM leakage impossible.
-const rawBrandName: string =
-  (home as { brand?: { shortName?: string; fullName?: string } }).brand?.shortName ||
-  (home as { brand?: { fullName?: string } }).brand?.fullName ||
-  (home as { siteSlug?: string }).siteSlug ||
-  'subaudit';
-const adSiteSlug = rawBrandName.toLowerCase().replace(/[^a-z0-9-]/g, '');
 
 export interface Props {
   title: string;
@@ -143,30 +130,14 @@ const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toStrin
       </>
     )}
 
-    {/* ── Ad injection system v3 ──────────────────────────────────────────────
-        slots.css reserves min-heights before JS fires (prevents CLS).
-        The slug below is the SOLE source of utm_source across the ad system.
-        inject.js reads window.__AD_SITE_SLUG__ — never the manifest.
-        Changing the manifest (offer copy, stores, weights) propagates to ALL
-        sites within 5 minutes, with zero rebuilds. */}
-    <link rel="stylesheet" href="/ads/slots.css" />
-    <script set:html={`window.__AD_SITE_SLUG__="${adSiteSlug}";`} />
-    <script src="https://ads.rickyscontrolcenter.com/inject.js" defer></script>
     <script async src="https://rickyscontrolcenter.com/assets/rcc-events.js"></script>
   </head>
   <body class="min-h-screen flex flex-col site-page-bg texture-paper">
     <SkipLink />
     <Header />
-    {sectionAds && (
-      <div class="site-top-ad-band border-b border-cream-200/70 bg-cream-50/95 py-0">
-        <SiteSectionAds page={sectionAds} variant="header" compact={sectionAdsCompact} />
-      </div>
-    )}
     <main id="main-content" class="flex-1" tabindex="-1">
       <slot />
-      {sectionAds && sectionAdsFooter && <SiteSectionAds page={sectionAds} variant="footer" />}
     </main>
-    <GlobalBottomAffiliateStrip />
     <Footer />
   </body>
 </html>

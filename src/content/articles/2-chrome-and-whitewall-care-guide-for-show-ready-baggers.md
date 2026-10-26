@@ -225,7 +225,3 @@ Work in shade when possible. Direct sunlight dries products too fast, causing st
 
 Full polish and seal before storage, then cover the bike with a breathable cover (not a plastic tarp, which traps moisture). Apply a layer of whitewall protectant to tires and a coat of chrome sealant to all exposed metal. In a climate-controlled garage, oxidation is minimal. In unheated storage, humidity is your enemy—moisture in the air attacks chrome constantly. A small automotive dehumidifier in the storage space helps a lot. Check the bike monthly and reapply sealant if needed before riding season starts.
 
-## Our picks worth a closer look
-
-- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
-

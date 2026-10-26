@@ -187,10 +187,3 @@ A: Yes, washable covers are essential for maintaining hygiene, especially for se
 **Q: Can orthopedic dog beds help with other joint issues besides arthritis?**  
 A: Absolutely, orthopedic beds can also alleviate discomfort from hip dysplasia, spinal problems, and general joint stiffness in aging dogs.
 
-## Our picks worth a closer look
-
-- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
-- **[Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/)** — see current price and specs.
-- **[Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set/)** — see current price and specs.
-- **[LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/)** — see current price and specs.
-

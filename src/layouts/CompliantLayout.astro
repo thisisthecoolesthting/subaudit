@@ -38,17 +38,4 @@ const headJsonLd = baseProps.jsonLd ?? articleJsonLd;
     </p>
   )}
 
-  <script is:inline>
-    (() => {
-      const firstCard = document.querySelector('[data-content-card]');
-      if (!firstCard || firstCard.querySelector('[data-amazon-associates-note]')) return;
-      const target = firstCard.querySelector('[data-card-content]') || firstCard;
-      const note = document.createElement('p');
-      note.setAttribute('data-amazon-associates-note', 'true');
-      note.setAttribute('role', 'note');
-      note.className = 'text-xs text-ink-500 leading-snug mb-2';
-      note.textContent = 'We may earn a commission from links on this site. It never changes our picks.';
-      target.insertBefore(note, target.firstChild);
-    })();
-  </script>
 </BaseLayout>

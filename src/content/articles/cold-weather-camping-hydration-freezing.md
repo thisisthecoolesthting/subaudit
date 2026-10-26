@@ -19,7 +19,6 @@ tags:
 author: marcus-webb
 ---
 
-*CampDeck is reader-supported. We earn a commission when you purchase through our links, but we never accept free gear or paid placements. All items are bought at retail and tested in the field on real trips.*
 
 Winter camping is an exercise in thermodynamics. When the mercury drops, the biggest challenge isn't just staying warm—it’s keeping your hydration systems functional. If you aren't careful, you’ll spend your morning melting snow for an hour just to get a drink, which is a massive waste of precious fuel.
 
@@ -69,10 +68,4 @@ If you are hiking in sub-zero temperatures, keep your filter in an internal pock
 - **Hydrate Before You Sleep:** It’s counterintuitive because you don’t want to get out of your [sleeping bag](/articles/best-sleeping-bag-for-cold-weather-camping/) to pee, but being dehydrated makes you significantly more susceptible to cold. Your body burns more calories keeping hydrated blood circulating. Drink a half-liter of warm water before bed, and keep another half-liter ready for the moment you wake up.
 
 Winter camping requires a shift in mindset. You stop viewing water as a simple resource and start viewing it as a piece of gear that needs to be managed, protected, and monitored. If you respect the freezing point, you’ll spend less time fighting your equipment and more time enjoying the silence of the backcountry.
-
-## Our picks worth a closer look
-
-- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
-- **[LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/)** — see current price and specs.
-- **[RCA Roku Smart Home Theater Projector - Stream Netflix, Prime Video, Hulu, Disne](/products/b083td3v4j-rca-roku-smart-home-theater-projector-stream-netflix-prime-v/)** — see current price and specs.
 

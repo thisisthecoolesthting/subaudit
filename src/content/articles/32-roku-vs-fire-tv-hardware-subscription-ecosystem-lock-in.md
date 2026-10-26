@@ -142,7 +142,3 @@ Roku promotes The Roku Channel, including optional premium add-ons, but it is le
 
 Fire TV integrates Alexa deeply, allowing you to control content, smart home devices, and even shop by voice. Roku supports Roku Voice and some devices have Google Assistant compatibility, but Alexa on Fire TV tends to be more powerful and integrated.
 
-## Our picks worth a closer look
-
-- **[RCA Roku Smart Home Theater Projector - Stream Netflix, Prime Video, Hulu, Disne](/products/b083td3v4j-rca-roku-smart-home-theater-projector-stream-netflix-prime-v/)** — see current price and specs.
-
